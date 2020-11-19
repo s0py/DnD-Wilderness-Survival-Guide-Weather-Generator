@@ -21,7 +21,7 @@ The output is in .csv because it's what I'm most used to.
 ** humiditymod
    this is the %humidity
 ** wind
-   the windspeed in mph
+   the windspeed in mph. This is the max that any gust will be throughout the day. the windspeed at any time is typically less than half this value.
 ** windir
    the direction the wind is coming from. Prevailing Direction is the direction wind typically comes from for the given area.
 ** eff_high

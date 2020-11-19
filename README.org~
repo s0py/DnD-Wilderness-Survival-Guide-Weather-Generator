@@ -1,5 +1,7 @@
 * D&D 1e Wilderness Survival Guide - python
 This is a python script that generates weather exactly* the same as is described in the 1e Wilderness Survival Guide Appendix. The only thing that isn't added is the effect of humidity on any given day by the precipitation on the next day.
+Also contained in the repo are pre-generated files for all combinations of region and biome for 5 years. You shouldn't need to even download the program if all you want is weather.
+The year starts in Spring.
 * How to read the output
 The output is in .csv because it's what I'm most used to.
 ** day
