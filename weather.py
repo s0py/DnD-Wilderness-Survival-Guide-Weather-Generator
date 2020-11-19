@@ -144,6 +144,8 @@ for day_raw in range(0,days):
 					low = -50
 				else:
 					temp_today = min_lo - 1
+					high = int(hi[temp_today])
+					low = int(lo[temp_today])
 
 		#hurricane
 		if special_weather[temp_id][season][special_id] == 2:
@@ -220,6 +222,8 @@ for day_raw in range(0,days):
 					low = 90
 				else:
 					temp_today = max_hi + 1
+					high = int(hi[temp_today])
+					low = int(lo[temp_today])
 
 	special_duration -= 1
 	if special_duration < 1:
@@ -391,23 +395,24 @@ for day_raw in range(0,days):
 # extreme precipitation requries us to have already done a lot of stuff
 	if spec == "Extreme Precipitation":
 		x_die = random.randint(1,6)
-		if temp < 0:
+
+		if temp_today < 0:
 			rain_text = "No Precipitation"
 			if region < 3:
 				if x_die < 4:
 					rain_text = "Severe Snowstorm"
-		elif -1 < temp < 10:
+		elif -1 < temp_today < 10:
 			rain_text = "No Precipitation"
 			if region < 3:
 				if x_die < 6:
 					rain_text = "Severe Snowstorm"
-		elif 9 < temp < 30:
+		elif 9 < temp_today < 30:
 			if region < 3:
 				if x_die < 6:
 					rain_text = "Severe Snowstorm"
 				if x_die == 6:
 					rain_text = "Ice/Sleet Storm"
-		elif 29 < temp < 36:
+		elif 29 < temp_today < 36:
 			if region < 3:
 				if x_die < 5:
 					rain_text = "Severe Snowstorm"
@@ -417,7 +422,7 @@ for day_raw in range(0,days):
 					rain_text = "Ice/Sleet Storm"
 			if region > 2:
 				rain_text = "Hailstorm"
-		elif 35 < temp < 50:
+		elif 35 < temp_today < 50:
 			if region < 3:
 				if x_die < 5:
 					rain_text = "Lightning Storm"
@@ -427,13 +432,13 @@ for day_raw in range(0,days):
 				rain_text = "Lightning Storm"
 				if x_die == 6:
 					rain_text = "Hailstorm"
-		elif 49 < temp < 75:
+		elif 49 < temp_today < 75:
 			rain_text = "Lightning Storm"
 			if region < 3:
 				rain_text = "Lightning Storm"
 				if x_die == 6:
 					rain_text = "Hailstorm"
-		elif 74 < temp:
+		elif 74 < temp_today:
 			rain_text = "Lightning Storm"
 
 #output
