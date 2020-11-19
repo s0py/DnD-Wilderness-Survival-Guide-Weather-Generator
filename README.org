@@ -30,3 +30,5 @@ The output is in .csv because it's what I'm most used to.
    this is the effective low temperature considering humidity and windchill
 ** spec
    if there is any special weather it is indicated here
+* License:
+Whatever the latest GPL is.
