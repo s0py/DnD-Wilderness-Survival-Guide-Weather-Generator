@@ -1,0 +1,1681 @@
+day, weekday, month, monthday, hi, lo, precip, humiditymod, wind, windir, eff_high, eff_low, spec
+0, Lunadain, Thaumont, 1, 95, 75, No Precipitation, 28, 0, Indescernable, 105, 80, Normal
+1, Gromdain, Thaumont, 2, 100, 80, No Precipitation, 33, 0, Indescernable, 110, 85, Normal
+2, Tserdain, Thaumont, 3, 90, 75, No Precipitation, 37, 15, Prevailing Direction, 95, 80, Normal
+3, Moldain, Thaumont, 4, 85, 70, No Precipitation, 23, 30, From Arctic, 90, 70, Normal
+4, Nytdain, Thaumont, 5, 85, 70, No Precipitation, 38, 30, Prevailing Direction, 90, 70, Normal
+5, Loshdain, Thaumont, 6, 90, 70, No Precipitation, 39, 15, Prevailing Direction, 95, 70, Normal
+6, Soladain, Thaumont, 7, 90, 75, No Precipitation, 34, 5, Prevailing Direction, 95, 80, Normal
+7, Lunadain, Thaumont, 8, 95, 75, No Precipitation, 26, 0, Indescernable, 105, 80, Normal
+8, Gromdain, Thaumont, 9, 90, 75, No Precipitation, 32, 10, Prevailing Direction, 95, 80, Normal
+9, Tserdain, Thaumont, 10, 90, 70, No Precipitation, 40, 25, Prevailing Direction, 95, 70, Normal
+10, Moldain, Thaumont, 11, 85, 70, No Precipitation, 37, 35, Prevailing Direction, 90, 70, Normal
+11, Nytdain, Thaumont, 12, 80, 65, Trace Rain (<1/8 inch), 27, 45, From Arctic, 80, 65, Normal
+12, Loshdain, Thaumont, 13, 80, 60, No Precipitation, 31, 45, Prevailing Direction, 80, 60, Normal
+13, Soladain, Thaumont, 14, 80, 65, No Precipitation, 21, 30, Prevailing Direction, 80, 65, Normal
+14, Lunadain, Thaumont, 15, 75, 55, No Precipitation, 23, 45, From Arctic, 75, 55, Normal
+15, Gromdain, Thaumont, 16, 80, 60, No Precipitation, 30, 45, Prevailing Direction, 80, 60, Normal
+16, Tserdain, Thaumont, 17, 85, 65, No Precipitation, 24, 35, From Tropics, 90, 65, Normal
+17, Moldain, Thaumont, 18, 85, 70, No Precipitation, 24, 25, Prevailing Direction, 90, 70, Normal
+18, Nytdain, Thaumont, 19, 80, 65, No Precipitation, 22, 40, From Arctic, 80, 65, Normal
+19, Loshdain, Thaumont, 20, 80, 60, No Precipitation, 38, 45, Prevailing Direction, 80, 60, Normal
+20, Soladain, Thaumont, 21, 80, 60, No Precipitation, 23, 45, Prevailing Direction, 80, 60, Normal
+21, Lunadain, Thaumont, 22, 80, 65, No Precipitation, 32, 35, Prevailing Direction, 80, 65, Normal
+22, Gromdain, Thaumont, 23, 80, 60, No Precipitation, 39, 45, Prevailing Direction, 80, 60, Normal
+23, Tserdain, Thaumont, 24, 80, 65, No Precipitation, 34, 35, Prevailing Direction, 80, 65, Normal
+24, Moldain, Thaumont, 25, 85, 70, No Precipitation, 31, 25, From Tropics, 90, 70, Normal
+25, Nytdain, Thaumont, 26, 90, 70, No Precipitation, 24, 15, Prevailing Direction, 95, 70, Normal
+26, Loshdain, Thaumont, 27, 90, 75, No Precipitation, 22, 0, Indescernable, 95, 80, Normal
+27, Soladain, Thaumont, 28, 100, 80, No Precipitation, 23, 0, Indescernable, 110, 85, Normal
+28, Lunadain, Flaurmont, 1, 105, 80, No Precipitation, 29, 0, Indescernable, 115, 85, Normal
+29, Gromdain, Flaurmont, 2, 95, 75, Trace Rain (<1/8 inch), 30, 10, From Arctic, 105, 80, Normal
+30, Tserdain, Flaurmont, 3, 90, 75, No Precipitation, 33, 25, Prevailing Direction, 95, 75, Normal
+31, Moldain, Flaurmont, 4, 95, 75, No Precipitation, 30, 15, Prevailing Direction, 105, 80, Normal
+32, Nytdain, Flaurmont, 5, 100, 80, No Precipitation, 37, 0, Indescernable, 110, 85, Normal
+33, Loshdain, Flaurmont, 6, 90, 70, Light Rain (<1/2 inch), 40, 0, Indescernable, 95, 70, Normal
+34, Soladain, Flaurmont, 7, 90, 75, No Precipitation, 40, 0, Indescernable, 95, 80, Normal
+35, Lunadain, Flaurmont, 8, 90, 75, No Precipitation, 34, 0, Indescernable, 95, 80, Normal
+36, Gromdain, Flaurmont, 9, 85, 65, Light Rain (<1/2 inch), 34, 0, Indescernable, 90, 65, Normal
+37, Tserdain, Flaurmont, 10, 90, 70, No Precipitation, 35, 0, Indescernable, 95, 70, Normal
+38, Moldain, Flaurmont, 11, 90, 70, No Precipitation, 26, 0, Indescernable, 95, 70, Normal
+39, Nytdain, Flaurmont, 12, 100, 80, No Precipitation, 23, 0, Indescernable, 110, 85, Drought
+40, Loshdain, Flaurmont, 13, 100, 80, No Precipitation, 37, 0, Indescernable, 110, 85, Drought
+41, Soladain, Flaurmont, 14, 100, 80, No Precipitation, 37, 0, Indescernable, 110, 85, Drought
+42, Lunadain, Flaurmont, 15, 90, 70, No Precipitation, 40, 0, Indescernable, 95, 70, Drought
+43, Gromdain, Flaurmont, 16, 85, 65, No Precipitation, 23, 15, From Arctic, 90, 65, Drought
+44, Tserdain, Flaurmont, 17, 85, 65, No Precipitation, 39, 15, Prevailing Direction, 90, 65, Drought
+45, Moldain, Flaurmont, 18, 80, 60, No Precipitation, 34, 30, From Arctic, 80, 60, Drought
+46, Nytdain, Flaurmont, 19, 80, 60, Trace Rain (<1/8 inch), 33, 40, Prevailing Direction, 80, 60, Normal
+47, Loshdain, Flaurmont, 20, 80, 65, Trace Rain (<1/8 inch), 22, 30, Prevailing Direction, 80, 65, Normal
+48, Soladain, Flaurmont, 21, 80, 60, Trace Rain (<1/8 inch), 34, 40, Prevailing Direction, 80, 60, Normal
+49, Lunadain, Flaurmont, 22, 80, 65, No Precipitation, 32, 40, Prevailing Direction, 80, 65, Normal
+50, Gromdain, Flaurmont, 23, 80, 60, No Precipitation, 26, 45, From Arctic, 80, 60, Normal
+51, Tserdain, Flaurmont, 24, 80, 65, No Precipitation, 38, 45, Prevailing Direction, 80, 65, Normal
+52, Moldain, Flaurmont, 25, 85, 70, No Precipitation, 39, 30, From Tropics, 90, 70, Normal
+53, Nytdain, Flaurmont, 26, 85, 65, No Precipitation, 36, 40, Prevailing Direction, 85, 65, Normal
+54, Loshdain, Flaurmont, 27, 85, 65, No Precipitation, 25, 40, Prevailing Direction, 85, 65, Normal
+55, Soladain, Flaurmont, 28, 85, 70, No Precipitation, 33, 30, Prevailing Direction, 90, 70, Normal
+56, Lunadain, Yarthmont, 1, 90, 75, No Precipitation, 27, 15, Prevailing Direction, 95, 80, Normal
+57, Gromdain, Yarthmont, 2, 90, 75, No Precipitation, 34, 15, Prevailing Direction, 95, 80, Normal
+58, Tserdain, Yarthmont, 3, 90, 70, No Precipitation, 27, 25, Prevailing Direction, 95, 70, Normal
+59, Moldain, Yarthmont, 4, 90, 70, No Precipitation, 36, 25, Prevailing Direction, 95, 70, Normal
+60, Nytdain, Yarthmont, 5, 90, 75, No Precipitation, 32, 15, Prevailing Direction, 95, 80, Normal
+61, Loshdain, Yarthmont, 6, 95, 75, No Precipitation, 39, 5, Prevailing Direction, 105, 80, Normal
+62, Soladain, Yarthmont, 7, 90, 75, No Precipitation, 37, 15, Prevailing Direction, 95, 80, Normal
+63, Lunadain, Yarthmont, 8, 90, 70, No Precipitation, 21, 30, Prevailing Direction, 95, 70, Normal
+64, Gromdain, Yarthmont, 9, 95, 75, No Precipitation, 40, 20, From Tropics, 100, 75, Normal
+65, Tserdain, Yarthmont, 10, 100, 80, No Precipitation, 30, 5, Prevailing Direction, 110, 85, Normal
+66, Moldain, Yarthmont, 11, 115, 85, No Precipitation, 27, 0, Indescernable, 125, 90, Normal
+67, Nytdain, Yarthmont, 12, 105, 80, No Precipitation, 39, 0, Indescernable, 115, 85, Normal
+68, Loshdain, Yarthmont, 13, 95, 75, Trace Rain (<1/8 inch), 33, 10, From Arctic, 105, 80, Normal
+69, Soladain, Yarthmont, 14, 90, 75, No Precipitation, 24, 25, Prevailing Direction, 95, 75, Normal
+70, Lunadain, Yarthmont, 15, 85, 70, No Precipitation, 27, 40, From Arctic, 85, 70, Normal
+71, Gromdain, Yarthmont, 16, 90, 70, No Precipitation, 34, 30, Prevailing Direction, 95, 70, Normal
+72, Tserdain, Yarthmont, 17, 95, 75, No Precipitation, 21, 15, From Tropics, 105, 80, Normal
+73, Moldain, Yarthmont, 18, 90, 70, No Precipitation, 22, 30, From Arctic, 95, 70, Normal
+74, Nytdain, Yarthmont, 19, 90, 70, No Precipitation, 29, 30, Prevailing Direction, 95, 70, Normal
+75, Loshdain, Yarthmont, 20, 95, 75, No Precipitation, 40, 20, From Tropics, 100, 75, Normal
+76, Soladain, Yarthmont, 21, 100, 80, No Precipitation, 31, 10, Prevailing Direction, 110, 85, Normal
+77, Lunadain, Yarthmont, 22, 115, 85, No Precipitation, 22, 0, Indescernable, 125, 90, Normal
+78, Gromdain, Yarthmont, 23, 115, 85, No Precipitation, 36, 0, Indescernable, 125, 90, Normal
+79, Tserdain, Yarthmont, 24, 105, 80, No Precipitation, 32, 0, Indescernable, 115, 85, Normal
+80, Moldain, Yarthmont, 25, 100, 80, No Precipitation, 30, 15, Prevailing Direction, 110, 85, Normal
+81, Nytdain, Yarthmont, 26, 105, 80, No Precipitation, 32, 0, Indescernable, 115, 85, Normal
+82, Loshdain, Yarthmont, 27, 105, 80, No Precipitation, 32, 0, Indescernable, 115, 85, Normal
+83, Soladain, Yarthmont, 28, 115, 85, No Precipitation, 39, 0, Indescernable, 125, 90, Normal
+84, Lunadain, Klairmont, 1, 100, 80, No Precipitation, 36, 10, From Arctic, 110, 85, Normal
+85, Gromdain, Klairmont, 2, 100, 80, No Precipitation, 34, 10, Prevailing Direction, 110, 85, Normal
+86, Tserdain, Klairmont, 3, 105, 80, No Precipitation, 32, 0, Indescernable, 115, 85, Normal
+87, Moldain, Klairmont, 4, 115, 85, No Precipitation, 33, 0, Indescernable, 125, 90, Normal
+88, Nytdain, Klairmont, 5, 115, 85, No Precipitation, 26, 0, Indescernable, 125, 90, Normal
+89, Loshdain, Klairmont, 6, 115, 85, Trace Rain (<1/8 inch), 22, 0, Indescernable, 125, 90, Normal
+90, Soladain, Klairmont, 7, 115, 85, No Precipitation, 30, 0, Indescernable, 125, 90, Normal
+91, Lunadain, Klairmont, 8, 100, 80, No Precipitation, 24, 15, Prevailing Direction, 110, 85, Normal
+92, Gromdain, Klairmont, 9, 95, 75, Trace Rain (<1/8 inch), 25, 25, Prevailing Direction, 100, 75, Normal
+93, Tserdain, Klairmont, 10, 95, 75, No Precipitation, 27, 25, Prevailing Direction, 100, 75, Normal
+94, Moldain, Klairmont, 11, 90, 75, No Precipitation, 36, 40, From Arctic, 90, 75, Normal
+95, Nytdain, Klairmont, 12, 95, 75, No Precipitation, 25, 30, Prevailing Direction, 100, 75, Normal
+96, Loshdain, Klairmont, 13, 90, 75, No Precipitation, 34, 40, From Arctic, 90, 75, Normal
+97, Soladain, Klairmont, 14, 95, 75, Trace Rain (<1/8 inch), 25, 30, Prevailing Direction, 100, 75, Normal
+98, Lunadain, Klairmont, 15, 105, 80, No Precipitation, 38, 15, From Tropics, 115, 85, Normal
+99, Gromdain, Klairmont, 16, 100, 80, No Precipitation, 39, 25, Prevailing Direction, 105, 80, Normal
+100, Tserdain, Klairmont, 17, 90, 75, Trace Rain (<1/8 inch), 33, 0, Indescernable, 95, 80, Normal
+101, Moldain, Klairmont, 18, 90, 75, No Precipitation, 32, 15, Prevailing Direction, 95, 80, Normal
+102, Nytdain, Klairmont, 19, 100, 80, No Precipitation, 34, 0, Indescernable, 110, 85, Normal
+103, Loshdain, Klairmont, 20, 90, 75, No Precipitation, 26, 15, From Arctic, 95, 80, Normal
+104, Soladain, Klairmont, 21, 95, 75, No Precipitation, 33, 5, Prevailing Direction, 105, 80, Normal
+105, Lunadain, Klairmont, 22, 90, 75, No Precipitation, 31, 15, Prevailing Direction, 95, 80, Normal
+106, Gromdain, Klairmont, 23, 100, 80, No Precipitation, 33, 0, Indescernable, 110, 85, Normal
+107, Tserdain, Klairmont, 24, 105, 80, Trace Rain (<1/8 inch), 36, 0, Indescernable, 115, 85, Normal
+108, Moldain, Klairmont, 25, 115, 85, No Precipitation, 29, 0, Indescernable, 125, 90, Normal
+109, Nytdain, Klairmont, 26, 100, 80, Trace Rain (<1/8 inch), 28, 10, From Arctic, 110, 85, Normal
+110, Loshdain, Klairmont, 27, 115, 85, No Precipitation, 40, 0, Indescernable, 125, 90, Drought
+111, Soladain, Klairmont, 28, 95, 75, No Precipitation, 24, 15, From Arctic, 105, 80, Drought
+112, Lunadain, Felmont, 1, 90, 75, No Precipitation, 38, 25, Prevailing Direction, 95, 75, Drought
+113, Gromdain, Felmont, 2, 95, 75, No Precipitation, 29, 25, Prevailing Direction, 100, 75, Drought
+114, Tserdain, Felmont, 3, 100, 80, No Precipitation, 35, 15, Prevailing Direction, 110, 85, Drought
+115, Moldain, Felmont, 4, 105, 80, No Precipitation, 29, 5, Prevailing Direction, 115, 85, Drought
+116, Nytdain, Felmont, 5, 100, 80, No Precipitation, 21, 15, Prevailing Direction, 110, 85, Drought
+117, Loshdain, Felmont, 6, 105, 80, No Precipitation, 37, 0, Indescernable, 115, 85, Drought
+118, Soladain, Felmont, 7, 115, 85, No Precipitation, 24, 0, Indescernable, 125, 90, Normal
+119, Lunadain, Felmont, 8, 115, 85, No Precipitation, 22, 0, Indescernable, 125, 90, Normal
+120, Gromdain, Felmont, 9, 100, 80, No Precipitation, 22, 15, Prevailing Direction, 110, 85, Normal
+121, Tserdain, Felmont, 10, 95, 75, No Precipitation, 26, 30, Prevailing Direction, 100, 75, Normal
+122, Moldain, Felmont, 11, 100, 80, Trace Rain (<1/8 inch), 39, 20, Prevailing Direction, 105, 80, Normal
+123, Nytdain, Felmont, 12, 105, 80, No Precipitation, 38, 5, Prevailing Direction, 115, 85, Normal
+124, Loshdain, Felmont, 13, 115, 85, No Precipitation, 31, 0, Indescernable, 125, 90, Normal
+125, Soladain, Felmont, 14, 95, 75, No Precipitation, 31, 15, From Arctic, 105, 80, Normal
+126, Lunadain, Felmont, 15, 90, 75, Trace Rain (<1/8 inch), 39, 25, Prevailing Direction, 95, 75, Normal
+127, Gromdain, Felmont, 16, 90, 75, No Precipitation, 29, 40, Prevailing Direction, 90, 75, Normal
+128, Tserdain, Felmont, 17, 100, 80, No Precipitation, 35, 30, From Tropics, 105, 80, Normal
+129, Moldain, Felmont, 18, 100, 80, No Precipitation, 39, 30, Prevailing Direction, 105, 80, Normal
+130, Nytdain, Felmont, 19, 105, 80, No Precipitation, 39, 15, Prevailing Direction, 115, 85, Normal
+131, Loshdain, Felmont, 20, 105, 80, No Precipitation, 29, 15, Prevailing Direction, 115, 85, Normal
+132, Soladain, Felmont, 21, 115, 85, Trace Rain (<1/8 inch), 34, 5, From Tropics, 125, 90, Normal
+133, Lunadain, Felmont, 22, 105, 80, No Precipitation, 22, 15, Prevailing Direction, 115, 85, Normal
+134, Gromdain, Felmont, 23, 100, 80, No Precipitation, 34, 25, Prevailing Direction, 105, 80, Normal
+135, Tserdain, Felmont, 24, 90, 75, No Precipitation, 35, 40, From Arctic, 90, 75, Normal
+136, Moldain, Felmont, 25, 90, 75, No Precipitation, 32, 45, From Arctic, 90, 75, Normal
+137, Nytdain, Felmont, 26, 105, 80, No Precipitation, 37, 30, From Tropics, 110, 80, Normal
+138, Loshdain, Felmont, 27, 115, 85, No Precipitation, 28, 15, Prevailing Direction, 125, 90, Normal
+139, Soladain, Felmont, 28, 115, 85, No Precipitation, 26, 5, Prevailing Direction, 125, 90, Normal
+140, Lunadain, Fyrmont, 1, 105, 80, No Precipitation, 27, 5, Prevailing Direction, 115, 85, Normal
+141, Gromdain, Fyrmont, 2, 105, 80, No Precipitation, 25, 0, Indescernable, 115, 85, Normal
+142, Tserdain, Fyrmont, 3, 105, 80, No Precipitation, 29, 0, Indescernable, 115, 85, Normal
+143, Moldain, Fyrmont, 4, 95, 75, Trace Rain (<1/8 inch), 26, 10, From Arctic, 105, 80, Normal
+144, Nytdain, Fyrmont, 5, 100, 80, Trace Rain (<1/8 inch), 37, 0, Indescernable, 110, 85, Normal
+145, Loshdain, Fyrmont, 6, 90, 75, No Precipitation, 36, 15, From Arctic, 95, 80, Normal
+146, Soladain, Fyrmont, 7, 90, 75, No Precipitation, 31, 15, Prevailing Direction, 95, 80, Normal
+147, Lunadain, Fyrmont, 8, 90, 75, No Precipitation, 33, 15, Prevailing Direction, 95, 80, Normal
+148, Gromdain, Fyrmont, 9, 100, 80, Trace Rain (<1/8 inch), 22, 5, From Tropics, 110, 85, Normal
+149, Tserdain, Fyrmont, 10, 100, 80, No Precipitation, 33, 5, Prevailing Direction, 110, 85, Normal
+150, Moldain, Fyrmont, 11, 105, 80, No Precipitation, 30, 0, Indescernable, 115, 85, Normal
+151, Nytdain, Fyrmont, 12, 105, 80, No Precipitation, 24, 0, Indescernable, 115, 85, Normal
+152, Loshdain, Fyrmont, 13, 100, 80, No Precipitation, 30, 10, Prevailing Direction, 110, 85, Normal
+153, Soladain, Fyrmont, 14, 105, 80, Light Rain (<1/2 inch), 29, 0, Indescernable, 115, 85, Normal
+154, Lunadain, Fyrmont, 15, 105, 80, No Precipitation, 24, 0, Indescernable, 115, 85, Normal
+155, Gromdain, Fyrmont, 16, 100, 80, No Precipitation, 28, 0, Indescernable, 110, 85, Normal
+156, Tserdain, Fyrmont, 17, 105, 80, Light Rain (<1/2 inch), 32, 0, Indescernable, 115, 85, Normal
+157, Moldain, Fyrmont, 18, 95, 75, No Precipitation, 37, 15, Prevailing Direction, 105, 80, Normal
+158, Nytdain, Fyrmont, 19, 90, 75, No Precipitation, 25, 30, Prevailing Direction, 95, 75, Normal
+159, Loshdain, Fyrmont, 20, 90, 70, Light Rain (<1/2 inch), 29, 0, Indescernable, 95, 70, Normal
+160, Soladain, Fyrmont, 21, 90, 75, No Precipitation, 22, 0, Indescernable, 95, 80, Normal
+161, Lunadain, Fyrmont, 22, 90, 75, No Precipitation, 32, 0, Indescernable, 95, 80, Normal
+162, Gromdain, Fyrmont, 23, 90, 70, No Precipitation, 29, 15, Prevailing Direction, 95, 70, Normal
+163, Tserdain, Fyrmont, 24, 95, 75, No Precipitation, 26, 0, Indescernable, 105, 80, Normal
+164, Moldain, Fyrmont, 25, 100, 80, No Precipitation, 31, 0, Indescernable, 110, 85, Normal
+165, Nytdain, Fyrmont, 26, 105, 80, No Precipitation, 21, 0, Indescernable, 115, 85, Normal
+166, Loshdain, Fyrmont, 27, 105, 80, No Precipitation, 24, 0, Indescernable, 115, 85, Normal
+167, Soladain, Fyrmont, 28, 100, 80, No Precipitation, 35, 0, Indescernable, 110, 85, Normal
+168, Lunadain, Ambyrmont, 1, 100, 80, No Precipitation, 24, 0, Indescernable, 110, 85, Normal
+169, Gromdain, Ambyrmont, 2, 100, 80, Trace Rain (<1/8 inch), 36, 0, Indescernable, 110, 85, Normal
+170, Tserdain, Ambyrmont, 3, 95, 75, No Precipitation, 38, 0, Indescernable, 105, 80, Normal
+171, Moldain, Ambyrmont, 4, 100, 80, No Precipitation, 27, 0, Indescernable, 110, 85, Normal
+172, Nytdain, Ambyrmont, 5, 100, 80, No Precipitation, 36, 0, Indescernable, 110, 85, Normal
+173, Loshdain, Ambyrmont, 6, 100, 80, No Precipitation, 40, 0, Indescernable, 110, 85, Normal
+174, Soladain, Ambyrmont, 7, 90, 75, No Precipitation, 40, 15, Prevailing Direction, 95, 80, Normal
+175, Lunadain, Ambyrmont, 8, 95, 75, No Precipitation, 21, 5, Prevailing Direction, 105, 80, Normal
+176, Gromdain, Ambyrmont, 9, 90, 70, No Precipitation, 35, 0, Indescernable, 95, 70, Particle Storm
+177, Tserdain, Ambyrmont, 10, 90, 70, No Precipitation, 34, 15, Prevailing Direction, 95, 70, Normal
+178, Moldain, Ambyrmont, 11, 90, 70, No Precipitation, 34, 30, From Arctic, 95, 70, Normal
+179, Nytdain, Ambyrmont, 12, 95, 75, No Precipitation, 39, 20, From Tropics, 100, 75, Normal
+180, Loshdain, Ambyrmont, 13, 100, 80, No Precipitation, 37, 10, Prevailing Direction, 110, 85, Normal
+181, Soladain, Ambyrmont, 14, 100, 80, No Precipitation, 33, 0, Indescernable, 110, 85, Normal
+182, Lunadain, Ambyrmont, 15, 95, 75, No Precipitation, 21, 10, Prevailing Direction, 105, 80, Normal
+183, Gromdain, Ambyrmont, 16, 90, 70, Trace Rain (<1/8 inch), 32, 50, Prevailing, 90, 70, Gale
+184, Tserdain, Ambyrmont, 17, 90, 75, No Precipitation, 21, 40, Prevailing Direction, 90, 75, Normal
+185, Moldain, Ambyrmont, 18, 100, 80, No Precipitation, 21, 25, From Tropics, 105, 80, Normal
+186, Nytdain, Ambyrmont, 19, 95, 75, No Precipitation, 28, 25, Prevailing Direction, 100, 75, Normal
+187, Loshdain, Ambyrmont, 20, 95, 75, No Precipitation, 23, 25, Prevailing Direction, 100, 75, Normal
+188, Soladain, Ambyrmont, 21, 100, 80, No Precipitation, 26, 15, Prevailing Direction, 110, 85, Normal
+189, Lunadain, Ambyrmont, 22, 100, 80, No Precipitation, 34, 0, Indescernable, 110, 85, Normal
+190, Gromdain, Ambyrmont, 23, 95, 75, Trace Rain (<1/8 inch), 39, 10, Prevailing Direction, 105, 80, Normal
+191, Tserdain, Ambyrmont, 24, 90, 75, No Precipitation, 21, 20, Prevailing Direction, 95, 75, Normal
+192, Moldain, Ambyrmont, 25, 90, 70, No Precipitation, 31, 35, Prevailing Direction, 95, 70, Normal
+193, Nytdain, Ambyrmont, 26, 90, 75, No Precipitation, 36, 35, Prevailing Direction, 95, 75, Normal
+194, Loshdain, Ambyrmont, 27, 95, 75, No Precipitation, 22, 20, Prevailing Direction, 100, 75, Normal
+195, Soladain, Ambyrmont, 28, 100, 80, No Precipitation, 25, 10, Prevailing Direction, 110, 85, Normal
+196, Lunadain, Sviftmont, 1, 95, 75, No Precipitation, 23, 10, Prevailing Direction, 105, 80, Normal
+197, Gromdain, Sviftmont, 2, 90, 75, No Precipitation, 23, 20, Prevailing Direction, 95, 75, Normal
+198, Tserdain, Sviftmont, 3, 90, 75, No Precipitation, 32, 20, Prevailing Direction, 95, 75, Normal
+199, Moldain, Sviftmont, 4, 95, 75, No Precipitation, 21, 10, Prevailing Direction, 105, 80, Normal
+200, Nytdain, Sviftmont, 5, 90, 75, Trace Rain (<1/8 inch), 30, 20, Prevailing Direction, 95, 75, Normal
+201, Loshdain, Sviftmont, 6, 90, 70, No Precipitation, 29, 30, Prevailing Direction, 95, 70, Normal
+202, Soladain, Sviftmont, 7, 90, 70, No Precipitation, 29, 30, Prevailing Direction, 95, 70, Normal
+203, Lunadain, Sviftmont, 8, 85, 70, No Precipitation, 26, 40, Prevailing Direction, 85, 70, Normal
+204, Gromdain, Sviftmont, 9, 80, 65, No Precipitation, 26, 45, From Arctic, 80, 65, Normal
+205, Tserdain, Sviftmont, 10, 80, 65, No Precipitation, 36, 45, Prevailing Direction, 80, 65, Normal
+206, Moldain, Sviftmont, 11, 85, 65, No Precipitation, 21, 45, Prevailing Direction, 85, 65, Normal
+207, Nytdain, Sviftmont, 12, 90, 70, Trace Rain (<1/8 inch), 33, 35, From Tropics, 95, 70, Normal
+208, Loshdain, Sviftmont, 13, 85, 65, Trace Rain (<1/8 inch), 25, 45, From Arctic, 85, 65, Normal
+209, Soladain, Sviftmont, 14, 80, 65, No Precipitation, 39, 45, Prevailing Direction, 80, 65, Normal
+210, Lunadain, Sviftmont, 15, 80, 65, No Precipitation, 27, 45, From Arctic, 80, 65, Normal
+211, Gromdain, Sviftmont, 16, 85, 70, No Precipitation, 34, 30, Prevailing Direction, 90, 70, Normal
+212, Tserdain, Sviftmont, 17, 80, 65, No Precipitation, 34, 0, Indescernable, 85, 65, Particle Storm
+213, Moldain, Sviftmont, 18, 85, 65, No Precipitation, 27, 0, Indescernable, 90, 65, Normal
+214, Nytdain, Sviftmont, 19, 80, 65, No Precipitation, 34, 10, Prevailing Direction, 85, 65, Normal
+215, Loshdain, Sviftmont, 20, 85, 65, No Precipitation, 40, 0, Indescernable, 90, 65, Normal
+216, Soladain, Sviftmont, 21, 85, 70, No Precipitation, 38, 0, Indescernable, 90, 70, Normal
+217, Lunadain, Sviftmont, 22, 80, 65, Trace Rain (<1/8 inch), 35, 0, Indescernable, 85, 65, Normal
+218, Gromdain, Sviftmont, 23, 80, 65, No Precipitation, 34, 10, Prevailing Direction, 85, 65, Normal
+219, Tserdain, Sviftmont, 24, 80, 65, No Precipitation, 28, 25, Prevailing Direction, 80, 65, Normal
+220, Moldain, Sviftmont, 25, 90, 70, No Precipitation, 31, 0, Indescernable, 95, 70, Drought
+221, Nytdain, Sviftmont, 26, 90, 70, No Precipitation, 37, 0, Indescernable, 95, 70, Drought
+222, Loshdain, Sviftmont, 27, 85, 65, No Precipitation, 24, 10, From Arctic, 90, 65, Drought
+223, Soladain, Sviftmont, 28, 85, 65, No Precipitation, 23, 10, Prevailing Direction, 90, 65, Drought
+224, Lunadain, Eirmont, 1, 90, 70, No Precipitation, 32, 0, Indescernable, 95, 70, Drought
+225, Gromdain, Eirmont, 2, 90, 75, No Precipitation, 34, 0, Indescernable, 95, 80, Drought
+226, Tserdain, Eirmont, 3, 85, 65, No Precipitation, 40, 15, From Arctic, 90, 65, Drought
+227, Moldain, Eirmont, 4, 85, 70, No Precipitation, 33, 0, Indescernable, 90, 70, Drought
+228, Nytdain, Eirmont, 5, 85, 65, No Precipitation, 39, 15, Prevailing Direction, 90, 65, Drought
+229, Loshdain, Eirmont, 6, 85, 65, No Precipitation, 40, 15, Prevailing Direction, 90, 65, Drought
+230, Soladain, Eirmont, 7, 85, 65, No Precipitation, 24, 15, Prevailing Direction, 90, 65, Normal
+231, Lunadain, Eirmont, 8, 80, 65, No Precipitation, 34, 25, Prevailing Direction, 80, 65, Normal
+232, Gromdain, Eirmont, 9, 80, 60, No Precipitation, 22, 35, Prevailing Direction, 80, 60, Normal
+233, Tserdain, Eirmont, 10, 80, 60, No Precipitation, 39, 45, From Arctic, 80, 60, Normal
+234, Moldain, Eirmont, 11, 85, 65, No Precipitation, 39, 35, From Tropics, 90, 65, Normal
+235, Nytdain, Eirmont, 12, 80, 65, No Precipitation, 24, 45, Prevailing Direction, 80, 65, Normal
+236, Loshdain, Eirmont, 13, 80, 60, No Precipitation, 35, 45, From Arctic, 80, 60, Normal
+237, Soladain, Eirmont, 14, 80, 65, No Precipitation, 34, 35, Prevailing Direction, 80, 65, Normal
+238, Lunadain, Eirmont, 15, 85, 65, No Precipitation, 34, 25, Prevailing Direction, 90, 65, Normal
+239, Gromdain, Eirmont, 16, 80, 65, Trace Rain (<1/8 inch), 29, 35, Prevailing Direction, 80, 65, Normal
+240, Tserdain, Eirmont, 17, 85, 65, No Precipitation, 24, 25, Prevailing Direction, 90, 65, Normal
+241, Moldain, Eirmont, 18, 80, 60, No Precipitation, 30, 35, From Arctic, 80, 60, Normal
+242, Nytdain, Eirmont, 19, 85, 65, Trace Rain (<1/8 inch), 39, 25, From Tropics, 90, 65, Normal
+243, Loshdain, Eirmont, 20, 80, 65, No Precipitation, 31, 35, Prevailing Direction, 80, 65, Normal
+244, Soladain, Eirmont, 21, 80, 60, No Precipitation, 28, 45, Prevailing Direction, 80, 60, Normal
+245, Lunadain, Eirmont, 22, 80, 60, No Precipitation, 23, 45, From Arctic, 80, 60, Normal
+246, Gromdain, Eirmont, 23, 80, 60, No Precipitation, 35, 45, Prevailing Direction, 80, 60, Normal
+247, Tserdain, Eirmont, 24, 80, 60, No Precipitation, 26, 45, Prevailing Direction, 80, 60, Normal
+248, Moldain, Eirmont, 25, 85, 65, No Precipitation, 34, 30, Prevailing Direction, 90, 65, Normal
+249, Nytdain, Eirmont, 26, 90, 70, Trace Rain (<1/8 inch), 37, 20, From Tropics, 95, 70, Normal
+250, Loshdain, Eirmont, 27, 85, 65, No Precipitation, 26, 35, From Arctic, 90, 65, Normal
+251, Soladain, Eirmont, 28, 85, 65, No Precipitation, 38, 35, Prevailing Direction, 90, 65, Normal
+252, Lunadain, Kaldmont, 1, 80, 65, Trace Rain (<1/8 inch), 34, 45, Prevailing Direction, 80, 65, Normal
+253, Gromdain, Kaldmont, 2, 85, 65, Trace Rain (<1/8 inch), 25, 35, Prevailing Direction, 90, 65, Normal
+254, Tserdain, Kaldmont, 3, 80, 65, Trace Rain (<1/8 inch), 28, 45, Prevailing Direction, 80, 65, Normal
+255, Moldain, Kaldmont, 4, 85, 70, No Precipitation, 31, 35, From Tropics, 90, 70, Normal
+256, Nytdain, Kaldmont, 5, 85, 70, No Precipitation, 23, 35, Prevailing Direction, 90, 70, Normal
+257, Loshdain, Kaldmont, 6, 80, 65, Light Rain (<1/2 inch), 24, 45, From Arctic, 80, 65, Normal
+258, Soladain, Kaldmont, 7, 85, 65, No Precipitation, 22, 30, Prevailing Direction, 90, 65, Normal
+259, Lunadain, Kaldmont, 8, 85, 70, Trace Rain (<1/8 inch), 24, 20, Prevailing Direction, 90, 70, Normal
+260, Gromdain, Kaldmont, 9, 80, 65, No Precipitation, 35, 35, From Arctic, 80, 65, Normal
+261, Tserdain, Kaldmont, 10, 75, 55, Light Rain (<1/2 inch), 32, 60, Prevailing, 75, 55, Gale
+262, Moldain, Kaldmont, 11, 75, 55, No Precipitation, 27, 45, Prevailing Direction, 75, 55, Normal
+263, Nytdain, Kaldmont, 12, 75, 55, No Precipitation, 25, 45, Prevailing Direction, 75, 55, Normal
+264, Loshdain, Kaldmont, 13, 80, 60, Trace Rain (<1/8 inch), 39, 35, Prevailing Direction, 80, 60, Normal
+265, Soladain, Kaldmont, 14, 75, 55, No Precipitation, 31, 45, Prevailing Direction, 75, 55, Normal
+266, Lunadain, Kaldmont, 15, 75, 55, Light Rain (<1/2 inch), 24, 45, From Arctic, 75, 55, Normal
+267, Gromdain, Kaldmont, 16, 80, 60, No Precipitation, 23, 45, Prevailing Direction, 80, 60, Normal
+268, Tserdain, Kaldmont, 17, 85, 65, Trace Rain (<1/8 inch), 28, 35, From Tropics, 90, 65, Normal
+269, Moldain, Kaldmont, 18, 85, 65, No Precipitation, 21, 35, Prevailing Direction, 90, 65, Normal
+270, Nytdain, Kaldmont, 19, 90, 70, Trace Rain (<1/8 inch), 34, 25, From Tropics, 95, 70, Normal
+271, Loshdain, Kaldmont, 20, 85, 70, No Precipitation, 37, 25, Prevailing Direction, 90, 70, Normal
+272, Soladain, Kaldmont, 21, 90, 70, No Precipitation, 35, 10, Prevailing Direction, 95, 70, Normal
+273, Lunadain, Kaldmont, 22, 85, 65, No Precipitation, 35, 20, From Arctic, 90, 65, Normal
+274, Gromdain, Kaldmont, 23, 80, 60, No Precipitation, 32, 30, From Arctic, 80, 60, Normal
+275, Tserdain, Kaldmont, 24, 75, 55, No Precipitation, 36, 40, Prevailing Direction, 75, 55, Normal
+276, Moldain, Kaldmont, 25, 85, 65, No Precipitation, 40, 25, From Tropics, 90, 65, Normal
+277, Nytdain, Kaldmont, 26, 80, 65, No Precipitation, 27, 40, Prevailing Direction, 80, 65, Normal
+278, Loshdain, Kaldmont, 27, 75, 55, Trace Rain (<1/8 inch), 27, 45, From Arctic, 75, 55, Normal
+279, Soladain, Kaldmont, 28, 75, 55, Trace Rain (<1/8 inch), 37, 45, Prevailing Direction, 75, 55, Normal
+280, Lunadain, Nuwmont, 1, 75, 55, No Precipitation, 36, 45, From Arctic, 75, 55, Normal
+281, Gromdain, Nuwmont, 2, 80, 65, No Precipitation, 22, 30, Prevailing Direction, 80, 65, Normal
+282, Tserdain, Nuwmont, 3, 85, 70, No Precipitation, 29, 20, From Tropics, 90, 70, Normal
+283, Moldain, Nuwmont, 4, 80, 65, No Precipitation, 21, 30, From Arctic, 80, 65, Normal
+284, Nytdain, Nuwmont, 5, 80, 60, No Precipitation, 35, 45, Prevailing Direction, 80, 60, Normal
+285, Loshdain, Nuwmont, 6, 80, 65, No Precipitation, 34, 30, Prevailing Direction, 80, 65, Normal
+286, Soladain, Nuwmont, 7, 75, 55, No Precipitation, 39, 45, From Arctic, 75, 55, Normal
+287, Lunadain, Nuwmont, 8, 80, 60, Trace Rain (<1/8 inch), 33, 35, Prevailing Direction, 80, 60, Normal
+288, Gromdain, Nuwmont, 9, 85, 65, No Precipitation, 33, 20, From Tropics, 90, 65, Normal
+289, Tserdain, Nuwmont, 10, 80, 65, No Precipitation, 35, 35, Prevailing Direction, 80, 65, Normal
+290, Moldain, Nuwmont, 11, 85, 65, Trace Rain (<1/8 inch), 28, 25, Prevailing Direction, 90, 65, Normal
+291, Nytdain, Nuwmont, 12, 80, 60, No Precipitation, 28, 40, From Arctic, 80, 60, Normal
+292, Loshdain, Nuwmont, 13, 80, 65, No Precipitation, 31, 30, Prevailing Direction, 80, 65, Normal
+293, Soladain, Nuwmont, 14, 80, 60, No Precipitation, 24, 40, Prevailing Direction, 80, 60, Normal
+294, Lunadain, Nuwmont, 15, 75, 55, Trace Rain (<1/8 inch), 34, 45, From Arctic, 75, 55, Normal
+295, Gromdain, Nuwmont, 16, 75, 55, No Precipitation, 21, 45, Prevailing Direction, 75, 55, Normal
+296, Tserdain, Nuwmont, 17, 80, 60, No Precipitation, 25, 45, Prevailing Direction, 80, 60, Normal
+297, Moldain, Nuwmont, 18, 80, 60, No Precipitation, 34, 45, Prevailing Direction, 80, 60, Normal
+298, Nytdain, Nuwmont, 19, 80, 65, No Precipitation, 24, 35, Prevailing Direction, 80, 65, Normal
+299, Loshdain, Nuwmont, 20, 85, 65, No Precipitation, 30, 20, Prevailing Direction, 90, 65, Normal
+300, Soladain, Nuwmont, 21, 75, 55, No Precipitation, 21, 0, Indescernable, 80, 55, Particle Storm
+301, Lunadain, Nuwmont, 22, 80, 60, Trace Rain (<1/8 inch), 31, 0, Indescernable, 85, 60, Normal
+302, Gromdain, Nuwmont, 23, 80, 65, Trace Rain (<1/8 inch), 32, 0, Indescernable, 85, 65, Normal
+303, Tserdain, Nuwmont, 24, 85, 70, No Precipitation, 37, 0, Indescernable, 90, 70, Normal
+304, Moldain, Nuwmont, 25, 80, 60, No Precipitation, 24, 15, From Arctic, 85, 60, Normal
+305, Nytdain, Nuwmont, 26, 85, 70, No Precipitation, 22, 0, Indescernable, 90, 70, Drought
+306, Loshdain, Nuwmont, 27, 85, 65, No Precipitation, 37, 10, Prevailing Direction, 90, 65, Drought
+307, Soladain, Nuwmont, 28, 85, 70, No Precipitation, 30, 0, Indescernable, 90, 70, Drought
+308, Lunadain, Vatermont, 1, 90, 70, No Precipitation, 31, 0, Indescernable, 95, 70, Drought
+309, Gromdain, Vatermont, 2, 90, 75, No Precipitation, 24, 0, Indescernable, 95, 80, Drought
+310, Tserdain, Vatermont, 3, 90, 75, No Precipitation, 40, 0, Indescernable, 95, 80, Drought
+311, Moldain, Vatermont, 4, 85, 70, No Precipitation, 26, 10, From Arctic, 90, 70, Drought
+312, Nytdain, Vatermont, 5, 80, 65, No Precipitation, 21, 25, From Arctic, 80, 65, Drought
+313, Loshdain, Vatermont, 6, 80, 60, No Precipitation, 28, 35, Prevailing Direction, 80, 60, Drought
+314, Soladain, Vatermont, 7, 85, 65, No Precipitation, 40, 20, From Tropics, 90, 65, Drought
+315, Lunadain, Vatermont, 8, 90, 70, No Precipitation, 28, 10, From Tropics, 95, 70, Drought
+316, Gromdain, Vatermont, 9, 85, 65, No Precipitation, 30, 20, From Arctic, 90, 65, Drought
+317, Tserdain, Vatermont, 10, 80, 60, No Precipitation, 26, 30, From Arctic, 80, 60, Normal
+318, Moldain, Vatermont, 11, 75, 55, No Precipitation, 37, 45, Prevailing Direction, 75, 55, Normal
+319, Nytdain, Vatermont, 12, 75, 55, No Precipitation, 26, 45, Prevailing Direction, 75, 55, Normal
+320, Loshdain, Vatermont, 13, 85, 65, No Precipitation, 33, 0, Indescernable, 90, 65, Drought
+321, Soladain, Vatermont, 14, 80, 60, No Precipitation, 23, 15, From Arctic, 85, 60, Drought
+322, Lunadain, Vatermont, 15, 75, 55, No Precipitation, 29, 25, Prevailing Direction, 75, 55, Drought
+323, Gromdain, Vatermont, 16, 80, 60, No Precipitation, 22, 15, Prevailing Direction, 85, 60, Drought
+324, Tserdain, Vatermont, 17, 80, 60, No Precipitation, 30, 15, Prevailing Direction, 85, 60, Drought
+325, Moldain, Vatermont, 18, 75, 55, No Precipitation, 31, 30, From Arctic, 75, 55, Drought
+326, Nytdain, Vatermont, 19, 75, 55, No Precipitation, 40, 45, From Arctic, 75, 55, Drought
+327, Loshdain, Vatermont, 20, 75, 55, No Precipitation, 33, 45, Prevailing Direction, 75, 55, Drought
+328, Soladain, Vatermont, 21, 80, 65, No Precipitation, 31, 35, From Tropics, 80, 65, Normal
+329, Lunadain, Vatermont, 22, 85, 70, No Precipitation, 28, 25, From Tropics, 90, 70, Normal
+330, Gromdain, Vatermont, 23, 80, 65, No Precipitation, 24, 40, From Arctic, 80, 65, Normal
+331, Tserdain, Vatermont, 24, 80, 60, No Precipitation, 33, 45, Prevailing Direction, 80, 60, Normal
+332, Moldain, Vatermont, 25, 75, 55, No Precipitation, 26, 45, Prevailing Direction, 75, 55, Normal
+333, Nytdain, Vatermont, 26, 75, 55, No Precipitation, 28, 45, From Arctic, 75, 55, Normal
+334, Loshdain, Vatermont, 27, 75, 55, Trace Rain (<1/8 inch), 23, 0, Indescernable, 80, 55, Normal
+335, Soladain, Vatermont, 28, 75, 55, Trace Rain (<1/8 inch), 37, 0, Indescernable, 80, 55, Normal
+336, Lunadain, Thaumont, 1, 75, 55, No Precipitation, 21, 10, Prevailing Direction, 80, 55, Normal
+337, Gromdain, Thaumont, 2, 75, 55, Trace Rain (<1/8 inch), 27, 20, From Arctic, 75, 55, Normal
+338, Tserdain, Thaumont, 3, 75, 55, No Precipitation, 29, 35, From Arctic, 75, 55, Normal
+339, Moldain, Thaumont, 4, 80, 60, No Precipitation, 38, 25, Prevailing Direction, 80, 60, Normal
+340, Nytdain, Thaumont, 5, 75, 55, No Precipitation, 22, 35, From Arctic, 75, 55, Normal
+341, Loshdain, Thaumont, 6, 75, 55, No Precipitation, 28, 0, Indescernable, 80, 55, Particle Storm
+342, Soladain, Thaumont, 7, 80, 60, No Precipitation, 40, 0, Indescernable, 85, 60, Normal
+343, Lunadain, Thaumont, 8, 80, 65, No Precipitation, 31, 0, Indescernable, 85, 65, Normal
+344, Gromdain, Thaumont, 9, 85, 65, No Precipitation, 34, 0, Indescernable, 90, 65, Normal
+345, Tserdain, Thaumont, 10, 90, 70, No Precipitation, 25, 0, Indescernable, 95, 70, Normal
+346, Moldain, Thaumont, 11, 85, 70, No Precipitation, 38, 15, Prevailing Direction, 90, 70, Normal
+347, Nytdain, Thaumont, 12, 90, 70, No Precipitation, 27, 0, Indescernable, 95, 70, Normal
+348, Loshdain, Thaumont, 13, 90, 70, No Precipitation, 25, 0, Indescernable, 95, 70, Normal
+349, Soladain, Thaumont, 14, 90, 75, No Precipitation, 39, 0, Indescernable, 95, 80, Normal
+350, Lunadain, Thaumont, 15, 85, 70, No Precipitation, 22, 15, From Arctic, 90, 70, Normal
+351, Gromdain, Thaumont, 16, 90, 70, No Precipitation, 24, 0, Indescernable, 95, 70, Normal
+352, Tserdain, Thaumont, 17, 90, 70, No Precipitation, 40, 0, Indescernable, 95, 70, Normal
+353, Moldain, Thaumont, 18, 90, 75, No Precipitation, 40, 0, Indescernable, 95, 80, Normal
+354, Nytdain, Thaumont, 19, 100, 80, No Precipitation, 40, 0, Indescernable, 110, 85, Normal
+355, Loshdain, Thaumont, 20, 95, 75, No Precipitation, 22, 10, Prevailing Direction, 105, 80, Normal
+356, Soladain, Thaumont, 21, 95, 75, No Precipitation, 33, 10, Prevailing Direction, 105, 80, Normal
+357, Lunadain, Thaumont, 22, 100, 80, No Precipitation, 34, 0, Indescernable, 110, 85, Normal
+358, Gromdain, Thaumont, 23, 95, 75, No Precipitation, 21, 0, Indescernable, 105, 80, Normal
+359, Tserdain, Thaumont, 24, 100, 80, No Precipitation, 36, 0, Indescernable, 110, 85, Normal
+360, Moldain, Thaumont, 25, 95, 75, No Precipitation, 21, 10, Prevailing Direction, 105, 80, Normal
+361, Nytdain, Thaumont, 26, 95, 75, No Precipitation, 34, 10, Prevailing Direction, 105, 80, Normal
+362, Loshdain, Thaumont, 27, 90, 75, No Precipitation, 31, 20, Prevailing Direction, 95, 75, Normal
+363, Soladain, Thaumont, 28, 95, 75, No Precipitation, 33, 10, Prevailing Direction, 105, 80, Normal
+364, Lunadain, Flaurmont, 1, 90, 70, No Precipitation, 23, 20, From Arctic, 95, 70, Normal
+365, Gromdain, Flaurmont, 2, 95, 75, Trace Rain (<1/8 inch), 35, 10, From Tropics, 105, 80, Normal
+366, Tserdain, Flaurmont, 3, 100, 80, No Precipitation, 33, 0, Indescernable, 110, 85, Normal
+367, Moldain, Flaurmont, 4, 105, 80, No Precipitation, 34, 0, Indescernable, 115, 85, Normal
+368, Nytdain, Flaurmont, 5, 105, 80, No Precipitation, 30, 0, Indescernable, 115, 85, Normal
+369, Loshdain, Flaurmont, 6, 100, 80, No Precipitation, 35, 0, Indescernable, 110, 85, Normal
+370, Soladain, Flaurmont, 7, 100, 80, No Precipitation, 29, 0, Indescernable, 110, 85, Normal
+371, Lunadain, Flaurmont, 8, 90, 75, Trace Rain (<1/8 inch), 30, 10, From Arctic, 95, 80, Normal
+372, Gromdain, Flaurmont, 9, 85, 70, No Precipitation, 21, 20, From Arctic, 90, 70, Normal
+373, Tserdain, Flaurmont, 10, 90, 75, No Precipitation, 33, 10, From Tropics, 95, 80, Normal
+374, Moldain, Flaurmont, 11, 90, 70, Trace Rain (<1/8 inch), 34, 20, Prevailing Direction, 95, 70, Normal
+375, Nytdain, Flaurmont, 12, 90, 70, No Precipitation, 38, 20, Prevailing Direction, 95, 70, Normal
+376, Loshdain, Flaurmont, 13, 85, 70, No Precipitation, 34, 35, Prevailing Direction, 90, 70, Normal
+377, Soladain, Flaurmont, 14, 90, 75, Light Rain (<1/2 inch), 37, 25, From Tropics, 95, 75, Normal
+378, Lunadain, Flaurmont, 15, 90, 70, No Precipitation, 36, 40, Prevailing Direction, 90, 70, Normal
+379, Gromdain, Flaurmont, 16, 90, 75, Trace Rain (<1/8 inch), 27, 30, Prevailing Direction, 95, 75, Normal
+380, Tserdain, Flaurmont, 17, 90, 70, Trace Rain (<1/8 inch), 30, 40, Prevailing Direction, 90, 70, Normal
+381, Moldain, Flaurmont, 18, 80, 65, Light Rain (<1/2 inch), 26, 0, Indescernable, 85, 65, Normal
+382, Nytdain, Flaurmont, 19, 85, 70, No Precipitation, 34, 0, Indescernable, 90, 70, Normal
+383, Loshdain, Flaurmont, 20, 85, 65, No Precipitation, 30, 15, Prevailing Direction, 90, 65, Normal
+384, Soladain, Flaurmont, 21, 90, 70, No Precipitation, 40, 0, Indescernable, 95, 70, Normal
+385, Lunadain, Flaurmont, 22, 90, 70, No Precipitation, 36, 0, Indescernable, 95, 70, Normal
+386, Gromdain, Flaurmont, 23, 95, 75, Trace Rain (<1/8 inch), 34, 0, Indescernable, 105, 80, Normal
+387, Tserdain, Flaurmont, 24, 90, 75, No Precipitation, 38, 15, Prevailing Direction, 95, 80, Normal
+388, Moldain, Flaurmont, 25, 85, 70, Trace Rain (<1/8 inch), 37, 25, From Arctic, 90, 70, Normal
+389, Nytdain, Flaurmont, 26, 85, 65, No Precipitation, 40, 40, Prevailing Direction, 85, 65, Normal
+390, Loshdain, Flaurmont, 27, 80, 65, Light Rain (<1/2 inch), 31, 45, Prevailing Direction, 80, 65, Normal
+391, Soladain, Flaurmont, 28, 80, 65, No Precipitation, 21, 45, Prevailing Direction, 80, 65, Normal
+392, Lunadain, Yarthmont, 1, 85, 70, No Precipitation, 21, 35, From Tropics, 90, 70, Normal
+393, Gromdain, Yarthmont, 2, 85, 70, No Precipitation, 36, 45, From Arctic, 85, 70, Normal
+394, Tserdain, Yarthmont, 3, 90, 70, No Precipitation, 36, 45, Prevailing Direction, 90, 70, Normal
+395, Moldain, Yarthmont, 4, 85, 70, No Precipitation, 21, 45, Prevailing Direction, 85, 70, Normal
+396, Nytdain, Yarthmont, 5, 85, 70, No Precipitation, 23, 45, Prevailing Direction, 85, 70, Normal
+397, Loshdain, Yarthmont, 6, 85, 70, No Precipitation, 35, 45, Prevailing Direction, 85, 70, Normal
+398, Soladain, Yarthmont, 7, 85, 70, No Precipitation, 30, 45, Prevailing Direction, 85, 70, Normal
+399, Lunadain, Yarthmont, 8, 90, 75, No Precipitation, 25, 35, From Tropics, 95, 75, Normal
+400, Gromdain, Yarthmont, 9, 90, 70, Trace Rain (<1/8 inch), 34, 45, Prevailing Direction, 90, 70, Normal
+401, Tserdain, Yarthmont, 10, 90, 70, No Precipitation, 26, 45, Prevailing Direction, 90, 70, Normal
+402, Moldain, Yarthmont, 11, 85, 70, No Precipitation, 21, 0, Indescernable, 90, 70, Particle Storm
+403, Nytdain, Yarthmont, 12, 90, 70, No Precipitation, 22, 0, Indescernable, 95, 70, Normal
+404, Loshdain, Yarthmont, 13, 90, 75, No Precipitation, 32, 0, Indescernable, 95, 80, Normal
+405, Soladain, Yarthmont, 14, 85, 70, No Precipitation, 23, 15, From Arctic, 90, 70, Normal
+406, Lunadain, Yarthmont, 15, 85, 70, No Precipitation, 39, 25, Prevailing Direction, 90, 70, Normal
+407, Gromdain, Yarthmont, 16, 90, 75, No Precipitation, 22, 15, From Tropics, 95, 80, Normal
+408, Tserdain, Yarthmont, 17, 100, 80, No Precipitation, 24, 0, Indescernable, 110, 85, Normal
+409, Moldain, Yarthmont, 18, 105, 80, No Precipitation, 23, 0, Indescernable, 115, 85, Normal
+410, Nytdain, Yarthmont, 19, 95, 75, No Precipitation, 27, 15, From Arctic, 105, 80, Normal
+411, Loshdain, Yarthmont, 20, 90, 75, No Precipitation, 40, 30, Prevailing Direction, 95, 75, Normal
+412, Soladain, Yarthmont, 21, 100, 80, No Precipitation, 38, 15, From Tropics, 110, 85, Normal
+413, Lunadain, Yarthmont, 22, 105, 80, No Precipitation, 27, 0, Indescernable, 115, 85, Normal
+414, Gromdain, Yarthmont, 23, 105, 80, No Precipitation, 30, 0, Indescernable, 115, 85, Normal
+415, Tserdain, Yarthmont, 24, 100, 80, No Precipitation, 35, 15, Prevailing Direction, 110, 85, Normal
+416, Moldain, Yarthmont, 25, 105, 80, Trace Rain (<1/8 inch), 35, 5, Prevailing Direction, 115, 85, Normal
+417, Nytdain, Yarthmont, 26, 115, 85, Trace Rain (<1/8 inch), 25, 0, Indescernable, 125, 90, Normal
+418, Loshdain, Yarthmont, 27, 105, 80, No Precipitation, 34, 0, Indescernable, 115, 85, Normal
+419, Soladain, Yarthmont, 28, 115, 85, No Precipitation, 28, 0, Indescernable, 125, 90, Normal
+420, Lunadain, Klairmont, 1, 95, 75, No Precipitation, 23, 15, From Arctic, 105, 80, Normal
+421, Gromdain, Klairmont, 2, 95, 75, No Precipitation, 25, 15, Prevailing Direction, 105, 80, Normal
+422, Tserdain, Klairmont, 3, 95, 75, No Precipitation, 22, 15, Prevailing Direction, 105, 80, Normal
+423, Moldain, Klairmont, 4, 95, 75, No Precipitation, 30, 15, Prevailing Direction, 105, 80, Normal
+424, Nytdain, Klairmont, 5, 100, 80, No Precipitation, 33, 5, Prevailing Direction, 110, 85, Normal
+425, Loshdain, Klairmont, 6, 95, 75, No Precipitation, 23, 15, Prevailing Direction, 105, 80, Normal
+426, Soladain, Klairmont, 7, 95, 75, No Precipitation, 36, 15, Prevailing Direction, 105, 80, Normal
+427, Lunadain, Klairmont, 8, 90, 75, No Precipitation, 37, 25, From Arctic, 95, 75, Normal
+428, Gromdain, Klairmont, 9, 90, 75, No Precipitation, 40, 0, Indescernable, 95, 80, Particle Storm
+429, Tserdain, Klairmont, 10, 90, 75, No Precipitation, 27, 10, From Arctic, 95, 80, Normal
+430, Moldain, Klairmont, 11, 90, 75, No Precipitation, 29, 20, From Arctic, 95, 75, Normal
+431, Nytdain, Klairmont, 12, 105, 80, No Precipitation, 39, 5, From Tropics, 115, 85, Normal
+432, Loshdain, Klairmont, 13, 105, 80, No Precipitation, 27, 5, Prevailing Direction, 115, 85, Normal
+433, Soladain, Klairmont, 14, 100, 80, No Precipitation, 29, 20, Prevailing Direction, 105, 80, Normal
+434, Lunadain, Klairmont, 15, 95, 75, No Precipitation, 22, 35, Prevailing Direction, 100, 75, Normal
+435, Gromdain, Klairmont, 16, 100, 80, No Precipitation, 21, 20, Prevailing Direction, 105, 80, Normal
+436, Tserdain, Klairmont, 17, 105, 80, No Precipitation, 31, 5, Prevailing Direction, 115, 85, Normal
+437, Moldain, Klairmont, 18, 105, 80, No Precipitation, 25, 5, Prevailing Direction, 115, 85, Normal
+438, Nytdain, Klairmont, 19, 115, 85, No Precipitation, 40, 0, Indescernable, 125, 90, Normal
+439, Loshdain, Klairmont, 20, 105, 80, No Precipitation, 25, 0, Indescernable, 115, 85, Normal
+440, Soladain, Klairmont, 21, 100, 80, Trace Rain (<1/8 inch), 33, 10, Prevailing Direction, 110, 85, Normal
+441, Lunadain, Klairmont, 22, 90, 75, No Precipitation, 37, 25, From Arctic, 95, 75, Normal
+442, Gromdain, Klairmont, 23, 90, 75, Trace Rain (<1/8 inch), 31, 35, Prevailing Direction, 95, 75, Normal
+443, Tserdain, Klairmont, 24, 90, 75, Trace Rain (<1/8 inch), 29, 45, Prevailing Direction, 90, 75, Normal
+444, Moldain, Klairmont, 25, 90, 75, No Precipitation, 23, 45, Prevailing Direction, 90, 75, Normal
+445, Nytdain, Klairmont, 26, 100, 80, No Precipitation, 33, 30, Prevailing Direction, 105, 80, Normal
+446, Loshdain, Klairmont, 27, 95, 75, No Precipitation, 39, 45, Prevailing Direction, 95, 75, Normal
+447, Soladain, Klairmont, 28, 95, 75, No Precipitation, 30, 45, Prevailing Direction, 95, 75, Normal
+448, Lunadain, Felmont, 1, 95, 75, No Precipitation, 27, 45, Prevailing Direction, 95, 75, Normal
+449, Gromdain, Felmont, 2, 100, 80, No Precipitation, 34, 35, Prevailing Direction, 105, 80, Normal
+450, Tserdain, Felmont, 3, 95, 75, No Precipitation, 32, 45, Prevailing Direction, 95, 75, Normal
+451, Moldain, Felmont, 4, 105, 80, Trace Rain (<1/8 inch), 27, 35, From Tropics, 110, 80, Normal
+452, Nytdain, Felmont, 5, 100, 80, Trace Rain (<1/8 inch), 34, 45, Prevailing Direction, 100, 80, Normal
+453, Loshdain, Felmont, 6, 90, 75, No Precipitation, 22, 45, From Arctic, 90, 75, Normal
+454, Soladain, Felmont, 7, 90, 75, No Precipitation, 28, 45, Prevailing Direction, 90, 75, Normal
+455, Lunadain, Felmont, 8, 100, 80, No Precipitation, 23, 35, From Tropics, 105, 80, Normal
+456, Gromdain, Felmont, 9, 105, 80, No Precipitation, 40, 25, Prevailing Direction, 110, 80, Normal
+457, Tserdain, Felmont, 10, 100, 80, No Precipitation, 21, 40, Prevailing Direction, 100, 80, Normal
+458, Moldain, Felmont, 11, 100, 80, No Precipitation, 23, 40, Prevailing Direction, 100, 80, Normal
+459, Nytdain, Felmont, 12, 100, 80, No Precipitation, 38, 40, Prevailing Direction, 100, 80, Normal
+460, Loshdain, Felmont, 13, 95, 75, Trace Rain (<1/8 inch), 30, 45, Prevailing Direction, 95, 75, Normal
+461, Soladain, Felmont, 14, 95, 75, No Precipitation, 33, 45, Prevailing Direction, 95, 75, Normal
+462, Lunadain, Felmont, 15, 90, 75, No Precipitation, 23, 45, Prevailing Direction, 90, 75, Normal
+463, Gromdain, Felmont, 16, 90, 75, No Precipitation, 25, 45, Prevailing Direction, 90, 75, Normal
+464, Tserdain, Felmont, 17, 105, 80, No Precipitation, 28, 30, From Tropics, 110, 80, Normal
+465, Moldain, Felmont, 18, 115, 85, Trace Rain (<1/8 inch), 36, 20, From Tropics, 120, 90, Normal
+466, Nytdain, Felmont, 19, 115, 85, No Precipitation, 35, 5, From Tropics, 125, 90, Normal
+467, Loshdain, Felmont, 20, 115, 85, No Precipitation, 31, 0, Indescernable, 125, 90, Normal
+468, Soladain, Felmont, 21, 115, 85, No Precipitation, 30, 0, Indescernable, 125, 90, Normal
+469, Lunadain, Felmont, 22, 105, 80, No Precipitation, 38, 0, Indescernable, 115, 85, Normal
+470, Gromdain, Felmont, 23, 100, 80, No Precipitation, 28, 10, Prevailing Direction, 110, 85, Normal
+471, Tserdain, Felmont, 24, 95, 75, No Precipitation, 39, 25, Prevailing Direction, 100, 75, Normal
+472, Moldain, Felmont, 25, 100, 80, No Precipitation, 36, 10, Prevailing Direction, 110, 85, Normal
+473, Nytdain, Felmont, 26, 115, 85, Trace Rain (<1/8 inch), 27, 0, Indescernable, 125, 90, Normal
+474, Loshdain, Felmont, 27, 115, 85, No Precipitation, 22, 0, Indescernable, 125, 90, Normal
+475, Soladain, Felmont, 28, 105, 80, No Precipitation, 40, 0, Indescernable, 115, 85, Normal
+476, Lunadain, Fyrmont, 1, 105, 80, No Precipitation, 32, 0, Indescernable, 115, 85, Normal
+477, Gromdain, Fyrmont, 2, 105, 80, No Precipitation, 30, 0, Indescernable, 115, 85, Normal
+478, Tserdain, Fyrmont, 3, 105, 80, No Precipitation, 26, 0, Indescernable, 115, 85, Normal
+479, Moldain, Fyrmont, 4, 105, 80, No Precipitation, 39, 0, Indescernable, 115, 85, Normal
+480, Nytdain, Fyrmont, 5, 100, 80, No Precipitation, 34, 0, Indescernable, 110, 85, Normal
+481, Loshdain, Fyrmont, 6, 100, 80, No Precipitation, 31, 0, Indescernable, 110, 85, Normal
+482, Soladain, Fyrmont, 7, 105, 80, Trace Rain (<1/8 inch), 37, 0, Indescernable, 115, 85, Normal
+483, Lunadain, Fyrmont, 8, 100, 80, No Precipitation, 22, 0, Indescernable, 110, 85, Normal
+484, Gromdain, Fyrmont, 9, 100, 80, No Precipitation, 21, 0, Indescernable, 110, 85, Normal
+485, Tserdain, Fyrmont, 10, 95, 75, Trace Rain (<1/8 inch), 37, 10, Prevailing Direction, 105, 80, Normal
+486, Moldain, Fyrmont, 11, 95, 75, No Precipitation, 35, 10, Prevailing Direction, 105, 80, Normal
+487, Nytdain, Fyrmont, 12, 95, 75, No Precipitation, 23, 10, Prevailing Direction, 105, 80, Normal
+488, Loshdain, Fyrmont, 13, 100, 80, Trace Rain (<1/8 inch), 22, 0, Indescernable, 110, 85, Normal
+489, Soladain, Fyrmont, 14, 105, 80, No Precipitation, 39, 0, Indescernable, 115, 85, Normal
+490, Lunadain, Fyrmont, 15, 105, 80, Trace Rain (<1/8 inch), 30, 0, Indescernable, 115, 85, Normal
+491, Gromdain, Fyrmont, 16, 105, 80, No Precipitation, 22, 0, Indescernable, 115, 85, Normal
+492, Tserdain, Fyrmont, 17, 100, 80, No Precipitation, 36, 0, Indescernable, 110, 85, Normal
+493, Moldain, Fyrmont, 18, 100, 80, No Precipitation, 23, 0, Indescernable, 110, 85, Normal
+494, Nytdain, Fyrmont, 19, 105, 80, No Precipitation, 29, 0, Indescernable, 115, 85, Normal
+495, Loshdain, Fyrmont, 20, 105, 80, Trace Rain (<1/8 inch), 35, 0, Indescernable, 115, 85, Normal
+496, Soladain, Fyrmont, 21, 105, 80, Light Rain (<1/2 inch), 26, 0, Indescernable, 115, 85, Normal
+497, Lunadain, Fyrmont, 22, 100, 80, No Precipitation, 35, 0, Indescernable, 110, 85, Normal
+498, Gromdain, Fyrmont, 23, 105, 80, No Precipitation, 29, 0, Indescernable, 115, 85, Normal
+499, Tserdain, Fyrmont, 24, 105, 80, No Precipitation, 24, 0, Indescernable, 115, 85, Normal
+500, Moldain, Fyrmont, 25, 100, 80, Light Rain (<1/2 inch), 28, 10, Prevailing Direction, 110, 85, Normal
+501, Nytdain, Fyrmont, 26, 90, 75, Light Rain (<1/2 inch), 30, 20, From Arctic, 95, 75, Normal
+502, Loshdain, Fyrmont, 27, 90, 70, Light Rain (<1/2 inch), 27, 30, From Arctic, 95, 70, Normal
+503, Soladain, Fyrmont, 28, 90, 70, No Precipitation, 29, 45, Prevailing Direction, 90, 70, Normal
+504, Lunadain, Ambyrmont, 1, 90, 70, Trace Rain (<1/8 inch), 23, 45, From Arctic, 90, 70, Normal
+505, Gromdain, Ambyrmont, 2, 90, 70, No Precipitation, 21, 45, From Arctic, 90, 70, Normal
+506, Tserdain, Ambyrmont, 3, 90, 70, No Precipitation, 30, 45, From Arctic, 90, 70, Normal
+507, Moldain, Ambyrmont, 4, 90, 75, No Precipitation, 26, 45, Prevailing Direction, 90, 75, Normal
+508, Nytdain, Ambyrmont, 5, 90, 70, No Precipitation, 31, 45, From Arctic, 90, 70, Normal
+509, Loshdain, Ambyrmont, 6, 95, 75, No Precipitation, 29, 35, From Tropics, 100, 75, Normal
+510, Soladain, Ambyrmont, 7, 90, 75, No Precipitation, 39, 45, Prevailing Direction, 90, 75, Normal
+511, Lunadain, Ambyrmont, 8, 90, 75, No Precipitation, 23, 45, Prevailing Direction, 90, 75, Normal
+512, Gromdain, Ambyrmont, 9, 90, 75, No Precipitation, 37, 45, Prevailing Direction, 90, 75, Normal
+513, Tserdain, Ambyrmont, 10, 100, 80, No Precipitation, 37, 30, From Tropics, 105, 80, Normal
+514, Moldain, Ambyrmont, 11, 90, 75, Trace Rain (<1/8 inch), 24, 40, From Arctic, 90, 75, Normal
+515, Nytdain, Ambyrmont, 12, 90, 70, No Precipitation, 26, 45, From Arctic, 90, 70, Normal
+516, Loshdain, Ambyrmont, 13, 90, 70, No Precipitation, 37, 0, Indescernable, 95, 70, Particle Storm
+517, Soladain, Ambyrmont, 14, 90, 70, No Precipitation, 28, 10, Prevailing Direction, 95, 70, Normal
+518, Lunadain, Ambyrmont, 15, 95, 75, No Precipitation, 35, 0, Indescernable, 105, 80, Normal
+519, Gromdain, Ambyrmont, 16, 90, 75, No Precipitation, 28, 15, Prevailing Direction, 95, 80, Normal
+520, Tserdain, Ambyrmont, 17, 90, 75, No Precipitation, 26, 15, Prevailing Direction, 95, 80, Normal
+521, Moldain, Ambyrmont, 18, 90, 70, No Precipitation, 27, 25, Prevailing Direction, 95, 70, Normal
+522, Nytdain, Ambyrmont, 19, 90, 70, No Precipitation, 35, 40, Prevailing Direction, 90, 70, Normal
+523, Loshdain, Ambyrmont, 20, 90, 75, No Precipitation, 21, 40, Prevailing Direction, 90, 75, Normal
+524, Soladain, Ambyrmont, 21, 90, 70, Trace Rain (<1/8 inch), 31, 45, From Arctic, 90, 70, Normal
+525, Lunadain, Ambyrmont, 22, 95, 75, Trace Rain (<1/8 inch), 26, 35, From Tropics, 100, 75, Normal
+526, Gromdain, Ambyrmont, 23, 100, 80, No Precipitation, 27, 20, Prevailing Direction, 105, 80, Normal
+527, Tserdain, Ambyrmont, 24, 95, 75, No Precipitation, 25, 30, Prevailing Direction, 100, 75, Normal
+528, Moldain, Ambyrmont, 25, 90, 75, No Precipitation, 28, 40, Prevailing Direction, 90, 75, Normal
+529, Nytdain, Ambyrmont, 26, 95, 75, No Precipitation, 34, 30, Prevailing Direction, 100, 75, Normal
+530, Loshdain, Ambyrmont, 27, 100, 80, No Precipitation, 23, 15, Prevailing Direction, 110, 85, Normal
+531, Soladain, Ambyrmont, 28, 95, 75, No Precipitation, 27, 25, Prevailing Direction, 100, 75, Normal
+532, Lunadain, Sviftmont, 1, 90, 75, No Precipitation, 31, 25, Prevailing Direction, 95, 75, Normal
+533, Gromdain, Sviftmont, 2, 95, 75, No Precipitation, 21, 15, Prevailing Direction, 105, 80, Normal
+534, Tserdain, Sviftmont, 3, 90, 75, No Precipitation, 40, 25, Prevailing Direction, 95, 75, Normal
+535, Moldain, Sviftmont, 4, 90, 75, No Precipitation, 39, 25, Prevailing Direction, 95, 75, Normal
+536, Nytdain, Sviftmont, 5, 95, 75, No Precipitation, 27, 10, From Tropics, 105, 80, Normal
+537, Loshdain, Sviftmont, 6, 95, 75, Trace Rain (<1/8 inch), 24, 0, Indescernable, 105, 80, Normal
+538, Soladain, Sviftmont, 7, 90, 75, No Precipitation, 35, 0, Indescernable, 95, 80, Normal
+539, Lunadain, Sviftmont, 8, 90, 70, No Precipitation, 27, 15, Prevailing Direction, 95, 70, Normal
+540, Gromdain, Sviftmont, 9, 90, 70, No Precipitation, 30, 15, Prevailing Direction, 95, 70, Normal
+541, Tserdain, Sviftmont, 10, 85, 65, No Precipitation, 35, 30, From Arctic, 90, 65, Normal
+542, Moldain, Sviftmont, 11, 80, 65, No Precipitation, 30, 45, Prevailing Direction, 80, 65, Normal
+543, Nytdain, Sviftmont, 12, 85, 65, No Precipitation, 25, 45, Prevailing Direction, 85, 65, Normal
+544, Loshdain, Sviftmont, 13, 85, 65, No Precipitation, 34, 45, Prevailing Direction, 85, 65, Normal
+545, Soladain, Sviftmont, 14, 85, 70, No Precipitation, 38, 35, Prevailing Direction, 90, 70, Normal
+546, Lunadain, Sviftmont, 15, 85, 65, No Precipitation, 39, 45, Prevailing Direction, 85, 65, Normal
+547, Gromdain, Sviftmont, 16, 85, 70, No Precipitation, 35, 35, Prevailing Direction, 90, 70, Normal
+548, Tserdain, Sviftmont, 17, 90, 75, No Precipitation, 24, 25, From Tropics, 95, 75, Normal
+549, Moldain, Sviftmont, 18, 95, 75, No Precipitation, 36, 15, Prevailing Direction, 105, 80, Normal
+550, Nytdain, Sviftmont, 19, 85, 70, No Precipitation, 32, 0, Indescernable, 90, 70, Particle Storm
+551, Loshdain, Sviftmont, 20, 90, 70, No Precipitation, 22, 0, Indescernable, 95, 70, Normal
+552, Soladain, Sviftmont, 21, 85, 70, No Precipitation, 26, 10, Prevailing Direction, 90, 70, Normal
+553, Lunadain, Sviftmont, 22, 85, 70, No Precipitation, 29, 10, Prevailing Direction, 90, 70, Normal
+554, Gromdain, Sviftmont, 23, 90, 70, No Precipitation, 21, 0, Indescernable, 95, 70, Normal
+555, Tserdain, Sviftmont, 24, 90, 75, No Precipitation, 21, 0, Indescernable, 95, 80, Normal
+556, Moldain, Sviftmont, 25, 85, 70, No Precipitation, 29, 15, From Arctic, 90, 70, Normal
+557, Nytdain, Sviftmont, 26, 85, 65, No Precipitation, 36, 25, Prevailing Direction, 90, 65, Normal
+558, Loshdain, Sviftmont, 27, 85, 70, No Precipitation, 40, 15, Prevailing Direction, 90, 70, Normal
+559, Soladain, Sviftmont, 28, 85, 70, No Precipitation, 35, 15, Prevailing Direction, 90, 70, Normal
+560, Lunadain, Eirmont, 1, 90, 75, Trace Rain (<1/8 inch), 21, 5, From Tropics, 95, 80, Normal
+561, Gromdain, Eirmont, 2, 90, 75, No Precipitation, 35, 0, Indescernable, 95, 80, Normal
+562, Tserdain, Eirmont, 3, 85, 65, No Precipitation, 34, 0, Indescernable, 90, 65, Particle Storm
+563, Moldain, Eirmont, 4, 80, 60, No Precipitation, 30, 10, From Arctic, 85, 60, Normal
+564, Nytdain, Eirmont, 5, 85, 65, No Precipitation, 30, 0, Indescernable, 90, 65, Normal
+565, Loshdain, Eirmont, 6, 85, 70, No Precipitation, 30, 0, Indescernable, 90, 70, Normal
+566, Soladain, Eirmont, 7, 90, 75, No Precipitation, 26, 0, Indescernable, 95, 80, Drought
+567, Lunadain, Eirmont, 8, 90, 70, No Precipitation, 33, 0, Indescernable, 95, 70, Drought
+568, Gromdain, Eirmont, 9, 90, 75, No Precipitation, 36, 0, Indescernable, 95, 80, Drought
+569, Tserdain, Eirmont, 10, 85, 70, No Precipitation, 30, 15, Prevailing Direction, 90, 70, Drought
+570, Moldain, Eirmont, 11, 90, 70, No Precipitation, 34, 5, Prevailing Direction, 95, 70, Drought
+571, Nytdain, Eirmont, 12, 85, 70, No Precipitation, 38, 15, Prevailing Direction, 90, 70, Drought
+572, Loshdain, Eirmont, 13, 90, 70, No Precipitation, 24, 0, Indescernable, 95, 70, Drought
+573, Soladain, Eirmont, 14, 90, 75, No Precipitation, 38, 0, Indescernable, 95, 80, Normal
+574, Lunadain, Eirmont, 15, 90, 75, No Precipitation, 35, 0, Indescernable, 95, 80, Normal
+575, Gromdain, Eirmont, 16, 90, 75, No Precipitation, 39, 0, Indescernable, 95, 80, Normal
+576, Tserdain, Eirmont, 17, 90, 70, Trace Rain (<1/8 inch), 29, 10, Prevailing Direction, 95, 70, Normal
+577, Moldain, Eirmont, 18, 85, 65, No Precipitation, 30, 25, From Arctic, 90, 65, Normal
+578, Nytdain, Eirmont, 19, 80, 65, No Precipitation, 22, 35, Prevailing Direction, 80, 65, Normal
+579, Loshdain, Eirmont, 20, 85, 65, Trace Rain (<1/8 inch), 21, 25, Prevailing Direction, 90, 65, Normal
+580, Soladain, Eirmont, 21, 85, 70, No Precipitation, 30, 10, Prevailing Direction, 90, 70, Normal
+581, Lunadain, Eirmont, 22, 90, 75, No Precipitation, 25, 0, Indescernable, 95, 80, Normal
+582, Gromdain, Eirmont, 23, 90, 70, No Precipitation, 33, 0, Indescernable, 95, 70, Normal
+583, Tserdain, Eirmont, 24, 85, 70, No Precipitation, 40, 10, Prevailing Direction, 90, 70, Normal
+584, Moldain, Eirmont, 25, 85, 65, Trace Rain (<1/8 inch), 27, 20, Prevailing Direction, 90, 65, Normal
+585, Nytdain, Eirmont, 26, 80, 60, Trace Rain (<1/8 inch), 34, 0, Indescernable, 85, 60, Normal
+586, Loshdain, Eirmont, 27, 85, 70, No Precipitation, 21, 0, Indescernable, 90, 70, Normal
+587, Soladain, Eirmont, 28, 85, 65, No Precipitation, 39, 15, Prevailing Direction, 90, 65, Normal
+588, Lunadain, Kaldmont, 1, 85, 70, Trace Rain (<1/8 inch), 31, 5, Prevailing Direction, 90, 70, Normal
+589, Gromdain, Kaldmont, 2, 85, 65, Trace Rain (<1/8 inch), 27, 15, Prevailing Direction, 90, 65, Normal
+590, Tserdain, Kaldmont, 3, 85, 70, No Precipitation, 27, 0, Indescernable, 90, 70, Normal
+591, Moldain, Kaldmont, 4, 85, 65, No Precipitation, 35, 15, Prevailing Direction, 90, 65, Normal
+592, Nytdain, Kaldmont, 5, 80, 65, Trace Rain (<1/8 inch), 39, 25, Prevailing Direction, 80, 65, Normal
+593, Loshdain, Kaldmont, 6, 85, 70, No Precipitation, 27, 10, From Tropics, 90, 70, Normal
+594, Soladain, Kaldmont, 7, 90, 70, No Precipitation, 38, 0, Indescernable, 95, 70, Normal
+595, Lunadain, Kaldmont, 8, 90, 70, No Precipitation, 32, 0, Indescernable, 95, 70, Normal
+596, Gromdain, Kaldmont, 9, 85, 70, Trace Rain (<1/8 inch), 34, 10, Prevailing Direction, 90, 70, Normal
+597, Tserdain, Kaldmont, 10, 80, 60, Light Rain (<1/2 inch), 25, 0, Indescernable, 85, 60, Normal
+598, Moldain, Kaldmont, 11, 75, 55, Trace Rain (<1/8 inch), 21, 10, Prevailing Direction, 80, 55, Normal
+599, Nytdain, Kaldmont, 12, 80, 60, No Precipitation, 38, 10, Prevailing Direction, 85, 60, Normal
+600, Loshdain, Kaldmont, 13, 80, 60, No Precipitation, 24, 10, Prevailing Direction, 85, 60, Normal
+601, Soladain, Kaldmont, 14, 75, 55, No Precipitation, 28, 20, Prevailing Direction, 75, 55, Normal
+602, Lunadain, Kaldmont, 15, 75, 55, No Precipitation, 37, 30, Prevailing Direction, 75, 55, Normal
+603, Gromdain, Kaldmont, 16, 75, 55, No Precipitation, 29, 45, Prevailing Direction, 75, 55, Normal
+604, Tserdain, Kaldmont, 17, 80, 65, No Precipitation, 29, 30, Prevailing Direction, 80, 65, Normal
+605, Moldain, Kaldmont, 18, 85, 65, Trace Rain (<1/8 inch), 36, 20, Prevailing Direction, 90, 65, Normal
+606, Nytdain, Kaldmont, 19, 80, 65, No Precipitation, 40, 35, Prevailing Direction, 80, 65, Normal
+607, Loshdain, Kaldmont, 20, 80, 60, No Precipitation, 25, 45, Prevailing Direction, 80, 60, Normal
+608, Soladain, Kaldmont, 21, 85, 65, No Precipitation, 35, 35, From Tropics, 90, 65, Normal
+609, Lunadain, Kaldmont, 22, 80, 65, No Precipitation, 24, 45, Prevailing Direction, 80, 65, Normal
+610, Gromdain, Kaldmont, 23, 85, 70, No Precipitation, 34, 35, From Tropics, 90, 70, Normal
+611, Tserdain, Kaldmont, 24, 90, 70, Trace Rain (<1/8 inch), 22, 25, From Tropics, 95, 70, Normal
+612, Moldain, Kaldmont, 25, 85, 70, No Precipitation, 26, 25, Prevailing Direction, 90, 70, Normal
+613, Nytdain, Kaldmont, 26, 90, 70, No Precipitation, 37, 10, Prevailing Direction, 95, 70, Normal
+614, Loshdain, Kaldmont, 27, 80, 65, No Precipitation, 37, 25, From Arctic, 80, 65, Normal
+615, Soladain, Kaldmont, 28, 75, 55, Light Rain (<1/2 inch), 31, 35, From Arctic, 75, 55, Normal
+616, Lunadain, Nuwmont, 1, 80, 65, No Precipitation, 23, 20, Prevailing Direction, 80, 65, Normal
+617, Gromdain, Nuwmont, 2, 75, 55, Trace Rain (<1/8 inch), 21, 30, From Arctic, 75, 55, Normal
+618, Tserdain, Nuwmont, 3, 75, 55, No Precipitation, 22, 40, From Arctic, 75, 55, Normal
+619, Moldain, Nuwmont, 4, 80, 60, No Precipitation, 37, 40, Prevailing Direction, 80, 60, Normal
+620, Nytdain, Nuwmont, 5, 75, 55, No Precipitation, 38, 45, From Arctic, 75, 55, Normal
+621, Loshdain, Nuwmont, 6, 75, 55, No Precipitation, 36, 45, From Arctic, 75, 55, Normal
+622, Soladain, Nuwmont, 7, 80, 60, No Precipitation, 39, 45, Prevailing Direction, 80, 60, Normal
+623, Lunadain, Nuwmont, 8, 75, 55, No Precipitation, 32, 45, From Arctic, 75, 55, Normal
+624, Gromdain, Nuwmont, 9, 75, 55, Trace Rain (<1/8 inch), 31, 45, Prevailing Direction, 75, 55, Normal
+625, Tserdain, Nuwmont, 10, 85, 65, No Precipitation, 35, 30, From Tropics, 90, 65, Normal
+626, Moldain, Nuwmont, 11, 85, 70, No Precipitation, 29, 20, From Tropics, 90, 70, Normal
+627, Nytdain, Nuwmont, 12, 80, 60, Trace Rain (<1/8 inch), 30, 0, Indescernable, 85, 60, Normal
+628, Loshdain, Nuwmont, 13, 75, 55, No Precipitation, 35, 10, Prevailing Direction, 80, 55, Normal
+629, Soladain, Nuwmont, 14, 80, 65, Trace Rain (<1/8 inch), 36, 0, Indescernable, 85, 65, Normal
+630, Lunadain, Nuwmont, 15, 80, 60, Trace Rain (<1/8 inch), 35, 10, Prevailing Direction, 85, 60, Normal
+631, Gromdain, Nuwmont, 16, 75, 55, Trace Rain (<1/8 inch), 29, 20, From Arctic, 75, 55, Normal
+632, Tserdain, Nuwmont, 17, 80, 60, No Precipitation, 23, 20, Prevailing Direction, 80, 60, Normal
+633, Moldain, Nuwmont, 18, 80, 65, No Precipitation, 26, 5, Prevailing Direction, 85, 65, Normal
+634, Nytdain, Nuwmont, 19, 85, 65, No Precipitation, 21, 0, Indescernable, 90, 65, Normal
+635, Loshdain, Nuwmont, 20, 80, 65, No Precipitation, 27, 10, Prevailing Direction, 85, 65, Normal
+636, Soladain, Nuwmont, 21, 75, 55, Trace Rain (<1/8 inch), 21, 0, Indescernable, 80, 55, Normal
+637, Lunadain, Nuwmont, 22, 75, 55, No Precipitation, 26, 10, Prevailing Direction, 80, 55, Normal
+638, Gromdain, Nuwmont, 23, 80, 65, No Precipitation, 21, 0, Indescernable, 85, 65, Normal
+639, Tserdain, Nuwmont, 24, 85, 65, No Precipitation, 33, 0, Indescernable, 90, 65, Normal
+640, Moldain, Nuwmont, 25, 75, 55, Trace Rain (<1/8 inch), 40, 70, Prevailing, 75, 55, Gale
+641, Nytdain, Nuwmont, 26, 80, 65, No Precipitation, 30, 45, Prevailing Direction, 80, 65, Normal
+642, Loshdain, Nuwmont, 27, 75, 55, Trace Rain (<1/8 inch), 25, 45, From Arctic, 75, 55, Normal
+643, Soladain, Nuwmont, 28, 75, 55, No Precipitation, 33, 45, Prevailing Direction, 75, 55, Normal
+644, Lunadain, Vatermont, 1, 80, 65, No Precipitation, 39, 30, Prevailing Direction, 80, 65, Normal
+645, Gromdain, Vatermont, 2, 85, 70, No Precipitation, 21, 20, From Tropics, 90, 70, Normal
+646, Tserdain, Vatermont, 3, 90, 70, No Precipitation, 31, 5, Prevailing Direction, 95, 70, Normal
+647, Moldain, Vatermont, 4, 80, 65, No Precipitation, 28, 0, Indescernable, 85, 65, Particle Storm
+648, Nytdain, Vatermont, 5, 75, 55, No Precipitation, 30, 15, From Arctic, 80, 55, Normal
+649, Loshdain, Vatermont, 6, 85, 65, No Precipitation, 34, 0, Indescernable, 90, 65, Normal
+650, Soladain, Vatermont, 7, 90, 70, Trace Rain (<1/8 inch), 24, 0, Indescernable, 95, 70, Normal
+651, Lunadain, Vatermont, 8, 85, 70, Trace Rain (<1/8 inch), 39, 10, Prevailing Direction, 90, 70, Normal
+652, Gromdain, Vatermont, 9, 80, 65, No Precipitation, 34, 20, From Arctic, 80, 65, Normal
+653, Tserdain, Vatermont, 10, 80, 60, No Precipitation, 22, 35, Prevailing Direction, 80, 60, Normal
+654, Moldain, Vatermont, 11, 80, 65, Trace Rain (<1/8 inch), 23, 25, Prevailing Direction, 80, 65, Normal
+655, Nytdain, Vatermont, 12, 75, 55, No Precipitation, 37, 35, From Arctic, 75, 55, Normal
+656, Loshdain, Vatermont, 13, 85, 65, No Precipitation, 37, 20, From Tropics, 90, 65, Normal
+657, Soladain, Vatermont, 14, 85, 70, No Precipitation, 32, 5, Prevailing Direction, 90, 70, Normal
+658, Lunadain, Vatermont, 15, 90, 75, No Precipitation, 25, 0, Indescernable, 95, 80, Normal
+659, Gromdain, Vatermont, 16, 90, 70, No Precipitation, 33, 15, Prevailing Direction, 95, 70, Normal
+660, Tserdain, Vatermont, 17, 90, 75, Trace Rain (<1/8 inch), 34, 5, Prevailing Direction, 95, 80, Normal
+661, Moldain, Vatermont, 18, 90, 70, No Precipitation, 33, 15, Prevailing Direction, 95, 70, Normal
+662, Nytdain, Vatermont, 19, 90, 75, No Precipitation, 39, 5, Prevailing Direction, 95, 80, Normal
+663, Loshdain, Vatermont, 20, 95, 75, No Precipitation, 29, 0, Indescernable, 105, 80, Normal
+664, Soladain, Vatermont, 21, 85, 70, Trace Rain (<1/8 inch), 34, 0, Indescernable, 90, 70, Normal
+665, Lunadain, Vatermont, 22, 85, 70, No Precipitation, 34, 0, Indescernable, 90, 70, Normal
+666, Gromdain, Vatermont, 23, 90, 75, No Precipitation, 29, 0, Indescernable, 95, 80, Normal
+667, Tserdain, Vatermont, 24, 95, 75, No Precipitation, 40, 0, Indescernable, 105, 80, Normal
+668, Moldain, Vatermont, 25, 90, 75, No Precipitation, 24, 0, Indescernable, 95, 80, Normal
+669, Nytdain, Vatermont, 26, 85, 70, Trace Rain (<1/8 inch), 36, 10, From Arctic, 90, 70, Normal
+670, Loshdain, Vatermont, 27, 90, 70, No Precipitation, 24, 0, Indescernable, 95, 70, Normal
+671, Soladain, Vatermont, 28, 85, 65, No Precipitation, 38, 10, From Arctic, 90, 65, Normal
+672, Lunadain, Thaumont, 1, 80, 65, No Precipitation, 40, 25, Prevailing Direction, 80, 65, Normal
+673, Gromdain, Thaumont, 2, 85, 70, No Precipitation, 29, 10, From Tropics, 90, 70, Normal
+674, Tserdain, Thaumont, 3, 85, 65, No Precipitation, 37, 25, Prevailing Direction, 90, 65, Normal
+675, Moldain, Thaumont, 4, 80, 65, No Precipitation, 24, 40, Prevailing Direction, 80, 65, Normal
+676, Nytdain, Thaumont, 5, 85, 65, No Precipitation, 22, 25, Prevailing Direction, 90, 65, Normal
+677, Loshdain, Thaumont, 6, 90, 70, No Precipitation, 24, 15, From Tropics, 95, 70, Normal
+678, Soladain, Thaumont, 7, 90, 75, No Precipitation, 37, 5, Prevailing Direction, 95, 80, Normal
+679, Lunadain, Thaumont, 8, 90, 75, No Precipitation, 37, 5, Prevailing Direction, 95, 80, Normal
+680, Gromdain, Thaumont, 9, 100, 80, No Precipitation, 33, 0, Indescernable, 110, 85, Normal
+681, Tserdain, Thaumont, 10, 100, 80, No Precipitation, 40, 0, Indescernable, 110, 85, Normal
+682, Moldain, Thaumont, 11, 100, 80, No Precipitation, 40, 0, Indescernable, 110, 85, Normal
+683, Nytdain, Thaumont, 12, 90, 70, Trace Rain (<1/8 inch), 24, 0, Indescernable, 95, 70, Normal
+684, Loshdain, Thaumont, 13, 90, 75, Trace Rain (<1/8 inch), 40, 0, Indescernable, 95, 80, Normal
+685, Soladain, Thaumont, 14, 90, 70, No Precipitation, 32, 10, Prevailing Direction, 95, 70, Normal
+686, Lunadain, Thaumont, 15, 85, 70, No Precipitation, 31, 25, Prevailing Direction, 90, 70, Normal
+687, Gromdain, Thaumont, 16, 90, 75, No Precipitation, 37, 10, From Tropics, 95, 80, Normal
+688, Tserdain, Thaumont, 17, 95, 75, No Precipitation, 23, 0, Indescernable, 105, 80, Normal
+689, Moldain, Thaumont, 18, 100, 80, No Precipitation, 30, 0, Indescernable, 110, 85, Normal
+690, Nytdain, Thaumont, 19, 100, 80, No Precipitation, 24, 0, Indescernable, 110, 85, Normal
+691, Loshdain, Thaumont, 20, 90, 75, No Precipitation, 28, 10, From Arctic, 95, 80, Normal
+692, Soladain, Thaumont, 21, 90, 75, No Precipitation, 40, 10, Prevailing Direction, 95, 80, Normal
+693, Lunadain, Thaumont, 22, 100, 80, No Precipitation, 22, 0, Indescernable, 110, 85, Normal
+694, Gromdain, Thaumont, 23, 100, 80, No Precipitation, 25, 0, Indescernable, 110, 85, Normal
+695, Tserdain, Thaumont, 24, 100, 80, No Precipitation, 30, 0, Indescernable, 110, 85, Normal
+696, Moldain, Thaumont, 25, 90, 75, No Precipitation, 28, 15, Prevailing Direction, 95, 80, Normal
+697, Nytdain, Thaumont, 26, 100, 80, No Precipitation, 40, 0, Indescernable, 110, 85, Normal
+698, Loshdain, Thaumont, 27, 100, 80, No Precipitation, 21, 0, Indescernable, 110, 85, Normal
+699, Soladain, Thaumont, 28, 95, 75, No Precipitation, 38, 0, Indescernable, 105, 80, Normal
+700, Lunadain, Flaurmont, 1, 95, 75, No Precipitation, 30, 0, Indescernable, 105, 80, Normal
+701, Gromdain, Flaurmont, 2, 90, 75, Trace Rain (<1/8 inch), 40, 10, Prevailing Direction, 95, 80, Normal
+702, Tserdain, Flaurmont, 3, 90, 70, No Precipitation, 37, 25, Prevailing Direction, 95, 70, Normal
+703, Moldain, Flaurmont, 4, 90, 75, No Precipitation, 34, 10, Prevailing Direction, 95, 80, Normal
+704, Nytdain, Flaurmont, 5, 100, 80, No Precipitation, 26, 0, Indescernable, 110, 85, Normal
+705, Loshdain, Flaurmont, 6, 105, 80, No Precipitation, 29, 0, Indescernable, 115, 85, Normal
+706, Soladain, Flaurmont, 7, 95, 75, No Precipitation, 27, 15, Prevailing Direction, 105, 80, Normal
+707, Lunadain, Flaurmont, 8, 95, 75, No Precipitation, 23, 15, Prevailing Direction, 105, 80, Normal
+708, Gromdain, Flaurmont, 9, 90, 70, No Precipitation, 32, 30, From Arctic, 95, 70, Normal
+709, Tserdain, Flaurmont, 10, 85, 70, No Precipitation, 29, 45, Prevailing Direction, 85, 70, Normal
+710, Moldain, Flaurmont, 11, 80, 65, No Precipitation, 35, 45, From Arctic, 80, 65, Normal
+711, Nytdain, Flaurmont, 12, 85, 65, No Precipitation, 40, 30, Prevailing Direction, 90, 65, Normal
+712, Loshdain, Flaurmont, 13, 80, 65, No Precipitation, 36, 45, Prevailing Direction, 80, 65, Normal
+713, Soladain, Flaurmont, 14, 80, 60, No Precipitation, 24, 45, Prevailing Direction, 80, 60, Normal
+714, Lunadain, Flaurmont, 15, 80, 60, Light Rain (<1/2 inch), 30, 45, From Arctic, 80, 60, Normal
+715, Gromdain, Flaurmont, 16, 80, 60, No Precipitation, 22, 45, From Arctic, 80, 60, Normal
+716, Tserdain, Flaurmont, 17, 80, 60, No Precipitation, 29, 45, From Arctic, 80, 60, Normal
+717, Moldain, Flaurmont, 18, 85, 70, No Precipitation, 32, 30, From Tropics, 90, 70, Normal
+718, Nytdain, Flaurmont, 19, 85, 70, No Precipitation, 25, 30, Prevailing Direction, 90, 70, Normal
+719, Loshdain, Flaurmont, 20, 90, 70, No Precipitation, 37, 15, Prevailing Direction, 95, 70, Normal
+720, Soladain, Flaurmont, 21, 90, 70, No Precipitation, 22, 15, Prevailing Direction, 95, 70, Normal
+721, Lunadain, Flaurmont, 22, 90, 70, No Precipitation, 37, 15, Prevailing Direction, 95, 70, Normal
+722, Gromdain, Flaurmont, 23, 90, 70, No Precipitation, 25, 15, Prevailing Direction, 95, 70, Normal
+723, Tserdain, Flaurmont, 24, 85, 70, No Precipitation, 34, 25, Prevailing Direction, 90, 70, Normal
+724, Moldain, Flaurmont, 25, 80, 65, No Precipitation, 22, 40, From Arctic, 80, 65, Normal
+725, Nytdain, Flaurmont, 26, 85, 65, No Precipitation, 21, 25, Prevailing Direction, 90, 65, Normal
+726, Loshdain, Flaurmont, 27, 80, 65, No Precipitation, 37, 40, Prevailing Direction, 80, 65, Normal
+727, Soladain, Flaurmont, 28, 80, 65, No Precipitation, 28, 40, Prevailing Direction, 80, 65, Normal
+728, Lunadain, Yarthmont, 1, 85, 70, No Precipitation, 26, 40, Prevailing Direction, 85, 70, Normal
+729, Gromdain, Yarthmont, 2, 90, 70, No Precipitation, 38, 40, Prevailing Direction, 90, 70, Normal
+730, Tserdain, Yarthmont, 3, 90, 70, No Precipitation, 35, 40, Prevailing Direction, 90, 70, Normal
+731, Moldain, Yarthmont, 4, 85, 70, No Precipitation, 26, 0, Indescernable, 90, 70, Particle Storm
+732, Nytdain, Yarthmont, 5, 85, 70, No Precipitation, 25, 15, Prevailing Direction, 90, 70, Normal
+733, Loshdain, Yarthmont, 6, 85, 70, No Precipitation, 34, 25, Prevailing Direction, 90, 70, Normal
+734, Soladain, Yarthmont, 7, 85, 70, No Precipitation, 26, 40, From Arctic, 85, 70, Normal
+735, Lunadain, Yarthmont, 8, 90, 75, No Precipitation, 21, 25, Prevailing Direction, 95, 75, Normal
+736, Gromdain, Yarthmont, 9, 105, 80, No Precipitation, 40, 0, Indescernable, 115, 85, Drought
+737, Tserdain, Yarthmont, 10, 100, 80, No Precipitation, 37, 10, Prevailing Direction, 110, 85, Drought
+738, Moldain, Yarthmont, 11, 105, 80, No Precipitation, 36, 0, Indescernable, 115, 85, Drought
+739, Nytdain, Yarthmont, 12, 95, 75, No Precipitation, 37, 10, From Arctic, 105, 80, Drought
+740, Loshdain, Yarthmont, 13, 95, 75, No Precipitation, 28, 10, Prevailing Direction, 105, 80, Normal
+741, Soladain, Yarthmont, 14, 90, 70, Trace Rain (<1/8 inch), 32, 20, From Arctic, 95, 70, Normal
+742, Lunadain, Yarthmont, 15, 90, 70, No Precipitation, 32, 20, Prevailing Direction, 95, 70, Normal
+743, Gromdain, Yarthmont, 16, 90, 75, No Precipitation, 35, 5, Prevailing Direction, 95, 80, Normal
+744, Tserdain, Yarthmont, 17, 90, 70, Trace Rain (<1/8 inch), 36, 15, Prevailing Direction, 95, 70, Normal
+745, Moldain, Yarthmont, 18, 85, 70, No Precipitation, 27, 30, From Arctic, 90, 70, Normal
+746, Nytdain, Yarthmont, 19, 85, 70, No Precipitation, 30, 40, Prevailing Direction, 85, 70, Normal
+747, Loshdain, Yarthmont, 20, 90, 75, Trace Rain (<1/8 inch), 27, 30, From Tropics, 95, 75, Normal
+748, Soladain, Yarthmont, 21, 90, 70, No Precipitation, 25, 45, Prevailing Direction, 90, 70, Normal
+749, Lunadain, Yarthmont, 22, 85, 70, No Precipitation, 27, 45, Prevailing Direction, 85, 70, Normal
+750, Gromdain, Yarthmont, 23, 85, 70, No Precipitation, 34, 45, From Arctic, 85, 70, Normal
+751, Tserdain, Yarthmont, 24, 85, 70, No Precipitation, 28, 45, Prevailing Direction, 85, 70, Normal
+752, Moldain, Yarthmont, 25, 85, 70, No Precipitation, 31, 45, Prevailing Direction, 85, 70, Normal
+753, Nytdain, Yarthmont, 26, 85, 70, No Precipitation, 23, 0, Indescernable, 90, 70, Particle Storm
+754, Loshdain, Yarthmont, 27, 85, 70, Trace Rain (<1/8 inch), 34, 10, Prevailing Direction, 90, 70, Normal
+755, Soladain, Yarthmont, 28, 95, 75, No Precipitation, 22, 0, Indescernable, 105, 80, Drought
+756, Lunadain, Klairmont, 1, 90, 75, No Precipitation, 40, 15, Prevailing Direction, 95, 80, Drought
+757, Gromdain, Klairmont, 2, 95, 75, No Precipitation, 26, 5, Prevailing Direction, 105, 80, Drought
+758, Tserdain, Klairmont, 3, 90, 75, No Precipitation, 22, 15, Prevailing Direction, 95, 80, Drought
+759, Moldain, Klairmont, 4, 105, 80, No Precipitation, 34, 0, Indescernable, 115, 85, Normal
+760, Nytdain, Klairmont, 5, 95, 75, No Precipitation, 30, 10, From Arctic, 105, 80, Normal
+761, Loshdain, Klairmont, 6, 95, 75, No Precipitation, 25, 10, Prevailing Direction, 105, 80, Normal
+762, Soladain, Klairmont, 7, 95, 75, No Precipitation, 21, 10, Prevailing Direction, 105, 80, Normal
+763, Lunadain, Klairmont, 8, 90, 75, Trace Rain (<1/8 inch), 29, 20, Prevailing Direction, 95, 75, Normal
+764, Gromdain, Klairmont, 9, 100, 80, No Precipitation, 39, 5, Prevailing Direction, 110, 85, Normal
+765, Tserdain, Klairmont, 10, 105, 80, No Precipitation, 23, 0, Indescernable, 115, 85, Normal
+766, Moldain, Klairmont, 11, 95, 75, No Precipitation, 21, 10, From Arctic, 105, 80, Normal
+767, Nytdain, Klairmont, 12, 95, 75, No Precipitation, 22, 10, Prevailing Direction, 105, 80, Normal
+768, Loshdain, Klairmont, 13, 90, 75, No Precipitation, 32, 20, Prevailing Direction, 95, 75, Normal
+769, Soladain, Klairmont, 14, 90, 75, No Precipitation, 23, 35, Prevailing Direction, 95, 75, Normal
+770, Lunadain, Klairmont, 15, 95, 75, No Precipitation, 21, 25, Prevailing Direction, 100, 75, Normal
+771, Gromdain, Klairmont, 16, 90, 75, Trace Rain (<1/8 inch), 21, 35, From Arctic, 95, 75, Normal
+772, Tserdain, Klairmont, 17, 95, 75, No Precipitation, 21, 35, Prevailing Direction, 100, 75, Normal
+773, Moldain, Klairmont, 18, 90, 75, No Precipitation, 25, 45, Prevailing Direction, 90, 75, Normal
+774, Nytdain, Klairmont, 19, 90, 75, Trace Rain (<1/8 inch), 36, 0, Indescernable, 95, 80, Normal
+775, Loshdain, Klairmont, 20, 90, 75, Trace Rain (<1/8 inch), 35, 10, From Arctic, 95, 80, Normal
+776, Soladain, Klairmont, 21, 90, 75, No Precipitation, 21, 20, Prevailing Direction, 95, 75, Normal
+777, Lunadain, Klairmont, 22, 100, 80, Trace Rain (<1/8 inch), 38, 10, From Tropics, 110, 85, Normal
+778, Gromdain, Klairmont, 23, 100, 80, No Precipitation, 38, 10, Prevailing Direction, 110, 85, Normal
+779, Tserdain, Klairmont, 24, 90, 75, No Precipitation, 27, 25, From Arctic, 95, 75, Normal
+780, Moldain, Klairmont, 25, 95, 75, Trace Rain (<1/8 inch), 32, 15, Prevailing Direction, 105, 80, Normal
+781, Nytdain, Klairmont, 26, 100, 80, No Precipitation, 30, 0, Indescernable, 110, 85, Normal
+782, Loshdain, Klairmont, 27, 100, 80, No Precipitation, 21, 0, Indescernable, 110, 85, Normal
+783, Soladain, Klairmont, 28, 95, 75, No Precipitation, 36, 15, Prevailing Direction, 105, 80, Normal
+784, Lunadain, Felmont, 1, 90, 75, Trace Rain (<1/8 inch), 23, 25, Prevailing Direction, 95, 75, Normal
+785, Gromdain, Felmont, 2, 90, 75, No Precipitation, 30, 40, From Arctic, 90, 75, Normal
+786, Tserdain, Felmont, 3, 90, 75, No Precipitation, 25, 45, Prevailing Direction, 90, 75, Normal
+787, Moldain, Felmont, 4, 90, 75, No Precipitation, 21, 45, Prevailing Direction, 90, 75, Normal
+788, Nytdain, Felmont, 5, 95, 75, No Precipitation, 38, 35, Prevailing Direction, 100, 75, Normal
+789, Loshdain, Felmont, 6, 100, 80, Trace Rain (<1/8 inch), 37, 25, Prevailing Direction, 105, 80, Normal
+790, Soladain, Felmont, 7, 90, 75, Trace Rain (<1/8 inch), 32, 35, From Arctic, 95, 75, Normal
+791, Lunadain, Felmont, 8, 90, 75, No Precipitation, 23, 45, Prevailing Direction, 90, 75, Normal
+792, Gromdain, Felmont, 9, 90, 75, Trace Rain (<1/8 inch), 21, 45, Prevailing Direction, 90, 75, Normal
+793, Tserdain, Felmont, 10, 90, 75, No Precipitation, 34, 45, Prevailing Direction, 90, 75, Normal
+794, Moldain, Felmont, 11, 100, 80, No Precipitation, 21, 35, From Tropics, 105, 80, Normal
+795, Nytdain, Felmont, 12, 100, 80, No Precipitation, 37, 35, Prevailing Direction, 105, 80, Normal
+796, Loshdain, Felmont, 13, 95, 75, Trace Rain (<1/8 inch), 35, 45, Prevailing Direction, 95, 75, Normal
+797, Soladain, Felmont, 14, 90, 75, No Precipitation, 27, 45, From Arctic, 90, 75, Normal
+798, Lunadain, Felmont, 15, 90, 75, No Precipitation, 33, 45, Prevailing Direction, 90, 75, Normal
+799, Gromdain, Felmont, 16, 105, 80, No Precipitation, 22, 30, From Tropics, 110, 80, Normal
+800, Tserdain, Felmont, 17, 95, 75, No Precipitation, 31, 40, From Arctic, 95, 75, Normal
+801, Moldain, Felmont, 18, 90, 75, No Precipitation, 40, 45, Prevailing Direction, 90, 75, Normal
+802, Nytdain, Felmont, 19, 90, 75, No Precipitation, 31, 45, Prevailing Direction, 90, 75, Normal
+803, Loshdain, Felmont, 20, 90, 75, No Precipitation, 27, 45, From Arctic, 90, 75, Normal
+804, Soladain, Felmont, 21, 105, 80, No Precipitation, 24, 30, From Tropics, 110, 80, Normal
+805, Lunadain, Felmont, 22, 115, 85, No Precipitation, 40, 20, Prevailing Direction, 120, 90, Normal
+806, Gromdain, Felmont, 23, 115, 85, No Precipitation, 40, 10, From Tropics, 125, 90, Normal
+807, Tserdain, Felmont, 24, 115, 85, No Precipitation, 33, 0, Indescernable, 125, 90, Normal
+808, Moldain, Felmont, 25, 115, 85, No Precipitation, 21, 0, Indescernable, 125, 90, Normal
+809, Nytdain, Felmont, 26, 105, 80, Trace Rain (<1/8 inch), 35, 10, Prevailing Direction, 115, 85, Normal
+810, Loshdain, Felmont, 27, 95, 75, No Precipitation, 39, 25, From Arctic, 100, 75, Normal
+811, Soladain, Felmont, 28, 90, 75, No Precipitation, 32, 40, From Arctic, 90, 75, Normal
+812, Lunadain, Fyrmont, 1, 90, 70, No Precipitation, 30, 45, Prevailing Direction, 90, 70, Normal
+813, Gromdain, Fyrmont, 2, 100, 80, No Precipitation, 38, 30, From Tropics, 105, 80, Normal
+814, Tserdain, Fyrmont, 3, 105, 80, No Precipitation, 33, 15, Prevailing Direction, 115, 85, Normal
+815, Moldain, Fyrmont, 4, 100, 80, Trace Rain (<1/8 inch), 31, 25, Prevailing Direction, 105, 80, Normal
+816, Nytdain, Fyrmont, 5, 90, 75, Light Rain (<1/2 inch), 22, 35, From Arctic, 95, 75, Normal
+817, Loshdain, Fyrmont, 6, 95, 75, Trace Rain (<1/8 inch), 24, 25, Prevailing Direction, 100, 75, Normal
+818, Soladain, Fyrmont, 7, 90, 75, No Precipitation, 38, 40, Prevailing Direction, 90, 75, Normal
+819, Lunadain, Fyrmont, 8, 100, 80, No Precipitation, 23, 30, From Tropics, 105, 80, Normal
+820, Gromdain, Fyrmont, 9, 105, 80, Light Rain (<1/2 inch), 24, 20, Prevailing Direction, 110, 80, Normal
+821, Tserdain, Fyrmont, 10, 100, 80, No Precipitation, 35, 20, Prevailing Direction, 105, 80, Normal
+822, Moldain, Fyrmont, 11, 105, 80, No Precipitation, 24, 10, From Tropics, 115, 85, Normal
+823, Nytdain, Fyrmont, 12, 105, 80, Light Rain (<1/2 inch), 24, 0, Indescernable, 115, 85, Normal
+824, Loshdain, Fyrmont, 13, 105, 80, No Precipitation, 37, 0, Indescernable, 115, 85, Normal
+825, Soladain, Fyrmont, 14, 100, 80, Light Rain (<1/2 inch), 24, 10, Prevailing Direction, 110, 85, Normal
+826, Lunadain, Fyrmont, 15, 95, 75, Light Rain (<1/2 inch), 28, 20, Prevailing Direction, 100, 75, Normal
+827, Gromdain, Fyrmont, 16, 90, 75, Trace Rain (<1/8 inch), 35, 30, Prevailing Direction, 95, 75, Normal
+828, Tserdain, Fyrmont, 17, 90, 70, No Precipitation, 34, 45, Prevailing Direction, 90, 70, Normal
+829, Moldain, Fyrmont, 18, 100, 80, No Precipitation, 25, 0, Indescernable, 110, 85, Drought
+830, Nytdain, Fyrmont, 19, 90, 75, No Precipitation, 26, 10, From Arctic, 95, 80, Drought
+831, Loshdain, Fyrmont, 20, 95, 75, No Precipitation, 39, 0, Indescernable, 105, 80, Drought
+832, Soladain, Fyrmont, 21, 90, 75, No Precipitation, 36, 10, Prevailing Direction, 95, 80, Drought
+833, Lunadain, Fyrmont, 22, 95, 75, No Precipitation, 23, 0, Indescernable, 105, 80, Drought
+834, Gromdain, Fyrmont, 23, 105, 80, No Precipitation, 25, 0, Indescernable, 115, 85, Drought
+835, Tserdain, Fyrmont, 24, 95, 75, No Precipitation, 40, 15, Prevailing Direction, 105, 80, Drought
+836, Moldain, Fyrmont, 25, 95, 75, No Precipitation, 28, 15, Prevailing Direction, 105, 80, Normal
+837, Nytdain, Fyrmont, 26, 100, 80, Light Rain (<1/2 inch), 40, 5, Prevailing Direction, 110, 85, Normal
+838, Loshdain, Fyrmont, 27, 105, 80, No Precipitation, 31, 0, Indescernable, 115, 85, Normal
+839, Soladain, Fyrmont, 28, 100, 80, Trace Rain (<1/8 inch), 24, 10, Prevailing Direction, 110, 85, Normal
+840, Lunadain, Ambyrmont, 1, 100, 80, No Precipitation, 23, 0, Indescernable, 110, 85, Normal
+841, Gromdain, Ambyrmont, 2, 90, 75, No Precipitation, 35, 15, Prevailing Direction, 95, 80, Normal
+842, Tserdain, Ambyrmont, 3, 90, 70, No Precipitation, 35, 25, Prevailing Direction, 95, 70, Normal
+843, Moldain, Ambyrmont, 4, 95, 75, No Precipitation, 23, 15, From Tropics, 105, 80, Normal
+844, Nytdain, Ambyrmont, 5, 95, 75, No Precipitation, 40, 15, Prevailing Direction, 105, 80, Normal
+845, Loshdain, Ambyrmont, 6, 100, 80, No Precipitation, 23, 0, Indescernable, 110, 85, Normal
+846, Soladain, Ambyrmont, 7, 90, 75, Trace Rain (<1/8 inch), 22, 10, From Arctic, 95, 80, Normal
+847, Lunadain, Ambyrmont, 8, 95, 75, No Precipitation, 35, 0, Indescernable, 105, 80, Normal
+848, Gromdain, Ambyrmont, 9, 100, 80, No Precipitation, 34, 0, Indescernable, 110, 85, Normal
+849, Tserdain, Ambyrmont, 10, 90, 70, No Precipitation, 27, 15, From Arctic, 95, 70, Normal
+850, Moldain, Ambyrmont, 11, 90, 75, No Precipitation, 21, 15, Prevailing Direction, 95, 80, Normal
+851, Nytdain, Ambyrmont, 12, 95, 75, No Precipitation, 34, 5, Prevailing Direction, 105, 80, Normal
+852, Loshdain, Ambyrmont, 13, 95, 75, No Precipitation, 39, 5, Prevailing Direction, 105, 80, Normal
+853, Soladain, Ambyrmont, 14, 90, 75, No Precipitation, 35, 15, Prevailing Direction, 95, 80, Normal
+854, Lunadain, Ambyrmont, 15, 100, 80, Trace Rain (<1/8 inch), 36, 5, From Tropics, 110, 85, Normal
+855, Gromdain, Ambyrmont, 16, 90, 75, No Precipitation, 21, 20, Prevailing Direction, 95, 75, Normal
+856, Tserdain, Ambyrmont, 17, 90, 70, No Precipitation, 22, 35, From Arctic, 95, 70, Normal
+857, Moldain, Ambyrmont, 18, 100, 80, No Precipitation, 22, 0, Indescernable, 110, 85, Drought
+858, Nytdain, Ambyrmont, 19, 95, 75, No Precipitation, 39, 10, Prevailing Direction, 105, 80, Drought
+859, Loshdain, Ambyrmont, 20, 90, 75, No Precipitation, 30, 25, Prevailing Direction, 95, 75, Drought
+860, Soladain, Ambyrmont, 21, 100, 80, No Precipitation, 25, 15, From Tropics, 110, 85, Drought
+861, Lunadain, Ambyrmont, 22, 95, 75, No Precipitation, 26, 15, Prevailing Direction, 105, 80, Drought
+862, Gromdain, Ambyrmont, 23, 90, 75, No Precipitation, 36, 25, Prevailing Direction, 95, 75, Drought
+863, Tserdain, Ambyrmont, 24, 90, 70, No Precipitation, 32, 35, Prevailing Direction, 95, 70, Drought
+864, Moldain, Ambyrmont, 25, 90, 75, No Precipitation, 30, 25, Prevailing Direction, 95, 75, Drought
+865, Nytdain, Ambyrmont, 26, 95, 75, No Precipitation, 25, 10, Prevailing Direction, 105, 80, Drought
+866, Loshdain, Ambyrmont, 27, 100, 80, No Precipitation, 40, 0, Indescernable, 110, 85, Drought
+867, Soladain, Ambyrmont, 28, 95, 75, No Precipitation, 34, 0, Indescernable, 105, 80, Drought
+868, Lunadain, Sviftmont, 1, 90, 75, No Precipitation, 40, 10, Prevailing Direction, 95, 80, Drought
+869, Gromdain, Sviftmont, 2, 95, 75, No Precipitation, 22, 0, Indescernable, 105, 80, Drought
+870, Tserdain, Sviftmont, 3, 95, 75, No Precipitation, 33, 0, Indescernable, 105, 80, Normal
+871, Moldain, Sviftmont, 4, 95, 75, Trace Rain (<1/8 inch), 40, 0, Indescernable, 105, 80, Normal
+872, Nytdain, Sviftmont, 5, 90, 75, No Precipitation, 37, 10, Prevailing Direction, 95, 80, Normal
+873, Loshdain, Sviftmont, 6, 90, 70, No Precipitation, 28, 20, Prevailing Direction, 95, 70, Normal
+874, Soladain, Sviftmont, 7, 85, 70, Trace Rain (<1/8 inch), 30, 30, Prevailing Direction, 90, 70, Normal
+875, Lunadain, Sviftmont, 8, 90, 70, No Precipitation, 25, 15, Prevailing Direction, 95, 70, Normal
+876, Gromdain, Sviftmont, 9, 85, 70, No Precipitation, 26, 30, Prevailing Direction, 90, 70, Normal
+877, Tserdain, Sviftmont, 10, 80, 65, No Precipitation, 25, 40, From Arctic, 80, 65, Normal
+878, Moldain, Sviftmont, 11, 85, 70, No Precipitation, 38, 25, Prevailing Direction, 90, 70, Normal
+879, Nytdain, Sviftmont, 12, 85, 70, No Precipitation, 35, 25, Prevailing Direction, 90, 70, Normal
+880, Loshdain, Sviftmont, 13, 85, 65, No Precipitation, 25, 35, Prevailing Direction, 90, 65, Normal
+881, Soladain, Sviftmont, 14, 85, 70, Trace Rain (<1/8 inch), 31, 25, Prevailing Direction, 90, 70, Normal
+882, Lunadain, Sviftmont, 15, 90, 70, No Precipitation, 24, 10, Prevailing Direction, 95, 70, Normal
+883, Gromdain, Sviftmont, 16, 85, 65, No Precipitation, 28, 20, From Arctic, 90, 65, Normal
+884, Tserdain, Sviftmont, 17, 90, 70, No Precipitation, 34, 10, From Tropics, 95, 70, Normal
+885, Moldain, Sviftmont, 18, 85, 70, No Precipitation, 36, 20, Prevailing Direction, 90, 70, Normal
+886, Nytdain, Sviftmont, 19, 95, 75, Trace Rain (<1/8 inch), 37, 0, Indescernable, 105, 80, Normal
+887, Loshdain, Sviftmont, 20, 95, 75, Trace Rain (<1/8 inch), 27, 0, Indescernable, 105, 80, Normal
+888, Soladain, Sviftmont, 21, 90, 75, No Precipitation, 29, 10, Prevailing Direction, 95, 80, Normal
+889, Lunadain, Sviftmont, 22, 90, 75, No Precipitation, 34, 10, Prevailing Direction, 95, 80, Normal
+890, Gromdain, Sviftmont, 23, 95, 75, Trace Rain (<1/8 inch), 35, 0, Indescernable, 105, 80, Normal
+891, Tserdain, Sviftmont, 24, 85, 70, Trace Rain (<1/8 inch), 35, 0, Indescernable, 90, 70, Normal
+892, Moldain, Sviftmont, 25, 85, 65, No Precipitation, 29, 15, Prevailing Direction, 90, 65, Normal
+893, Nytdain, Sviftmont, 26, 90, 70, No Precipitation, 30, 5, From Tropics, 95, 70, Normal
+894, Loshdain, Sviftmont, 27, 90, 70, No Precipitation, 31, 5, Prevailing Direction, 95, 70, Normal
+895, Soladain, Sviftmont, 28, 85, 65, No Precipitation, 32, 20, From Arctic, 90, 65, Normal
+896, Lunadain, Eirmont, 1, 85, 70, No Precipitation, 38, 10, Prevailing Direction, 90, 70, Normal
+897, Gromdain, Eirmont, 2, 90, 75, No Precipitation, 30, 0, Indescernable, 95, 80, Normal
+898, Tserdain, Eirmont, 3, 85, 65, No Precipitation, 21, 15, From Arctic, 90, 65, Normal
+899, Moldain, Eirmont, 4, 80, 60, Trace Rain (<1/8 inch), 26, 25, From Arctic, 80, 60, Normal
+900, Nytdain, Eirmont, 5, 85, 65, No Precipitation, 31, 10, Prevailing Direction, 90, 65, Normal
+901, Loshdain, Eirmont, 6, 90, 70, No Precipitation, 36, 0, Indescernable, 95, 70, Normal
+902, Soladain, Eirmont, 7, 90, 75, No Precipitation, 37, 0, Indescernable, 95, 80, Normal
+903, Lunadain, Eirmont, 8, 85, 70, No Precipitation, 30, 10, From Arctic, 90, 70, Normal
+904, Gromdain, Eirmont, 9, 90, 75, No Precipitation, 35, 0, Indescernable, 95, 80, Normal
+905, Tserdain, Eirmont, 10, 85, 70, No Precipitation, 26, 15, Prevailing Direction, 90, 70, Normal
+906, Moldain, Eirmont, 11, 90, 75, Trace Rain (<1/8 inch), 40, 5, From Tropics, 95, 80, Normal
+907, Nytdain, Eirmont, 12, 90, 70, No Precipitation, 24, 5, Prevailing Direction, 95, 70, Normal
+908, Loshdain, Eirmont, 13, 85, 65, Trace Rain (<1/8 inch), 39, 15, From Arctic, 90, 65, Normal
+909, Soladain, Eirmont, 14, 80, 65, Trace Rain (<1/8 inch), 31, 25, Prevailing Direction, 80, 65, Normal
+910, Lunadain, Eirmont, 15, 85, 70, No Precipitation, 25, 10, From Tropics, 90, 70, Normal
+911, Gromdain, Eirmont, 16, 85, 70, No Precipitation, 23, 10, Prevailing Direction, 90, 70, Normal
+912, Tserdain, Eirmont, 17, 90, 70, Trace Rain (<1/8 inch), 24, 0, Indescernable, 95, 70, Normal
+913, Moldain, Eirmont, 18, 85, 65, Trace Rain (<1/8 inch), 23, 10, From Arctic, 90, 65, Normal
+914, Nytdain, Eirmont, 19, 80, 60, No Precipitation, 21, 25, From Arctic, 80, 60, Normal
+915, Loshdain, Eirmont, 20, 80, 60, No Precipitation, 31, 40, From Arctic, 80, 60, Normal
+916, Soladain, Eirmont, 21, 80, 60, No Precipitation, 37, 45, Prevailing Direction, 80, 60, Normal
+917, Lunadain, Eirmont, 22, 85, 65, No Precipitation, 24, 30, Prevailing Direction, 90, 65, Normal
+918, Gromdain, Eirmont, 23, 85, 65, No Precipitation, 32, 30, Prevailing Direction, 90, 65, Normal
+919, Tserdain, Eirmont, 24, 90, 70, No Precipitation, 38, 20, From Tropics, 95, 70, Normal
+920, Moldain, Eirmont, 25, 90, 75, No Precipitation, 24, 5, From Tropics, 95, 80, Normal
+921, Nytdain, Eirmont, 26, 90, 75, No Precipitation, 23, 0, Indescernable, 95, 80, Normal
+922, Loshdain, Eirmont, 27, 90, 70, No Precipitation, 31, 0, Indescernable, 95, 70, Normal
+923, Soladain, Eirmont, 28, 90, 70, No Precipitation, 32, 0, Indescernable, 95, 70, Normal
+924, Lunadain, Kaldmont, 1, 90, 70, No Precipitation, 22, 0, Indescernable, 95, 70, Normal
+925, Gromdain, Kaldmont, 2, 85, 70, Trace Rain (<1/8 inch), 40, 10, Prevailing Direction, 90, 70, Normal
+926, Tserdain, Kaldmont, 3, 85, 70, No Precipitation, 27, 10, Prevailing Direction, 90, 70, Normal
+927, Moldain, Kaldmont, 4, 90, 70, No Precipitation, 40, 0, Indescernable, 95, 70, Normal
+928, Nytdain, Kaldmont, 5, 85, 65, No Precipitation, 31, 15, Prevailing Direction, 90, 65, Normal
+929, Loshdain, Kaldmont, 6, 90, 70, No Precipitation, 32, 5, From Tropics, 95, 70, Normal
+930, Soladain, Kaldmont, 7, 85, 70, No Precipitation, 34, 5, Prevailing Direction, 90, 70, Normal
+931, Lunadain, Kaldmont, 8, 90, 70, Trace Rain (<1/8 inch), 35, 0, Indescernable, 95, 70, Normal
+932, Gromdain, Kaldmont, 9, 90, 70, Light Rain (<1/2 inch), 30, 0, Indescernable, 95, 70, Normal
+933, Tserdain, Kaldmont, 10, 90, 70, No Precipitation, 24, 0, Indescernable, 95, 70, Normal
+934, Moldain, Kaldmont, 11, 90, 70, Light Rain (<1/2 inch), 24, 0, Indescernable, 95, 70, Normal
+935, Nytdain, Kaldmont, 12, 90, 70, No Precipitation, 38, 0, Indescernable, 95, 70, Drought
+936, Loshdain, Kaldmont, 13, 80, 65, No Precipitation, 22, 0, Indescernable, 85, 65, Drought
+937, Soladain, Kaldmont, 14, 80, 65, No Precipitation, 39, 0, Indescernable, 85, 65, Drought
+938, Lunadain, Kaldmont, 15, 75, 55, No Precipitation, 35, 10, From Arctic, 80, 55, Drought
+939, Gromdain, Kaldmont, 16, 80, 60, No Precipitation, 28, 10, Prevailing Direction, 85, 60, Drought
+940, Tserdain, Kaldmont, 17, 75, 55, No Precipitation, 21, 20, From Arctic, 75, 55, Drought
+941, Moldain, Kaldmont, 18, 80, 65, No Precipitation, 33, 10, From Tropics, 85, 65, Drought
+942, Nytdain, Kaldmont, 19, 85, 65, No Precipitation, 30, 0, Indescernable, 90, 65, Drought
+943, Loshdain, Kaldmont, 20, 85, 70, No Precipitation, 33, 0, Indescernable, 90, 70, Drought
+944, Soladain, Kaldmont, 21, 90, 70, No Precipitation, 38, 0, Indescernable, 95, 70, Drought
+945, Lunadain, Kaldmont, 22, 90, 70, No Precipitation, 21, 0, Indescernable, 95, 70, Normal
+946, Gromdain, Kaldmont, 23, 90, 70, Light Rain (<1/2 inch), 40, 0, Indescernable, 95, 70, Normal
+947, Tserdain, Kaldmont, 24, 85, 65, No Precipitation, 35, 15, Prevailing Direction, 90, 65, Normal
+948, Moldain, Kaldmont, 25, 90, 70, No Precipitation, 28, 5, From Tropics, 95, 70, Normal
+949, Nytdain, Kaldmont, 26, 85, 70, No Precipitation, 36, 5, Prevailing Direction, 90, 70, Normal
+950, Loshdain, Kaldmont, 27, 80, 65, No Precipitation, 25, 20, From Arctic, 80, 65, Normal
+951, Soladain, Kaldmont, 28, 85, 65, Trace Rain (<1/8 inch), 28, 10, Prevailing Direction, 90, 65, Normal
+952, Lunadain, Nuwmont, 1, 80, 65, No Precipitation, 40, 25, Prevailing Direction, 80, 65, Normal
+953, Gromdain, Nuwmont, 2, 75, 55, Trace Rain (<1/8 inch), 39, 0, Indescernable, 80, 55, Normal
+954, Tserdain, Nuwmont, 3, 80, 65, No Precipitation, 29, 0, Indescernable, 85, 65, Normal
+955, Moldain, Nuwmont, 4, 75, 55, No Precipitation, 31, 10, From Arctic, 80, 55, Normal
+956, Nytdain, Nuwmont, 5, 80, 65, No Precipitation, 36, 0, Indescernable, 85, 65, Normal
+957, Loshdain, Nuwmont, 6, 80, 60, Trace Rain (<1/8 inch), 39, 10, Prevailing Direction, 85, 60, Normal
+958, Soladain, Nuwmont, 7, 75, 55, No Precipitation, 27, 20, Prevailing Direction, 75, 55, Normal
+959, Lunadain, Nuwmont, 8, 80, 60, No Precipitation, 21, 10, Prevailing Direction, 85, 60, Normal
+960, Gromdain, Nuwmont, 9, 75, 55, No Precipitation, 36, 20, Prevailing Direction, 75, 55, Normal
+961, Tserdain, Nuwmont, 10, 75, 55, No Precipitation, 29, 30, Prevailing Direction, 75, 55, Normal
+962, Moldain, Nuwmont, 11, 80, 60, No Precipitation, 30, 20, Prevailing Direction, 80, 60, Normal
+963, Nytdain, Nuwmont, 12, 80, 60, No Precipitation, 23, 20, Prevailing Direction, 80, 60, Normal
+964, Loshdain, Nuwmont, 13, 80, 65, No Precipitation, 21, 10, Prevailing Direction, 85, 65, Normal
+965, Soladain, Nuwmont, 14, 85, 65, No Precipitation, 23, 0, Indescernable, 90, 65, Normal
+966, Lunadain, Nuwmont, 15, 85, 70, No Precipitation, 31, 0, Indescernable, 90, 70, Normal
+967, Gromdain, Nuwmont, 16, 80, 65, No Precipitation, 21, 15, Prevailing Direction, 85, 65, Normal
+968, Tserdain, Nuwmont, 17, 85, 65, No Precipitation, 35, 0, Indescernable, 90, 65, Normal
+969, Moldain, Nuwmont, 18, 85, 70, No Precipitation, 23, 0, Indescernable, 90, 70, Normal
+970, Nytdain, Nuwmont, 19, 85, 65, No Precipitation, 32, 0, Indescernable, 90, 65, Normal
+971, Loshdain, Nuwmont, 20, 80, 65, No Precipitation, 35, 15, Prevailing Direction, 85, 65, Normal
+972, Soladain, Nuwmont, 21, 85, 65, No Precipitation, 40, 5, Prevailing Direction, 90, 65, Normal
+973, Lunadain, Nuwmont, 22, 85, 70, No Precipitation, 31, 0, Indescernable, 90, 70, Normal
+974, Gromdain, Nuwmont, 23, 80, 65, No Precipitation, 40, 10, From Arctic, 85, 65, Normal
+975, Tserdain, Nuwmont, 24, 75, 55, No Precipitation, 36, 20, From Arctic, 75, 55, Normal
+976, Moldain, Nuwmont, 25, 85, 65, No Precipitation, 32, 5, From Tropics, 90, 65, Normal
+977, Nytdain, Nuwmont, 26, 80, 60, No Precipitation, 25, 15, From Arctic, 85, 60, Normal
+978, Loshdain, Nuwmont, 27, 75, 55, No Precipitation, 38, 25, From Arctic, 75, 55, Normal
+979, Soladain, Nuwmont, 28, 80, 65, Trace Rain (<1/8 inch), 33, 15, From Tropics, 85, 65, Normal
+980, Lunadain, Vatermont, 1, 75, 55, Trace Rain (<1/8 inch), 39, 0, Indescernable, 80, 55, Normal
+981, Gromdain, Vatermont, 2, 70, 55, Trace Rain (<1/8 inch), 34, 0, Indescernable, 70, 55, Coldwave
+982, Tserdain, Vatermont, 3, 70, 55, No Precipitation, 27, 0, Indescernable, 70, 55, Coldwave
+983, Moldain, Vatermont, 4, 70, 55, Trace Rain (<1/8 inch), 33, 10, Prevailing Direction, 70, 55, Coldwave
+984, Nytdain, Vatermont, 5, 80, 60, No Precipitation, 33, 0, Indescernable, 85, 60, Normal
+985, Loshdain, Vatermont, 6, 75, 55, No Precipitation, 34, 15, Prevailing Direction, 80, 55, Normal
+986, Soladain, Vatermont, 7, 80, 60, No Precipitation, 31, 15, Prevailing Direction, 85, 60, Normal
+987, Lunadain, Vatermont, 8, 80, 60, No Precipitation, 22, 15, Prevailing Direction, 85, 60, Normal
+988, Gromdain, Vatermont, 9, 85, 65, No Precipitation, 29, 5, From Tropics, 90, 65, Normal
+989, Tserdain, Vatermont, 10, 85, 65, No Precipitation, 36, 5, Prevailing Direction, 90, 65, Normal
+990, Moldain, Vatermont, 11, 80, 65, No Precipitation, 39, 20, Prevailing Direction, 80, 65, Normal
+991, Nytdain, Vatermont, 12, 80, 60, No Precipitation, 32, 35, Prevailing Direction, 80, 60, Normal
+992, Loshdain, Vatermont, 13, 80, 65, Trace Rain (<1/8 inch), 39, 25, Prevailing Direction, 80, 65, Normal
+993, Soladain, Vatermont, 14, 75, 55, No Precipitation, 40, 40, From Arctic, 75, 55, Normal
+994, Lunadain, Vatermont, 15, 80, 65, No Precipitation, 31, 30, From Tropics, 80, 65, Normal
+995, Gromdain, Vatermont, 16, 85, 65, No Precipitation, 39, 20, Prevailing Direction, 90, 65, Normal
+996, Tserdain, Vatermont, 17, 80, 60, No Precipitation, 30, 30, From Arctic, 80, 60, Normal
+997, Moldain, Vatermont, 18, 80, 65, No Precipitation, 37, 20, Prevailing Direction, 80, 65, Normal
+998, Nytdain, Vatermont, 19, 85, 70, Trace Rain (<1/8 inch), 38, 10, From Tropics, 90, 70, Normal
+999, Loshdain, Vatermont, 20, 85, 70, No Precipitation, 33, 10, Prevailing Direction, 90, 70, Normal
+1000, Soladain, Vatermont, 21, 85, 65, No Precipitation, 21, 25, Prevailing Direction, 90, 65, Normal
+1001, Lunadain, Vatermont, 22, 85, 70, No Precipitation, 28, 10, Prevailing Direction, 90, 70, Normal
+1002, Gromdain, Vatermont, 23, 80, 65, No Precipitation, 39, 20, From Arctic, 80, 65, Normal
+1003, Tserdain, Vatermont, 24, 85, 65, No Precipitation, 30, 5, Prevailing Direction, 90, 65, Normal
+1004, Moldain, Vatermont, 25, 80, 65, No Precipitation, 26, 15, Prevailing Direction, 85, 65, Normal
+1005, Nytdain, Vatermont, 26, 80, 65, No Precipitation, 24, 15, Prevailing Direction, 85, 65, Normal
+1006, Loshdain, Vatermont, 27, 75, 55, Trace Rain (<1/8 inch), 33, 25, From Arctic, 75, 55, Normal
+1007, Soladain, Vatermont, 28, 80, 60, No Precipitation, 31, 25, Prevailing Direction, 80, 60, Normal
+1008, Lunadain, Thaumont, 1, 80, 65, No Precipitation, 29, 10, Prevailing Direction, 85, 65, Normal
+1009, Gromdain, Thaumont, 2, 80, 65, No Precipitation, 23, 10, Prevailing Direction, 85, 65, Normal
+1010, Tserdain, Thaumont, 3, 80, 60, No Precipitation, 26, 20, Prevailing Direction, 80, 60, Normal
+1011, Moldain, Thaumont, 4, 75, 55, No Precipitation, 36, 35, Prevailing Direction, 75, 55, Normal
+1012, Nytdain, Thaumont, 5, 80, 65, No Precipitation, 36, 25, From Tropics, 80, 65, Normal
+1013, Loshdain, Thaumont, 6, 75, 55, No Precipitation, 35, 40, From Arctic, 75, 55, Normal
+1014, Soladain, Thaumont, 7, 80, 60, No Precipitation, 32, 40, Prevailing Direction, 80, 60, Normal
+1015, Lunadain, Thaumont, 8, 80, 65, No Precipitation, 25, 30, Prevailing Direction, 80, 65, Normal
+1016, Gromdain, Thaumont, 9, 85, 65, No Precipitation, 26, 20, Prevailing Direction, 90, 65, Normal
+1017, Tserdain, Thaumont, 10, 80, 60, No Precipitation, 40, 35, From Arctic, 80, 60, Normal
+1018, Moldain, Thaumont, 11, 80, 65, No Precipitation, 35, 25, Prevailing Direction, 80, 65, Normal
+1019, Nytdain, Thaumont, 12, 80, 60, No Precipitation, 25, 35, Prevailing Direction, 80, 60, Normal
+1020, Loshdain, Thaumont, 13, 80, 60, No Precipitation, 30, 35, Prevailing Direction, 80, 60, Normal
+1021, Soladain, Thaumont, 14, 80, 60, No Precipitation, 23, 35, Prevailing Direction, 80, 60, Normal
+1022, Lunadain, Thaumont, 15, 75, 55, No Precipitation, 37, 45, Prevailing Direction, 75, 55, Normal
+1023, Gromdain, Thaumont, 16, 75, 55, No Precipitation, 39, 45, Prevailing Direction, 75, 55, Normal
+1024, Tserdain, Thaumont, 17, 75, 55, No Precipitation, 34, 45, Prevailing Direction, 75, 55, Normal
+1025, Moldain, Thaumont, 18, 75, 55, No Precipitation, 32, 45, Prevailing Direction, 75, 55, Normal
+1026, Nytdain, Thaumont, 19, 80, 60, No Precipitation, 28, 35, Prevailing Direction, 80, 60, Normal
+1027, Loshdain, Thaumont, 20, 85, 65, No Precipitation, 29, 25, From Tropics, 90, 65, Normal
+1028, Soladain, Thaumont, 21, 90, 70, No Precipitation, 22, 10, From Tropics, 95, 70, Normal
+1029, Lunadain, Thaumont, 22, 90, 75, No Precipitation, 30, 0, Indescernable, 95, 80, Normal
+1030, Gromdain, Thaumont, 23, 90, 75, No Precipitation, 25, 0, Indescernable, 95, 80, Normal
+1031, Tserdain, Thaumont, 24, 85, 70, No Precipitation, 24, 15, From Arctic, 90, 70, Normal
+1032, Moldain, Thaumont, 25, 90, 70, No Precipitation, 39, 0, Indescernable, 95, 70, Normal
+1033, Nytdain, Thaumont, 26, 90, 75, No Precipitation, 27, 0, Indescernable, 95, 80, Normal
+1034, Loshdain, Thaumont, 27, 95, 75, No Precipitation, 30, 0, Indescernable, 105, 80, Normal
+1035, Soladain, Thaumont, 28, 90, 75, No Precipitation, 39, 10, Prevailing Direction, 95, 80, Normal
+1036, Lunadain, Flaurmont, 1, 90, 75, No Precipitation, 35, 10, Prevailing Direction, 95, 80, Normal
+1037, Gromdain, Flaurmont, 2, 90, 70, No Precipitation, 34, 25, Prevailing Direction, 95, 70, Normal
+1038, Tserdain, Flaurmont, 3, 90, 75, No Precipitation, 25, 10, Prevailing Direction, 95, 80, Normal
+1039, Moldain, Flaurmont, 4, 90, 75, No Precipitation, 36, 10, Prevailing Direction, 95, 80, Normal
+1040, Nytdain, Flaurmont, 5, 95, 75, No Precipitation, 28, 0, Indescernable, 105, 80, Normal
+1041, Loshdain, Flaurmont, 6, 90, 70, No Precipitation, 35, 15, From Arctic, 95, 70, Normal
+1042, Soladain, Flaurmont, 7, 85, 70, No Precipitation, 25, 25, Prevailing Direction, 90, 70, Normal
+1043, Lunadain, Flaurmont, 8, 80, 60, Light Rain (<1/2 inch), 38, 0, Indescernable, 85, 60, Normal
+1044, Gromdain, Flaurmont, 9, 80, 60, No Precipitation, 33, 15, Prevailing Direction, 85, 60, Normal
+1045, Tserdain, Flaurmont, 10, 80, 65, No Precipitation, 28, 15, Prevailing Direction, 85, 65, Normal
+1046, Moldain, Flaurmont, 11, 85, 65, No Precipitation, 25, 5, Prevailing Direction, 90, 65, Normal
+1047, Nytdain, Flaurmont, 12, 85, 65, No Precipitation, 24, 5, Prevailing Direction, 90, 65, Normal
+1048, Loshdain, Flaurmont, 13, 85, 65, No Precipitation, 24, 5, Prevailing Direction, 90, 65, Normal
+1049, Soladain, Flaurmont, 14, 80, 60, Light Rain (<1/2 inch), 38, 0, Indescernable, 85, 60, Normal
+1050, Lunadain, Flaurmont, 15, 85, 65, No Precipitation, 21, 0, Indescernable, 90, 65, Normal
+1051, Gromdain, Flaurmont, 16, 85, 70, Light Rain (<1/2 inch), 28, 0, Indescernable, 90, 70, Normal
+1052, Tserdain, Flaurmont, 17, 80, 60, No Precipitation, 29, 0, Indescernable, 85, 60, Particle Storm
+1053, Moldain, Flaurmont, 18, 80, 60, No Precipitation, 33, 15, Prevailing Direction, 85, 60, Normal
+1054, Nytdain, Flaurmont, 19, 80, 65, Light Rain (<1/2 inch), 30, 5, Prevailing Direction, 85, 65, Normal
+1055, Loshdain, Flaurmont, 20, 85, 65, Trace Rain (<1/8 inch), 22, 0, Indescernable, 90, 65, Normal
+1056, Soladain, Flaurmont, 21, 80, 65, No Precipitation, 34, 15, Prevailing Direction, 85, 65, Normal
+1057, Lunadain, Flaurmont, 22, 115, 85, Light Rain (<1/2 inch), 29, 0, Indescernable, 125, 90, Heatwave
+1058, Gromdain, Flaurmont, 23, 115, 85, No Precipitation, 30, 0, Indescernable, 125, 90, Heatwave
+1059, Tserdain, Flaurmont, 24, 115, 85, No Precipitation, 31, 0, Indescernable, 125, 90, Heatwave
+1060, Moldain, Flaurmont, 25, 115, 85, No Precipitation, 37, 0, Indescernable, 125, 90, Heatwave
+1061, Nytdain, Flaurmont, 26, 115, 85, Trace Rain (<1/8 inch), 21, 10, From Arctic, 125, 90, Heatwave
+1062, Loshdain, Flaurmont, 27, 115, 85, Light Rain (<1/2 inch), 28, 20, Prevailing Direction, 120, 90, Heatwave
+1063, Soladain, Flaurmont, 28, 100, 80, No Precipitation, 34, 30, Prevailing Direction, 105, 80, Normal
+1064, Lunadain, Yarthmont, 1, 115, 85, Trace Rain (<1/8 inch), 40, 0, Indescernable, 125, 90, Normal
+1065, Gromdain, Yarthmont, 2, 105, 80, No Precipitation, 31, 0, Indescernable, 115, 85, Normal
+1066, Tserdain, Yarthmont, 3, 100, 80, No Precipitation, 28, 10, Prevailing Direction, 110, 85, Normal
+1067, Moldain, Yarthmont, 4, 90, 75, Trace Rain (<1/8 inch), 34, 20, From Arctic, 95, 75, Normal
+1068, Nytdain, Yarthmont, 5, 95, 75, No Precipitation, 40, 5, Prevailing Direction, 105, 80, Normal
+1069, Loshdain, Yarthmont, 6, 90, 70, No Precipitation, 34, 20, From Arctic, 95, 70, Normal
+1070, Soladain, Yarthmont, 7, 90, 75, No Precipitation, 23, 10, Prevailing Direction, 95, 80, Normal
+1071, Lunadain, Yarthmont, 8, 90, 70, No Precipitation, 33, 20, Prevailing Direction, 95, 70, Normal
+1072, Gromdain, Yarthmont, 9, 85, 70, No Precipitation, 34, 30, From Arctic, 90, 70, Normal
+1073, Tserdain, Yarthmont, 10, 90, 70, No Precipitation, 31, 30, Prevailing Direction, 95, 70, Normal
+1074, Moldain, Yarthmont, 11, 90, 75, No Precipitation, 21, 20, Prevailing Direction, 95, 75, Normal
+1075, Nytdain, Yarthmont, 12, 100, 80, No Precipitation, 34, 5, From Tropics, 110, 85, Normal
+1076, Loshdain, Yarthmont, 13, 100, 80, No Precipitation, 40, 5, Prevailing Direction, 110, 85, Normal
+1077, Soladain, Yarthmont, 14, 100, 80, No Precipitation, 26, 5, Prevailing Direction, 110, 85, Normal
+1078, Lunadain, Yarthmont, 15, 105, 80, No Precipitation, 37, 0, Indescernable, 115, 85, Normal
+1079, Gromdain, Yarthmont, 16, 115, 85, No Precipitation, 29, 0, Indescernable, 125, 90, Normal
+1080, Tserdain, Yarthmont, 17, 115, 85, No Precipitation, 33, 0, Indescernable, 125, 90, Normal
+1081, Moldain, Yarthmont, 18, 100, 80, No Precipitation, 26, 15, Prevailing Direction, 110, 85, Normal
+1082, Nytdain, Yarthmont, 19, 100, 80, No Precipitation, 30, 15, Prevailing Direction, 110, 85, Normal
+1083, Loshdain, Yarthmont, 20, 105, 80, No Precipitation, 40, 5, Prevailing Direction, 115, 85, Normal
+1084, Soladain, Yarthmont, 21, 95, 75, No Precipitation, 35, 20, From Arctic, 100, 75, Normal
+1085, Lunadain, Yarthmont, 22, 115, 85, Trace Rain (<1/8 inch), 22, 0, Indescernable, 125, 90, Normal
+1086, Gromdain, Yarthmont, 23, 105, 80, No Precipitation, 24, 0, Indescernable, 115, 85, Normal
+1087, Tserdain, Yarthmont, 24, 95, 75, No Precipitation, 25, 10, From Arctic, 105, 80, Normal
+1088, Moldain, Yarthmont, 25, 90, 75, No Precipitation, 31, 20, Prevailing Direction, 95, 75, Normal
+1089, Nytdain, Yarthmont, 26, 85, 70, No Precipitation, 38, 35, From Arctic, 90, 70, Normal
+1090, Loshdain, Yarthmont, 27, 90, 70, No Precipitation, 29, 35, Prevailing Direction, 95, 70, Normal
+1091, Soladain, Yarthmont, 28, 85, 70, No Precipitation, 21, 45, Prevailing Direction, 85, 70, Normal
+1092, Lunadain, Klairmont, 1, 90, 75, No Precipitation, 23, 45, Prevailing Direction, 90, 75, Normal
+1093, Gromdain, Klairmont, 2, 105, 80, No Precipitation, 31, 0, Indescernable, 115, 85, Drought
+1094, Tserdain, Klairmont, 3, 95, 75, No Precipitation, 28, 15, From Arctic, 105, 80, Drought
+1095, Moldain, Klairmont, 4, 90, 75, No Precipitation, 33, 30, Prevailing Direction, 95, 75, Drought
+1096, Nytdain, Klairmont, 5, 90, 75, No Precipitation, 33, 45, From Arctic, 90, 75, Drought
+1097, Loshdain, Klairmont, 6, 90, 75, No Precipitation, 33, 45, Prevailing Direction, 90, 75, Drought
+1098, Soladain, Klairmont, 7, 90, 75, No Precipitation, 40, 45, Prevailing Direction, 90, 75, Drought
+1099, Lunadain, Klairmont, 8, 90, 75, No Precipitation, 29, 45, Prevailing Direction, 90, 75, Drought
+1100, Gromdain, Klairmont, 9, 90, 75, No Precipitation, 33, 45, Prevailing Direction, 90, 75, Drought
+1101, Tserdain, Klairmont, 10, 90, 75, No Precipitation, 40, 45, Prevailing Direction, 90, 75, Drought
+1102, Moldain, Klairmont, 11, 90, 75, No Precipitation, 31, 45, From Arctic, 90, 75, Drought
+1103, Nytdain, Klairmont, 12, 90, 75, No Precipitation, 39, 45, Prevailing Direction, 90, 75, Drought
+1104, Loshdain, Klairmont, 13, 90, 75, No Precipitation, 37, 45, Prevailing Direction, 90, 75, Drought
+1105, Soladain, Klairmont, 14, 90, 75, No Precipitation, 29, 45, From Arctic, 90, 75, Drought
+1106, Lunadain, Klairmont, 15, 105, 80, No Precipitation, 25, 0, Indescernable, 115, 85, Drought
+1107, Gromdain, Klairmont, 16, 105, 80, No Precipitation, 36, 0, Indescernable, 115, 85, Normal
+1108, Tserdain, Klairmont, 17, 115, 85, Trace Rain (<1/8 inch), 35, 0, Indescernable, 125, 90, Normal
+1109, Moldain, Klairmont, 18, 115, 85, No Precipitation, 31, 0, Indescernable, 125, 90, Normal
+1110, Nytdain, Klairmont, 19, 115, 85, Trace Rain (<1/8 inch), 30, 0, Indescernable, 125, 90, Normal
+1111, Loshdain, Klairmont, 20, 105, 80, No Precipitation, 36, 0, Indescernable, 115, 85, Normal
+1112, Soladain, Klairmont, 21, 100, 80, No Precipitation, 34, 10, Prevailing Direction, 110, 85, Normal
+1113, Lunadain, Klairmont, 22, 100, 80, No Precipitation, 37, 10, Prevailing Direction, 110, 85, Normal
+1114, Gromdain, Klairmont, 23, 100, 80, No Precipitation, 22, 10, Prevailing Direction, 110, 85, Normal
+1115, Tserdain, Klairmont, 24, 105, 80, No Precipitation, 32, 0, Indescernable, 115, 85, Normal
+1116, Moldain, Klairmont, 25, 95, 75, No Precipitation, 32, 10, From Arctic, 105, 80, Normal
+1117, Nytdain, Klairmont, 26, 90, 75, Trace Rain (<1/8 inch), 28, 20, From Arctic, 95, 75, Normal
+1118, Loshdain, Klairmont, 27, 95, 75, No Precipitation, 28, 20, Prevailing Direction, 100, 75, Normal
+1119, Soladain, Klairmont, 28, 105, 80, Trace Rain (<1/8 inch), 26, 10, From Tropics, 115, 85, Normal
+1120, Lunadain, Felmont, 1, 100, 80, No Precipitation, 37, 25, Prevailing Direction, 105, 80, Normal
+1121, Gromdain, Felmont, 2, 100, 80, No Precipitation, 35, 25, Prevailing Direction, 105, 80, Normal
+1122, Tserdain, Felmont, 3, 100, 80, No Precipitation, 24, 25, Prevailing Direction, 105, 80, Normal
+1123, Moldain, Felmont, 4, 95, 75, No Precipitation, 33, 35, Prevailing Direction, 100, 75, Normal
+1124, Nytdain, Felmont, 5, 100, 80, No Precipitation, 34, 20, Prevailing Direction, 105, 80, Normal
+1125, Loshdain, Felmont, 6, 90, 75, No Precipitation, 29, 35, From Arctic, 95, 75, Normal
+1126, Soladain, Felmont, 7, 100, 80, No Precipitation, 37, 20, Prevailing Direction, 105, 80, Normal
+1127, Lunadain, Felmont, 8, 115, 85, Trace Rain (<1/8 inch), 23, 0, Indescernable, 125, 90, Normal
+1128, Gromdain, Felmont, 9, 115, 85, Trace Rain (<1/8 inch), 32, 0, Indescernable, 125, 90, Normal
+1129, Tserdain, Felmont, 10, 115, 85, Trace Rain (<1/8 inch), 22, 0, Indescernable, 125, 90, Normal
+1130, Moldain, Felmont, 11, 105, 80, No Precipitation, 21, 0, Indescernable, 115, 85, Normal
+1131, Nytdain, Felmont, 12, 95, 75, Trace Rain (<1/8 inch), 40, 10, From Arctic, 105, 80, Normal
+1132, Loshdain, Felmont, 13, 95, 75, No Precipitation, 26, 10, Prevailing Direction, 105, 80, Normal
+1133, Soladain, Felmont, 14, 90, 75, Trace Rain (<1/8 inch), 26, 20, From Arctic, 95, 75, Normal
+1134, Lunadain, Felmont, 15, 95, 75, No Precipitation, 33, 10, Prevailing Direction, 105, 80, Normal
+1135, Gromdain, Felmont, 16, 100, 80, No Precipitation, 21, 0, Indescernable, 110, 85, Normal
+1136, Tserdain, Felmont, 17, 105, 80, No Precipitation, 40, 0, Indescernable, 115, 85, Normal
+1137, Moldain, Felmont, 18, 90, 75, No Precipitation, 38, 0, Indescernable, 95, 80, Particle Storm
+1138, Nytdain, Felmont, 19, 95, 75, Trace Rain (<1/8 inch), 34, 0, Indescernable, 105, 80, Normal
+1139, Loshdain, Felmont, 20, 90, 75, No Precipitation, 28, 15, Prevailing Direction, 95, 80, Normal
+1140, Soladain, Felmont, 21, 90, 75, No Precipitation, 28, 25, From Arctic, 95, 75, Normal
+1141, Lunadain, Felmont, 22, 90, 75, Trace Rain (<1/8 inch), 22, 35, Prevailing Direction, 95, 75, Normal
+1142, Gromdain, Felmont, 23, 95, 75, Trace Rain (<1/8 inch), 30, 25, Prevailing Direction, 100, 75, Normal
+1143, Tserdain, Felmont, 24, 105, 80, No Precipitation, 36, 15, From Tropics, 115, 85, Normal
+1144, Moldain, Felmont, 25, 115, 85, No Precipitation, 22, 5, Prevailing Direction, 125, 90, Normal
+1145, Nytdain, Felmont, 26, 105, 80, Trace Rain (<1/8 inch), 26, 15, Prevailing Direction, 115, 85, Normal
+1146, Loshdain, Felmont, 27, 115, 85, No Precipitation, 23, 0, Indescernable, 125, 90, Normal
+1147, Soladain, Felmont, 28, 95, 75, No Precipitation, 27, 15, From Arctic, 105, 80, Normal
+1148, Lunadain, Fyrmont, 1, 90, 75, No Precipitation, 27, 30, Prevailing Direction, 95, 75, Normal
+1149, Gromdain, Fyrmont, 2, 90, 70, No Precipitation, 26, 40, From Arctic, 90, 70, Normal
+1150, Tserdain, Fyrmont, 3, 90, 70, No Precipitation, 31, 45, From Arctic, 90, 70, Normal
+1151, Moldain, Fyrmont, 4, 100, 80, No Precipitation, 35, 30, From Tropics, 105, 80, Normal
+1152, Nytdain, Fyrmont, 5, 100, 80, No Precipitation, 32, 30, Prevailing Direction, 105, 80, Normal
+1153, Loshdain, Fyrmont, 6, 90, 75, Trace Rain (<1/8 inch), 34, 40, From Arctic, 90, 75, Normal
+1154, Soladain, Fyrmont, 7, 90, 70, Light Rain (<1/2 inch), 27, 0, Indescernable, 95, 70, Normal
+1155, Lunadain, Fyrmont, 8, 90, 70, Trace Rain (<1/8 inch), 23, 10, Prevailing Direction, 95, 70, Normal
+1156, Gromdain, Fyrmont, 9, 100, 80, No Precipitation, 35, 0, Indescernable, 110, 85, Normal
+1157, Tserdain, Fyrmont, 10, 90, 75, No Precipitation, 24, 10, From Arctic, 95, 80, Normal
+1158, Moldain, Fyrmont, 11, 100, 80, Trace Rain (<1/8 inch), 21, 0, Indescernable, 110, 85, Normal
+1159, Nytdain, Fyrmont, 12, 100, 80, No Precipitation, 25, 0, Indescernable, 110, 85, Normal
+1160, Loshdain, Fyrmont, 13, 95, 75, No Precipitation, 26, 10, Prevailing Direction, 105, 80, Normal
+1161, Soladain, Fyrmont, 14, 100, 80, No Precipitation, 38, 0, Indescernable, 110, 85, Normal
+1162, Lunadain, Fyrmont, 15, 95, 75, No Precipitation, 34, 15, Prevailing Direction, 105, 80, Normal
+1163, Gromdain, Fyrmont, 16, 90, 75, No Precipitation, 34, 30, Prevailing Direction, 95, 75, Normal
+1164, Tserdain, Fyrmont, 17, 90, 70, No Precipitation, 27, 40, Prevailing Direction, 90, 70, Normal
+1165, Moldain, Fyrmont, 18, 90, 75, No Precipitation, 28, 40, Prevailing Direction, 90, 75, Normal
+1166, Nytdain, Fyrmont, 19, 95, 75, No Precipitation, 27, 25, Prevailing Direction, 100, 75, Normal
+1167, Loshdain, Fyrmont, 20, 100, 80, No Precipitation, 34, 10, Prevailing Direction, 110, 85, Normal
+1168, Soladain, Fyrmont, 21, 100, 80, No Precipitation, 35, 10, Prevailing Direction, 110, 85, Normal
+1169, Lunadain, Fyrmont, 22, 90, 75, No Precipitation, 35, 20, From Arctic, 95, 75, Normal
+1170, Gromdain, Fyrmont, 23, 100, 80, Trace Rain (<1/8 inch), 31, 10, From Tropics, 110, 85, Normal
+1171, Tserdain, Fyrmont, 24, 105, 80, No Precipitation, 29, 0, Indescernable, 115, 85, Normal
+1172, Moldain, Fyrmont, 25, 100, 80, No Precipitation, 26, 0, Indescernable, 110, 85, Normal
+1173, Nytdain, Fyrmont, 26, 100, 80, No Precipitation, 37, 0, Indescernable, 110, 85, Normal
+1174, Loshdain, Fyrmont, 27, 105, 80, No Precipitation, 36, 0, Indescernable, 115, 85, Normal
+1175, Soladain, Fyrmont, 28, 105, 80, No Precipitation, 24, 0, Indescernable, 115, 85, Normal
+1176, Lunadain, Ambyrmont, 1, 100, 80, Trace Rain (<1/8 inch), 30, 0, Indescernable, 110, 85, Normal
+1177, Gromdain, Ambyrmont, 2, 90, 75, Trace Rain (<1/8 inch), 36, 10, From Arctic, 95, 80, Normal
+1178, Tserdain, Ambyrmont, 3, 100, 80, Trace Rain (<1/8 inch), 35, 0, Indescernable, 110, 85, Normal
+1179, Moldain, Ambyrmont, 4, 90, 75, No Precipitation, 37, 15, Prevailing Direction, 95, 80, Normal
+1180, Nytdain, Ambyrmont, 5, 90, 70, No Precipitation, 29, 30, Prevailing Direction, 95, 70, Normal
+1181, Loshdain, Ambyrmont, 6, 90, 75, No Precipitation, 23, 30, Prevailing Direction, 95, 75, Normal
+1182, Soladain, Ambyrmont, 7, 90, 75, No Precipitation, 38, 30, Prevailing Direction, 95, 75, Normal
+1183, Lunadain, Ambyrmont, 8, 90, 70, No Precipitation, 33, 40, From Arctic, 90, 70, Normal
+1184, Gromdain, Ambyrmont, 9, 90, 70, No Precipitation, 25, 45, From Arctic, 90, 70, Normal
+1185, Tserdain, Ambyrmont, 10, 90, 75, No Precipitation, 24, 35, Prevailing Direction, 95, 75, Normal
+1186, Moldain, Ambyrmont, 11, 90, 70, No Precipitation, 23, 45, Prevailing Direction, 90, 70, Normal
+1187, Nytdain, Ambyrmont, 12, 90, 70, No Precipitation, 27, 45, Prevailing Direction, 90, 70, Normal
+1188, Loshdain, Ambyrmont, 13, 90, 75, No Precipitation, 38, 35, Prevailing Direction, 95, 75, Normal
+1189, Soladain, Ambyrmont, 14, 90, 75, No Precipitation, 35, 35, Prevailing Direction, 95, 75, Normal
+1190, Lunadain, Ambyrmont, 15, 90, 70, No Precipitation, 28, 45, Prevailing Direction, 90, 70, Normal
+1191, Gromdain, Ambyrmont, 16, 95, 75, No Precipitation, 37, 30, Prevailing Direction, 100, 75, Normal
+1192, Tserdain, Ambyrmont, 17, 100, 80, No Precipitation, 34, 20, Prevailing Direction, 105, 80, Normal
+1193, Moldain, Ambyrmont, 18, 100, 80, Trace Rain (<1/8 inch), 30, 10, Prevailing Direction, 110, 85, Normal
+1194, Nytdain, Ambyrmont, 19, 100, 80, No Precipitation, 39, 0, Indescernable, 110, 85, Normal
+1195, Loshdain, Ambyrmont, 20, 90, 70, Trace Rain (<1/8 inch), 21, 65, Prevailing, 90, 70, Gale
+1196, Soladain, Ambyrmont, 21, 90, 70, No Precipitation, 31, 45, From Arctic, 90, 70, Normal
+1197, Lunadain, Ambyrmont, 22, 95, 75, No Precipitation, 21, 35, From Tropics, 100, 75, Normal
+1198, Gromdain, Ambyrmont, 23, 95, 75, No Precipitation, 23, 35, Prevailing Direction, 100, 75, Normal
+1199, Tserdain, Ambyrmont, 24, 90, 75, No Precipitation, 30, 45, Prevailing Direction, 90, 75, Normal
+1200, Moldain, Ambyrmont, 25, 90, 70, No Precipitation, 26, 45, Prevailing Direction, 90, 70, Normal
+1201, Nytdain, Ambyrmont, 26, 95, 75, Trace Rain (<1/8 inch), 33, 35, From Tropics, 100, 75, Normal
+1202, Loshdain, Ambyrmont, 27, 100, 80, No Precipitation, 37, 25, Prevailing Direction, 105, 80, Normal
+1203, Soladain, Ambyrmont, 28, 90, 75, No Precipitation, 28, 40, Prevailing Direction, 90, 75, Normal
+1204, Lunadain, Sviftmont, 1, 85, 65, Trace Rain (<1/8 inch), 22, 0, Indescernable, 90, 65, Normal
+1205, Gromdain, Sviftmont, 2, 80, 65, No Precipitation, 37, 10, Prevailing Direction, 85, 65, Normal
+1206, Tserdain, Sviftmont, 3, 80, 65, No Precipitation, 33, 20, Prevailing Direction, 80, 65, Normal
+1207, Moldain, Sviftmont, 4, 80, 65, Trace Rain (<1/8 inch), 40, 30, From Arctic, 80, 65, Normal
+1208, Nytdain, Sviftmont, 5, 85, 65, No Precipitation, 23, 20, Prevailing Direction, 90, 65, Normal
+1209, Loshdain, Sviftmont, 6, 90, 70, No Precipitation, 24, 5, From Tropics, 95, 70, Normal
+1210, Soladain, Sviftmont, 7, 95, 75, No Precipitation, 22, 0, Indescernable, 105, 80, Normal
+1211, Lunadain, Sviftmont, 8, 95, 75, Trace Rain (<1/8 inch), 40, 0, Indescernable, 105, 80, Normal
+1212, Gromdain, Sviftmont, 9, 90, 75, No Precipitation, 36, 0, Indescernable, 95, 80, Normal
+1213, Tserdain, Sviftmont, 10, 95, 75, No Precipitation, 35, 0, Indescernable, 105, 80, Normal
+1214, Moldain, Sviftmont, 11, 90, 75, No Precipitation, 38, 0, Indescernable, 95, 80, Normal
+1215, Nytdain, Sviftmont, 12, 90, 70, Trace Rain (<1/8 inch), 36, 10, Prevailing Direction, 95, 70, Normal
+1216, Loshdain, Sviftmont, 13, 80, 65, Trace Rain (<1/8 inch), 35, 0, Indescernable, 85, 65, Normal
+1217, Soladain, Sviftmont, 14, 80, 65, No Precipitation, 27, 10, Prevailing Direction, 85, 65, Normal
+1218, Lunadain, Sviftmont, 15, 80, 65, No Precipitation, 30, 20, From Arctic, 80, 65, Normal
+1219, Gromdain, Sviftmont, 16, 80, 65, No Precipitation, 34, 35, Prevailing Direction, 80, 65, Normal
+1220, Tserdain, Sviftmont, 17, 85, 65, No Precipitation, 36, 25, Prevailing Direction, 90, 65, Normal
+1221, Moldain, Sviftmont, 18, 85, 70, No Precipitation, 33, 10, Prevailing Direction, 90, 70, Normal
+1222, Nytdain, Sviftmont, 19, 90, 70, No Precipitation, 36, 0, Indescernable, 95, 70, Normal
+1223, Loshdain, Sviftmont, 20, 90, 75, No Precipitation, 37, 0, Indescernable, 95, 80, Normal
+1224, Soladain, Sviftmont, 21, 90, 70, Trace Rain (<1/8 inch), 36, 10, Prevailing Direction, 95, 70, Normal
+1225, Lunadain, Sviftmont, 22, 85, 70, No Precipitation, 22, 25, Prevailing Direction, 90, 70, Normal
+1226, Gromdain, Sviftmont, 23, 90, 70, No Precipitation, 31, 10, Prevailing Direction, 95, 70, Normal
+1227, Tserdain, Sviftmont, 24, 90, 70, No Precipitation, 32, 10, Prevailing Direction, 95, 70, Normal
+1228, Moldain, Sviftmont, 25, 85, 70, No Precipitation, 38, 25, Prevailing Direction, 90, 70, Normal
+1229, Nytdain, Sviftmont, 26, 85, 65, Trace Rain (<1/8 inch), 35, 35, Prevailing Direction, 90, 65, Normal
+1230, Loshdain, Sviftmont, 27, 80, 65, Trace Rain (<1/8 inch), 31, 45, Prevailing Direction, 80, 65, Normal
+1231, Soladain, Sviftmont, 28, 80, 65, No Precipitation, 23, 45, Prevailing Direction, 80, 65, Normal
+1232, Lunadain, Eirmont, 1, 80, 60, No Precipitation, 29, 45, Prevailing Direction, 80, 60, Normal
+1233, Gromdain, Eirmont, 2, 80, 65, No Precipitation, 33, 45, Prevailing Direction, 80, 65, Normal
+1234, Tserdain, Eirmont, 3, 85, 65, No Precipitation, 25, 30, Prevailing Direction, 90, 65, Normal
+1235, Moldain, Eirmont, 4, 85, 70, No Precipitation, 36, 15, Prevailing Direction, 90, 70, Normal
+1236, Nytdain, Eirmont, 5, 85, 65, No Precipitation, 39, 30, Prevailing Direction, 90, 65, Normal
+1237, Loshdain, Eirmont, 6, 80, 60, No Precipitation, 30, 40, From Arctic, 80, 60, Normal
+1238, Soladain, Eirmont, 7, 85, 70, No Precipitation, 32, 25, From Tropics, 90, 70, Normal
+1239, Lunadain, Eirmont, 8, 85, 70, No Precipitation, 33, 25, Prevailing Direction, 90, 70, Normal
+1240, Gromdain, Eirmont, 9, 90, 75, Trace Rain (<1/8 inch), 34, 15, From Tropics, 95, 80, Normal
+1241, Tserdain, Eirmont, 10, 90, 75, No Precipitation, 22, 5, Prevailing Direction, 95, 80, Normal
+1242, Moldain, Eirmont, 11, 90, 70, No Precipitation, 24, 5, Prevailing Direction, 95, 70, Normal
+1243, Nytdain, Eirmont, 12, 85, 65, No Precipitation, 37, 15, From Arctic, 90, 65, Normal
+1244, Loshdain, Eirmont, 13, 85, 70, No Precipitation, 29, 5, Prevailing Direction, 90, 70, Normal
+1245, Soladain, Eirmont, 14, 85, 65, No Precipitation, 23, 20, Prevailing Direction, 90, 65, Normal
+1246, Lunadain, Eirmont, 15, 85, 70, No Precipitation, 32, 5, Prevailing Direction, 90, 70, Normal
+1247, Gromdain, Eirmont, 16, 80, 65, No Precipitation, 27, 15, From Arctic, 85, 65, Normal
+1248, Tserdain, Eirmont, 17, 80, 60, No Precipitation, 39, 30, Prevailing Direction, 80, 60, Normal
+1249, Moldain, Eirmont, 18, 80, 60, No Precipitation, 36, 45, Prevailing Direction, 80, 60, Normal
+1250, Nytdain, Eirmont, 19, 85, 65, No Precipitation, 37, 35, From Tropics, 90, 65, Normal
+1251, Loshdain, Eirmont, 20, 85, 65, No Precipitation, 27, 35, Prevailing Direction, 90, 65, Normal
+1252, Soladain, Eirmont, 21, 85, 70, No Precipitation, 22, 20, Prevailing Direction, 90, 70, Normal
+1253, Lunadain, Eirmont, 22, 80, 65, No Precipitation, 21, 30, From Arctic, 80, 65, Normal
+1254, Gromdain, Eirmont, 23, 80, 65, No Precipitation, 33, 30, Prevailing Direction, 80, 65, Normal
+1255, Tserdain, Eirmont, 24, 80, 60, Trace Rain (<1/8 inch), 38, 40, From Arctic, 80, 60, Normal
+1256, Moldain, Eirmont, 25, 80, 60, Trace Rain (<1/8 inch), 40, 45, From Arctic, 80, 60, Normal
+1257, Nytdain, Eirmont, 26, 80, 60, No Precipitation, 34, 45, Prevailing Direction, 80, 60, Normal
+1258, Loshdain, Eirmont, 27, 80, 60, No Precipitation, 33, 45, Prevailing Direction, 80, 60, Normal
+1259, Soladain, Eirmont, 28, 85, 65, No Precipitation, 24, 30, Prevailing Direction, 90, 65, Normal
+1260, Lunadain, Kaldmont, 1, 75, 55, Light Rain (<1/2 inch), 38, 55, Prevailing, 75, 55, Gale
+1261, Gromdain, Kaldmont, 2, 85, 65, No Precipitation, 40, 40, From Tropics, 85, 65, Normal
+1262, Tserdain, Kaldmont, 3, 90, 70, No Precipitation, 40, 25, From Tropics, 95, 70, Normal
+1263, Moldain, Kaldmont, 4, 85, 70, Trace Rain (<1/8 inch), 34, 35, Prevailing Direction, 90, 70, Normal
+1264, Nytdain, Kaldmont, 5, 85, 65, Light Rain (<1/2 inch), 36, 45, Prevailing Direction, 85, 65, Normal
+1265, Loshdain, Kaldmont, 6, 80, 65, No Precipitation, 39, 45, Prevailing Direction, 80, 65, Normal
+1266, Soladain, Kaldmont, 7, 80, 60, No Precipitation, 31, 45, Prevailing Direction, 80, 60, Normal
+1267, Lunadain, Kaldmont, 8, 85, 65, Trace Rain (<1/8 inch), 27, 35, From Tropics, 90, 65, Normal
+1268, Gromdain, Kaldmont, 9, 90, 70, No Precipitation, 33, 20, From Tropics, 95, 70, Normal
+1269, Tserdain, Kaldmont, 10, 85, 70, No Precipitation, 23, 20, Prevailing Direction, 90, 70, Normal
+1270, Moldain, Kaldmont, 11, 90, 70, Trace Rain (<1/8 inch), 23, 10, Prevailing Direction, 95, 70, Normal
+1271, Nytdain, Kaldmont, 12, 85, 70, No Precipitation, 33, 10, Prevailing Direction, 90, 70, Normal
+1272, Loshdain, Kaldmont, 13, 85, 70, No Precipitation, 24, 10, Prevailing Direction, 90, 70, Normal
+1273, Soladain, Kaldmont, 14, 80, 65, Light Rain (<1/2 inch), 31, 20, From Arctic, 80, 65, Normal
+1274, Lunadain, Kaldmont, 15, 85, 65, No Precipitation, 35, 10, Prevailing Direction, 90, 65, Normal
+1275, Gromdain, Kaldmont, 16, 90, 70, No Precipitation, 33, 0, Indescernable, 95, 70, Normal
+1276, Tserdain, Kaldmont, 17, 90, 70, Trace Rain (<1/8 inch), 37, 0, Indescernable, 95, 70, Normal
+1277, Moldain, Kaldmont, 18, 90, 70, No Precipitation, 26, 0, Indescernable, 95, 70, Normal
+1278, Nytdain, Kaldmont, 19, 85, 70, No Precipitation, 31, 0, Indescernable, 90, 70, Normal
+1279, Loshdain, Kaldmont, 20, 90, 70, No Precipitation, 28, 0, Indescernable, 95, 70, Normal
+1280, Soladain, Kaldmont, 21, 85, 70, No Precipitation, 29, 10, Prevailing Direction, 90, 70, Normal
+1281, Lunadain, Kaldmont, 22, 85, 70, No Precipitation, 26, 10, Prevailing Direction, 90, 70, Normal
+1282, Gromdain, Kaldmont, 23, 90, 70, Trace Rain (<1/8 inch), 26, 0, Indescernable, 95, 70, Normal
+1283, Tserdain, Kaldmont, 24, 85, 70, No Precipitation, 39, 0, Indescernable, 90, 70, Normal
+1284, Moldain, Kaldmont, 25, 85, 65, Trace Rain (<1/8 inch), 38, 10, Prevailing Direction, 90, 65, Normal
+1285, Nytdain, Kaldmont, 26, 80, 65, No Precipitation, 24, 20, Prevailing Direction, 80, 65, Normal
+1286, Loshdain, Kaldmont, 27, 80, 60, No Precipitation, 30, 30, Prevailing Direction, 80, 60, Normal
+1287, Soladain, Kaldmont, 28, 75, 55, Trace Rain (<1/8 inch), 24, 40, From Arctic, 75, 55, Normal
+1288, Lunadain, Nuwmont, 1, 80, 65, No Precipitation, 38, 25, Prevailing Direction, 80, 65, Normal
+1289, Gromdain, Nuwmont, 2, 85, 65, No Precipitation, 40, 10, Prevailing Direction, 90, 65, Normal
+1290, Tserdain, Nuwmont, 3, 80, 65, No Precipitation, 38, 20, Prevailing Direction, 80, 65, Normal
+1291, Moldain, Nuwmont, 4, 80, 65, No Precipitation, 23, 20, Prevailing Direction, 80, 65, Normal
+1292, Nytdain, Nuwmont, 5, 85, 65, No Precipitation, 26, 5, Prevailing Direction, 90, 65, Normal
+1293, Loshdain, Nuwmont, 6, 85, 65, No Precipitation, 28, 5, Prevailing Direction, 90, 65, Normal
+1294, Soladain, Nuwmont, 7, 85, 70, No Precipitation, 35, 0, Indescernable, 90, 70, Normal
+1295, Lunadain, Nuwmont, 8, 85, 70, No Precipitation, 38, 0, Indescernable, 90, 70, Normal
+1296, Gromdain, Nuwmont, 9, 85, 70, No Precipitation, 24, 0, Indescernable, 90, 70, Normal
+1297, Tserdain, Nuwmont, 10, 85, 70, No Precipitation, 25, 0, Indescernable, 90, 70, Normal
+1298, Moldain, Nuwmont, 11, 85, 65, No Precipitation, 38, 10, Prevailing Direction, 90, 65, Normal
+1299, Nytdain, Nuwmont, 12, 85, 65, No Precipitation, 38, 10, Prevailing Direction, 90, 65, Normal
+1300, Loshdain, Nuwmont, 13, 85, 70, No Precipitation, 38, 0, Indescernable, 90, 70, Normal
+1301, Soladain, Nuwmont, 14, 90, 70, Trace Rain (<1/8 inch), 22, 0, Indescernable, 95, 70, Heatwave
+1302, Lunadain, Nuwmont, 15, 90, 70, No Precipitation, 38, 0, Indescernable, 95, 70, Heatwave
+1303, Gromdain, Nuwmont, 16, 90, 70, No Precipitation, 27, 0, Indescernable, 95, 70, Heatwave
+1304, Tserdain, Nuwmont, 17, 90, 70, No Precipitation, 23, 0, Indescernable, 95, 70, Heatwave
+1305, Moldain, Nuwmont, 18, 90, 70, No Precipitation, 35, 0, Indescernable, 95, 70, Heatwave
+1306, Nytdain, Nuwmont, 19, 85, 70, No Precipitation, 23, 0, Indescernable, 90, 70, Normal
+1307, Loshdain, Nuwmont, 20, 80, 60, Trace Rain (<1/8 inch), 33, 0, Indescernable, 85, 60, Normal
+1308, Soladain, Nuwmont, 21, 85, 65, No Precipitation, 31, 0, Indescernable, 90, 65, Normal
+1309, Lunadain, Nuwmont, 22, 80, 60, No Precipitation, 33, 15, From Arctic, 85, 60, Normal
+1310, Gromdain, Nuwmont, 23, 75, 55, No Precipitation, 37, 30, From Arctic, 75, 55, Normal
+1311, Tserdain, Nuwmont, 24, 75, 55, No Precipitation, 37, 40, Prevailing Direction, 75, 55, Normal
+1312, Moldain, Nuwmont, 25, 75, 55, Trace Rain (<1/8 inch), 33, 45, From Arctic, 75, 55, Normal
+1313, Nytdain, Nuwmont, 26, 75, 55, No Precipitation, 24, 45, Prevailing Direction, 75, 55, Normal
+1314, Loshdain, Nuwmont, 27, 75, 55, No Precipitation, 22, 45, From Arctic, 75, 55, Normal
+1315, Soladain, Nuwmont, 28, 80, 60, No Precipitation, 28, 45, Prevailing Direction, 80, 60, Normal
+1316, Lunadain, Vatermont, 1, 80, 65, No Precipitation, 38, 30, Prevailing Direction, 80, 65, Normal
+1317, Gromdain, Vatermont, 2, 80, 65, No Precipitation, 25, 30, Prevailing Direction, 80, 65, Normal
+1318, Tserdain, Vatermont, 3, 85, 70, No Precipitation, 28, 15, From Tropics, 90, 70, Normal
+1319, Moldain, Vatermont, 4, 80, 60, Trace Rain (<1/8 inch), 25, 0, Indescernable, 85, 60, Normal
+1320, Nytdain, Vatermont, 5, 75, 55, No Precipitation, 34, 0, Indescernable, 80, 55, Particle Storm
+1321, Loshdain, Vatermont, 6, 75, 55, No Precipitation, 39, 15, Prevailing Direction, 80, 55, Normal
+1322, Soladain, Vatermont, 7, 75, 55, No Precipitation, 37, 30, Prevailing Direction, 75, 55, Normal
+1323, Lunadain, Vatermont, 8, 75, 55, No Precipitation, 32, 40, Prevailing Direction, 75, 55, Normal
+1324, Gromdain, Vatermont, 9, 80, 60, No Precipitation, 31, 30, Prevailing Direction, 80, 60, Normal
+1325, Tserdain, Vatermont, 10, 75, 55, No Precipitation, 24, 40, Prevailing Direction, 75, 55, Normal
+1326, Moldain, Vatermont, 11, 80, 60, No Precipitation, 22, 40, Prevailing Direction, 80, 60, Normal
+1327, Nytdain, Vatermont, 12, 75, 55, No Precipitation, 30, 45, Prevailing Direction, 75, 55, Normal
+1328, Loshdain, Vatermont, 13, 75, 55, No Precipitation, 40, 45, From Arctic, 75, 55, Normal
+1329, Soladain, Vatermont, 14, 80, 65, No Precipitation, 29, 30, Prevailing Direction, 80, 65, Normal
+1330, Lunadain, Vatermont, 15, 80, 60, Trace Rain (<1/8 inch), 24, 40, Prevailing Direction, 80, 60, Normal
+1331, Gromdain, Vatermont, 16, 75, 55, No Precipitation, 23, 45, Prevailing Direction, 75, 55, Normal
+1332, Tserdain, Vatermont, 17, 80, 60, No Precipitation, 31, 35, Prevailing Direction, 80, 60, Normal
+1333, Moldain, Vatermont, 18, 75, 55, No Precipitation, 31, 45, Prevailing Direction, 75, 55, Normal
+1334, Nytdain, Vatermont, 19, 85, 65, No Precipitation, 37, 0, Indescernable, 90, 65, Drought
+1335, Loshdain, Vatermont, 20, 85, 70, No Precipitation, 31, 0, Indescernable, 90, 70, Drought
+1336, Soladain, Vatermont, 21, 85, 70, No Precipitation, 30, 0, Indescernable, 90, 70, Drought
+1337, Lunadain, Vatermont, 22, 90, 75, No Precipitation, 30, 0, Indescernable, 95, 80, Drought
+1338, Gromdain, Vatermont, 23, 90, 75, No Precipitation, 40, 0, Indescernable, 95, 80, Drought
+1339, Tserdain, Vatermont, 24, 95, 75, No Precipitation, 36, 0, Indescernable, 105, 80, Drought
+1340, Moldain, Vatermont, 25, 90, 75, No Precipitation, 29, 10, Prevailing Direction, 95, 80, Drought
+1341, Nytdain, Vatermont, 26, 90, 70, No Precipitation, 24, 20, Prevailing Direction, 95, 70, Drought
+1342, Loshdain, Vatermont, 27, 85, 70, No Precipitation, 21, 30, Prevailing Direction, 90, 70, Drought
+1343, Soladain, Vatermont, 28, 90, 75, Trace Rain (<1/8 inch), 31, 20, From Tropics, 95, 75, Normal
+1344, Lunadain, Thaumont, 1, 85, 70, No Precipitation, 25, 35, From Arctic, 90, 70, Normal
+1345, Gromdain, Thaumont, 2, 80, 60, No Precipitation, 28, 0, Indescernable, 85, 60, Particle Storm
+1346, Tserdain, Thaumont, 3, 85, 65, No Precipitation, 24, 0, Indescernable, 90, 65, Normal
+1347, Moldain, Thaumont, 4, 80, 60, No Precipitation, 23, 15, From Arctic, 85, 60, Normal
+1348, Nytdain, Thaumont, 5, 80, 60, No Precipitation, 27, 15, Prevailing Direction, 85, 60, Normal
+1349, Loshdain, Thaumont, 6, 75, 55, No Precipitation, 27, 30, Prevailing Direction, 75, 55, Normal
+1350, Soladain, Thaumont, 7, 80, 60, No Precipitation, 37, 30, Prevailing Direction, 80, 60, Normal
+1351, Lunadain, Thaumont, 8, 80, 60, No Precipitation, 28, 30, Prevailing Direction, 80, 60, Normal
+1352, Gromdain, Thaumont, 9, 75, 55, No Precipitation, 34, 40, From Arctic, 75, 55, Normal
+1353, Tserdain, Thaumont, 10, 80, 60, No Precipitation, 29, 40, Prevailing Direction, 80, 60, Normal
+1354, Moldain, Thaumont, 11, 85, 65, No Precipitation, 29, 30, From Tropics, 90, 65, Normal
+1355, Nytdain, Thaumont, 12, 85, 65, No Precipitation, 28, 30, Prevailing Direction, 90, 65, Normal
+1356, Loshdain, Thaumont, 13, 85, 70, No Precipitation, 26, 20, Prevailing Direction, 90, 70, Normal
+1357, Soladain, Thaumont, 14, 80, 65, No Precipitation, 22, 30, From Arctic, 80, 65, Normal
+1358, Lunadain, Thaumont, 15, 85, 65, No Precipitation, 21, 20, Prevailing Direction, 90, 65, Normal
+1359, Gromdain, Thaumont, 16, 90, 70, Trace Rain (<1/8 inch), 33, 10, From Tropics, 95, 70, Normal
+1360, Tserdain, Thaumont, 17, 85, 70, No Precipitation, 30, 20, Prevailing Direction, 90, 70, Normal
+1361, Moldain, Thaumont, 18, 85, 70, No Precipitation, 40, 20, Prevailing Direction, 90, 70, Normal
+1362, Nytdain, Thaumont, 19, 85, 70, No Precipitation, 21, 20, Prevailing Direction, 90, 70, Normal
+1363, Loshdain, Thaumont, 20, 90, 75, Trace Rain (<1/8 inch), 37, 10, From Tropics, 95, 80, Normal
+1364, Soladain, Thaumont, 21, 90, 75, No Precipitation, 37, 10, Prevailing Direction, 95, 80, Normal
+1365, Lunadain, Thaumont, 22, 90, 70, No Precipitation, 28, 20, Prevailing Direction, 95, 70, Normal
+1366, Gromdain, Thaumont, 23, 90, 75, No Precipitation, 25, 5, Prevailing Direction, 95, 80, Normal
+1367, Tserdain, Thaumont, 24, 85, 70, No Precipitation, 31, 20, From Arctic, 90, 70, Normal
+1368, Moldain, Thaumont, 25, 90, 75, Trace Rain (<1/8 inch), 29, 10, From Tropics, 95, 80, Normal
+1369, Nytdain, Thaumont, 26, 100, 80, No Precipitation, 21, 0, Indescernable, 110, 85, Normal
+1370, Loshdain, Thaumont, 27, 95, 75, No Precipitation, 27, 0, Indescernable, 105, 80, Normal
+1371, Soladain, Thaumont, 28, 90, 70, No Precipitation, 25, 10, From Arctic, 95, 70, Normal
+1372, Lunadain, Flaurmont, 1, 90, 70, No Precipitation, 22, 10, Prevailing Direction, 95, 70, Normal
+1373, Gromdain, Flaurmont, 2, 85, 70, Trace Rain (<1/8 inch), 30, 20, Prevailing Direction, 90, 70, Normal
+1374, Tserdain, Flaurmont, 3, 90, 70, No Precipitation, 31, 5, Prevailing Direction, 95, 70, Normal
+1375, Moldain, Flaurmont, 4, 90, 75, No Precipitation, 23, 0, Indescernable, 95, 80, Normal
+1376, Nytdain, Flaurmont, 5, 90, 75, No Precipitation, 40, 0, Indescernable, 95, 80, Normal
+1377, Loshdain, Flaurmont, 6, 90, 70, No Precipitation, 40, 15, Prevailing Direction, 95, 70, Normal
+1378, Soladain, Flaurmont, 7, 85, 70, No Precipitation, 34, 30, Prevailing Direction, 90, 70, Normal
+1379, Lunadain, Flaurmont, 8, 85, 65, No Precipitation, 28, 40, Prevailing Direction, 85, 65, Normal
+1380, Gromdain, Flaurmont, 9, 80, 65, No Precipitation, 24, 45, Prevailing Direction, 80, 65, Normal
+1381, Tserdain, Flaurmont, 10, 80, 60, No Precipitation, 23, 45, From Arctic, 80, 60, Normal
+1382, Moldain, Flaurmont, 11, 80, 65, No Precipitation, 33, 45, Prevailing Direction, 80, 65, Normal
+1383, Nytdain, Flaurmont, 12, 80, 60, No Precipitation, 25, 45, Prevailing Direction, 80, 60, Normal
+1384, Loshdain, Flaurmont, 13, 80, 60, Trace Rain (<1/8 inch), 35, 45, Prevailing Direction, 80, 60, Normal
+1385, Soladain, Flaurmont, 14, 80, 65, No Precipitation, 30, 45, Prevailing Direction, 80, 65, Normal
+1386, Lunadain, Flaurmont, 15, 85, 70, Light Rain (<1/2 inch), 40, 35, From Tropics, 90, 70, Normal
+1387, Gromdain, Flaurmont, 16, 85, 65, No Precipitation, 21, 45, Prevailing Direction, 85, 65, Normal
+1388, Tserdain, Flaurmont, 17, 85, 70, No Precipitation, 34, 35, Prevailing Direction, 90, 70, Normal
+1389, Moldain, Flaurmont, 18, 90, 70, No Precipitation, 33, 20, Prevailing Direction, 95, 70, Normal
+1390, Nytdain, Flaurmont, 19, 90, 75, Trace Rain (<1/8 inch), 39, 10, Prevailing Direction, 95, 80, Normal
+1391, Loshdain, Flaurmont, 20, 95, 75, No Precipitation, 37, 0, Indescernable, 105, 80, Normal
+1392, Soladain, Flaurmont, 21, 105, 80, No Precipitation, 40, 0, Indescernable, 115, 85, Normal
+1393, Lunadain, Flaurmont, 22, 105, 80, No Precipitation, 22, 0, Indescernable, 115, 85, Normal
+1394, Gromdain, Flaurmont, 23, 105, 80, Trace Rain (<1/8 inch), 33, 0, Indescernable, 115, 85, Normal
+1395, Tserdain, Flaurmont, 24, 105, 80, No Precipitation, 27, 0, Indescernable, 115, 85, Normal
+1396, Moldain, Flaurmont, 25, 105, 80, Trace Rain (<1/8 inch), 31, 0, Indescernable, 115, 85, Normal
+1397, Nytdain, Flaurmont, 26, 105, 80, Light Rain (<1/2 inch), 31, 0, Indescernable, 115, 85, Normal
+1398, Loshdain, Flaurmont, 27, 100, 80, No Precipitation, 32, 0, Indescernable, 110, 85, Normal
+1399, Soladain, Flaurmont, 28, 105, 80, No Precipitation, 28, 0, Indescernable, 115, 85, Normal
+1400, Lunadain, Yarthmont, 1, 115, 85, No Precipitation, 35, 0, Indescernable, 125, 90, Normal
+1401, Gromdain, Yarthmont, 2, 105, 80, No Precipitation, 29, 0, Indescernable, 115, 85, Normal
+1402, Tserdain, Yarthmont, 3, 100, 80, Trace Rain (<1/8 inch), 37, 10, Prevailing Direction, 110, 85, Normal
+1403, Moldain, Yarthmont, 4, 105, 80, No Precipitation, 34, 0, Indescernable, 115, 85, Normal
+1404, Nytdain, Yarthmont, 5, 115, 85, No Precipitation, 22, 0, Indescernable, 125, 90, Normal
+1405, Loshdain, Yarthmont, 6, 115, 85, No Precipitation, 35, 0, Indescernable, 125, 90, Normal
+1406, Soladain, Yarthmont, 7, 115, 85, No Precipitation, 26, 0, Indescernable, 125, 90, Normal
+1407, Lunadain, Yarthmont, 8, 115, 85, No Precipitation, 34, 0, Indescernable, 125, 90, Normal
+1408, Gromdain, Yarthmont, 9, 105, 80, No Precipitation, 21, 10, Prevailing Direction, 115, 85, Normal
+1409, Tserdain, Yarthmont, 10, 105, 80, No Precipitation, 26, 10, Prevailing Direction, 115, 85, Normal
+1410, Moldain, Yarthmont, 11, 115, 85, No Precipitation, 31, 0, Indescernable, 125, 90, Normal
+1411, Nytdain, Yarthmont, 12, 115, 85, No Precipitation, 39, 0, Indescernable, 125, 90, Normal
+1412, Loshdain, Yarthmont, 13, 105, 80, No Precipitation, 29, 0, Indescernable, 115, 85, Normal
+1413, Soladain, Yarthmont, 14, 100, 80, No Precipitation, 23, 15, Prevailing Direction, 110, 85, Normal
+1414, Lunadain, Yarthmont, 15, 100, 80, No Precipitation, 30, 15, Prevailing Direction, 110, 85, Normal
+1415, Gromdain, Yarthmont, 16, 115, 85, No Precipitation, 29, 5, From Tropics, 125, 90, Normal
+1416, Tserdain, Yarthmont, 17, 115, 85, No Precipitation, 28, 0, Indescernable, 125, 90, Normal
+1417, Moldain, Yarthmont, 18, 105, 80, No Precipitation, 29, 0, Indescernable, 115, 85, Normal
+1418, Nytdain, Yarthmont, 19, 100, 80, No Precipitation, 37, 15, Prevailing Direction, 110, 85, Normal
+1419, Loshdain, Yarthmont, 20, 90, 75, No Precipitation, 36, 25, From Arctic, 95, 75, Normal
+1420, Soladain, Yarthmont, 21, 95, 75, No Precipitation, 23, 15, Prevailing Direction, 105, 80, Normal
+1421, Lunadain, Yarthmont, 22, 100, 80, No Precipitation, 30, 0, Indescernable, 110, 85, Normal
+1422, Gromdain, Yarthmont, 23, 95, 75, No Precipitation, 36, 10, Prevailing Direction, 105, 80, Normal
+1423, Tserdain, Yarthmont, 24, 95, 75, No Precipitation, 33, 10, Prevailing Direction, 105, 80, Normal
+1424, Moldain, Yarthmont, 25, 90, 70, No Precipitation, 32, 20, From Arctic, 95, 70, Normal
+1425, Nytdain, Yarthmont, 26, 85, 70, No Precipitation, 36, 30, From Arctic, 90, 70, Normal
+1426, Loshdain, Yarthmont, 27, 85, 70, No Precipitation, 32, 45, Prevailing Direction, 85, 70, Normal
+1427, Soladain, Yarthmont, 28, 90, 70, No Precipitation, 26, 45, Prevailing Direction, 90, 70, Normal
+1428, Lunadain, Klairmont, 1, 90, 75, Trace Rain (<1/8 inch), 27, 45, Prevailing Direction, 90, 75, Normal
+1429, Gromdain, Klairmont, 2, 95, 75, No Precipitation, 33, 45, Prevailing Direction, 95, 75, Normal
+1430, Tserdain, Klairmont, 3, 95, 75, No Precipitation, 37, 45, Prevailing Direction, 95, 75, Normal
+1431, Moldain, Klairmont, 4, 90, 75, No Precipitation, 22, 45, Prevailing Direction, 90, 75, Normal
+1432, Nytdain, Klairmont, 5, 90, 75, No Precipitation, 38, 45, Prevailing Direction, 90, 75, Normal
+1433, Loshdain, Klairmont, 6, 95, 75, No Precipitation, 40, 45, Prevailing Direction, 95, 75, Normal
+1434, Soladain, Klairmont, 7, 100, 80, No Precipitation, 22, 35, Prevailing Direction, 105, 80, Normal
+1435, Lunadain, Klairmont, 8, 90, 75, No Precipitation, 31, 45, From Arctic, 90, 75, Normal
+1436, Gromdain, Klairmont, 9, 90, 75, No Precipitation, 36, 45, From Arctic, 90, 75, Normal
+1437, Tserdain, Klairmont, 10, 100, 80, No Precipitation, 25, 30, Prevailing Direction, 105, 80, Normal
+1438, Moldain, Klairmont, 11, 100, 80, No Precipitation, 25, 30, Prevailing Direction, 105, 80, Normal
+1439, Nytdain, Klairmont, 12, 105, 80, No Precipitation, 26, 20, Prevailing Direction, 110, 80, Normal
+1440, Loshdain, Klairmont, 13, 100, 80, No Precipitation, 22, 30, Prevailing Direction, 105, 80, Normal
+1441, Soladain, Klairmont, 14, 95, 75, No Precipitation, 38, 45, Prevailing Direction, 95, 75, Normal
+1442, Lunadain, Klairmont, 15, 115, 85, Trace Rain (<1/8 inch), 25, 0, Indescernable, 125, 90, Normal
+1443, Gromdain, Klairmont, 16, 100, 80, No Precipitation, 37, 15, Prevailing Direction, 110, 85, Normal
+1444, Tserdain, Klairmont, 17, 90, 75, No Precipitation, 29, 25, From Arctic, 95, 75, Normal
+1445, Moldain, Klairmont, 18, 95, 75, No Precipitation, 39, 25, Prevailing Direction, 100, 75, Normal
+1446, Nytdain, Klairmont, 19, 100, 80, No Precipitation, 21, 10, Prevailing Direction, 110, 85, Normal
+1447, Loshdain, Klairmont, 20, 105, 80, No Precipitation, 39, 0, Indescernable, 115, 85, Normal
+1448, Soladain, Klairmont, 21, 100, 80, No Precipitation, 26, 15, Prevailing Direction, 110, 85, Normal
+1449, Lunadain, Klairmont, 22, 105, 80, No Precipitation, 28, 5, Prevailing Direction, 115, 85, Normal
+1450, Gromdain, Klairmont, 23, 105, 80, No Precipitation, 37, 5, Prevailing Direction, 115, 85, Normal
+1451, Tserdain, Klairmont, 24, 105, 80, No Precipitation, 28, 5, Prevailing Direction, 115, 85, Normal
+1452, Moldain, Klairmont, 25, 100, 80, No Precipitation, 37, 15, Prevailing Direction, 110, 85, Normal
+1453, Nytdain, Klairmont, 26, 115, 85, No Precipitation, 33, 0, Indescernable, 125, 90, Normal
+1454, Loshdain, Klairmont, 27, 105, 80, No Precipitation, 28, 0, Indescernable, 115, 85, Normal
+1455, Soladain, Klairmont, 28, 95, 75, No Precipitation, 26, 15, From Arctic, 105, 80, Normal
+1456, Lunadain, Felmont, 1, 90, 75, No Precipitation, 36, 25, From Arctic, 95, 75, Normal
+1457, Gromdain, Felmont, 2, 90, 75, No Precipitation, 33, 40, From Arctic, 90, 75, Normal
+1458, Tserdain, Felmont, 3, 90, 75, No Precipitation, 34, 45, From Arctic, 90, 75, Normal
+1459, Moldain, Felmont, 4, 90, 75, No Precipitation, 25, 45, Prevailing Direction, 90, 75, Normal
+1460, Nytdain, Felmont, 5, 95, 75, No Precipitation, 24, 45, Prevailing Direction, 95, 75, Normal
+1461, Loshdain, Felmont, 6, 95, 75, No Precipitation, 29, 45, Prevailing Direction, 95, 75, Normal
+1462, Soladain, Felmont, 7, 90, 75, No Precipitation, 21, 45, Prevailing Direction, 90, 75, Normal
+1463, Lunadain, Felmont, 8, 95, 75, Trace Rain (<1/8 inch), 35, 35, Prevailing Direction, 100, 75, Normal
+1464, Gromdain, Felmont, 9, 100, 80, No Precipitation, 38, 25, Prevailing Direction, 105, 80, Normal
+1465, Tserdain, Felmont, 10, 100, 80, No Precipitation, 40, 25, Prevailing Direction, 105, 80, Normal
+1466, Moldain, Felmont, 11, 95, 75, No Precipitation, 26, 40, Prevailing Direction, 95, 75, Normal
+1467, Nytdain, Felmont, 12, 115, 85, No Precipitation, 39, 0, Indescernable, 125, 90, Drought
+1468, Loshdain, Felmont, 13, 105, 80, No Precipitation, 32, 0, Indescernable, 115, 85, Drought
+1469, Soladain, Felmont, 14, 95, 75, No Precipitation, 35, 15, From Arctic, 105, 80, Drought
+1470, Lunadain, Felmont, 15, 90, 75, No Precipitation, 35, 30, Prevailing Direction, 95, 75, Drought
+1471, Gromdain, Felmont, 16, 95, 75, No Precipitation, 33, 30, Prevailing Direction, 100, 75, Drought
+1472, Tserdain, Felmont, 17, 90, 75, No Precipitation, 32, 0, Indescernable, 95, 80, Drought
+1473, Moldain, Felmont, 18, 100, 80, No Precipitation, 30, 0, Indescernable, 110, 85, Normal
+1474, Nytdain, Felmont, 19, 115, 85, Trace Rain (<1/8 inch), 30, 0, Indescernable, 125, 90, Normal
+1475, Loshdain, Felmont, 20, 115, 85, No Precipitation, 31, 0, Indescernable, 125, 90, Normal
+1476, Soladain, Felmont, 21, 100, 80, No Precipitation, 29, 15, Prevailing Direction, 110, 85, Normal
+1477, Lunadain, Felmont, 22, 95, 75, No Precipitation, 25, 25, Prevailing Direction, 100, 75, Normal
+1478, Gromdain, Felmont, 23, 100, 80, Trace Rain (<1/8 inch), 24, 15, Prevailing Direction, 110, 85, Normal
+1479, Tserdain, Felmont, 24, 105, 80, No Precipitation, 24, 5, Prevailing Direction, 115, 85, Normal
+1480, Moldain, Felmont, 25, 95, 75, No Precipitation, 23, 20, From Arctic, 100, 75, Normal
+1481, Nytdain, Felmont, 26, 90, 75, Trace Rain (<1/8 inch), 38, 65, Prevailing, 90, 75, Gale
+1482, Loshdain, Felmont, 27, 90, 75, No Precipitation, 22, 45, From Arctic, 90, 75, Normal
+1483, Soladain, Felmont, 28, 90, 75, No Precipitation, 36, 45, From Arctic, 90, 75, Normal
+1484, Lunadain, Fyrmont, 1, 90, 70, No Precipitation, 27, 45, From Arctic, 90, 70, Normal
+1485, Gromdain, Fyrmont, 2, 90, 70, Trace Rain (<1/8 inch), 37, 45, Prevailing Direction, 90, 70, Normal
+1486, Tserdain, Fyrmont, 3, 95, 75, Trace Rain (<1/8 inch), 21, 35, From Tropics, 100, 75, Normal
+1487, Moldain, Fyrmont, 4, 105, 80, No Precipitation, 30, 20, From Tropics, 110, 80, Normal
+1488, Nytdain, Fyrmont, 5, 100, 80, Trace Rain (<1/8 inch), 39, 30, Prevailing Direction, 105, 80, Normal
+1489, Loshdain, Fyrmont, 6, 95, 75, No Precipitation, 23, 45, Prevailing Direction, 95, 75, Normal
+1490, Soladain, Fyrmont, 7, 100, 80, Trace Rain (<1/8 inch), 34, 35, Prevailing Direction, 105, 80, Normal
+1491, Lunadain, Fyrmont, 8, 105, 80, Trace Rain (<1/8 inch), 24, 25, Prevailing Direction, 110, 80, Normal
+1492, Gromdain, Fyrmont, 9, 95, 75, No Precipitation, 24, 40, Prevailing Direction, 95, 75, Normal
+1493, Tserdain, Fyrmont, 10, 100, 80, No Precipitation, 29, 25, Prevailing Direction, 105, 80, Normal
+1494, Moldain, Fyrmont, 11, 105, 80, Trace Rain (<1/8 inch), 34, 15, From Tropics, 115, 85, Normal
+1495, Nytdain, Fyrmont, 12, 105, 80, Light Rain (<1/2 inch), 21, 5, Prevailing Direction, 115, 85, Normal
+1496, Loshdain, Fyrmont, 13, 105, 80, Light Rain (<1/2 inch), 40, 0, Indescernable, 115, 85, Normal
+1497, Soladain, Fyrmont, 14, 105, 80, No Precipitation, 22, 0, Indescernable, 115, 85, Normal
+1498, Lunadain, Fyrmont, 15, 95, 75, No Precipitation, 21, 15, Prevailing Direction, 105, 80, Normal
+1499, Gromdain, Fyrmont, 16, 95, 75, No Precipitation, 25, 15, Prevailing Direction, 105, 80, Normal
+1500, Tserdain, Fyrmont, 17, 100, 80, No Precipitation, 26, 5, Prevailing Direction, 110, 85, Normal
+1501, Moldain, Fyrmont, 18, 100, 80, No Precipitation, 36, 5, Prevailing Direction, 110, 85, Normal
+1502, Nytdain, Fyrmont, 19, 90, 75, No Precipitation, 31, 20, From Arctic, 95, 75, Normal
+1503, Loshdain, Fyrmont, 20, 95, 75, No Precipitation, 36, 10, Prevailing Direction, 105, 80, Normal
+1504, Soladain, Fyrmont, 21, 90, 75, No Precipitation, 37, 20, Prevailing Direction, 95, 75, Normal
+1505, Lunadain, Fyrmont, 22, 90, 70, No Precipitation, 40, 35, Prevailing Direction, 95, 70, Normal
+1506, Gromdain, Fyrmont, 23, 95, 75, No Precipitation, 27, 25, From Tropics, 100, 75, Normal
+1507, Tserdain, Fyrmont, 24, 95, 75, No Precipitation, 40, 25, Prevailing Direction, 100, 75, Normal
+1508, Moldain, Fyrmont, 25, 100, 80, No Precipitation, 35, 10, Prevailing Direction, 110, 85, Normal
+1509, Nytdain, Fyrmont, 26, 100, 80, No Precipitation, 33, 10, Prevailing Direction, 110, 85, Normal
+1510, Loshdain, Fyrmont, 27, 95, 75, No Precipitation, 38, 25, Prevailing Direction, 100, 75, Normal
+1511, Soladain, Fyrmont, 28, 95, 75, No Precipitation, 33, 25, Prevailing Direction, 100, 75, Normal
+1512, Lunadain, Ambyrmont, 1, 90, 75, No Precipitation, 26, 40, Prevailing Direction, 90, 75, Normal
+1513, Gromdain, Ambyrmont, 2, 90, 70, No Precipitation, 24, 45, Prevailing Direction, 90, 70, Normal
+1514, Tserdain, Ambyrmont, 3, 90, 70, Trace Rain (<1/8 inch), 30, 45, Prevailing Direction, 90, 70, Normal
+1515, Moldain, Ambyrmont, 4, 100, 80, No Precipitation, 27, 30, From Tropics, 105, 80, Normal
+1516, Nytdain, Ambyrmont, 5, 100, 80, Trace Rain (<1/8 inch), 34, 20, From Tropics, 105, 80, Normal
+1517, Loshdain, Ambyrmont, 6, 100, 80, Trace Rain (<1/8 inch), 23, 10, From Tropics, 110, 85, Normal
+1518, Soladain, Ambyrmont, 7, 90, 75, No Precipitation, 39, 25, Prevailing Direction, 95, 75, Normal
+1519, Lunadain, Ambyrmont, 8, 95, 75, No Precipitation, 40, 10, Prevailing Direction, 105, 80, Normal
+1520, Gromdain, Ambyrmont, 9, 100, 80, Trace Rain (<1/8 inch), 27, 0, Indescernable, 110, 85, Normal
+1521, Tserdain, Ambyrmont, 10, 90, 75, No Precipitation, 24, 10, From Arctic, 95, 80, Normal
+1522, Moldain, Ambyrmont, 11, 90, 75, No Precipitation, 31, 10, Prevailing Direction, 95, 80, Normal
+1523, Nytdain, Ambyrmont, 12, 90, 70, No Precipitation, 36, 20, From Arctic, 95, 70, Normal
+1524, Loshdain, Ambyrmont, 13, 90, 70, Trace Rain (<1/8 inch), 35, 30, From Arctic, 95, 70, Normal
+1525, Soladain, Ambyrmont, 14, 95, 75, No Precipitation, 25, 15, Prevailing Direction, 105, 80, Normal
+1526, Lunadain, Ambyrmont, 15, 90, 75, No Precipitation, 33, 25, Prevailing Direction, 95, 75, Normal
+1527, Gromdain, Ambyrmont, 16, 90, 75, No Precipitation, 25, 25, Prevailing Direction, 95, 75, Normal
+1528, Tserdain, Ambyrmont, 17, 90, 70, No Precipitation, 30, 35, Prevailing Direction, 95, 70, Normal
+1529, Moldain, Ambyrmont, 18, 90, 70, Trace Rain (<1/8 inch), 25, 45, Prevailing Direction, 90, 70, Normal
+1530, Nytdain, Ambyrmont, 19, 95, 75, No Precipitation, 23, 35, From Tropics, 100, 75, Normal
+1531, Loshdain, Ambyrmont, 20, 100, 80, No Precipitation, 38, 20, Prevailing Direction, 105, 80, Normal
+1532, Soladain, Ambyrmont, 21, 100, 80, No Precipitation, 36, 10, Prevailing Direction, 110, 85, Normal
+1533, Lunadain, Ambyrmont, 22, 100, 80, No Precipitation, 35, 0, Indescernable, 110, 85, Normal
+1534, Gromdain, Ambyrmont, 23, 100, 80, No Precipitation, 37, 0, Indescernable, 110, 85, Normal
+1535, Tserdain, Ambyrmont, 24, 95, 75, No Precipitation, 38, 0, Indescernable, 105, 80, Normal
+1536, Moldain, Ambyrmont, 25, 90, 75, No Precipitation, 28, 10, Prevailing Direction, 95, 80, Normal
+1537, Nytdain, Ambyrmont, 26, 90, 70, No Precipitation, 27, 20, Prevailing Direction, 95, 70, Normal
+1538, Loshdain, Ambyrmont, 27, 90, 70, No Precipitation, 25, 30, Prevailing Direction, 95, 70, Normal
+1539, Soladain, Ambyrmont, 28, 90, 70, No Precipitation, 25, 45, From Arctic, 90, 70, Normal
+1540, Lunadain, Sviftmont, 1, 90, 70, No Precipitation, 22, 45, Prevailing Direction, 90, 70, Normal
+1541, Gromdain, Sviftmont, 2, 90, 70, No Precipitation, 32, 45, Prevailing Direction, 90, 70, Normal
+1542, Tserdain, Sviftmont, 3, 90, 75, No Precipitation, 27, 35, Prevailing Direction, 95, 75, Normal
+1543, Moldain, Sviftmont, 4, 90, 70, No Precipitation, 33, 45, Prevailing Direction, 90, 70, Normal
+1544, Nytdain, Sviftmont, 5, 90, 75, No Precipitation, 33, 30, Prevailing Direction, 95, 75, Normal
+1545, Loshdain, Sviftmont, 6, 95, 75, No Precipitation, 26, 20, Prevailing Direction, 100, 75, Normal
+1546, Soladain, Sviftmont, 7, 90, 75, No Precipitation, 25, 20, Prevailing Direction, 95, 75, Normal
+1547, Lunadain, Sviftmont, 8, 90, 75, No Precipitation, 34, 20, Prevailing Direction, 95, 75, Normal
+1548, Gromdain, Sviftmont, 9, 95, 75, No Precipitation, 40, 5, Prevailing Direction, 105, 80, Normal
+1549, Tserdain, Sviftmont, 10, 95, 75, No Precipitation, 28, 0, Indescernable, 105, 80, Normal
+1550, Moldain, Sviftmont, 11, 95, 75, No Precipitation, 29, 0, Indescernable, 105, 80, Normal
+1551, Nytdain, Sviftmont, 12, 95, 75, No Precipitation, 23, 0, Indescernable, 105, 80, Normal
+1552, Loshdain, Sviftmont, 13, 90, 70, No Precipitation, 29, 10, From Arctic, 95, 70, Normal
+1553, Soladain, Sviftmont, 14, 85, 70, No Precipitation, 33, 25, Prevailing Direction, 90, 70, Normal
+1554, Lunadain, Sviftmont, 15, 80, 65, No Precipitation, 35, 35, From Arctic, 80, 65, Normal
+1555, Gromdain, Sviftmont, 16, 85, 65, No Precipitation, 33, 25, Prevailing Direction, 90, 65, Normal
+1556, Tserdain, Sviftmont, 17, 85, 70, No Precipitation, 26, 10, Prevailing Direction, 90, 70, Normal
+1557, Moldain, Sviftmont, 18, 90, 70, No Precipitation, 22, 0, Indescernable, 95, 70, Normal
+1558, Nytdain, Sviftmont, 19, 90, 75, No Precipitation, 31, 0, Indescernable, 95, 80, Normal
+1559, Loshdain, Sviftmont, 20, 95, 75, No Precipitation, 30, 0, Indescernable, 105, 80, Normal
+1560, Soladain, Sviftmont, 21, 95, 75, Trace Rain (<1/8 inch), 26, 0, Indescernable, 105, 80, Normal
+1561, Lunadain, Sviftmont, 22, 95, 75, No Precipitation, 36, 0, Indescernable, 105, 80, Normal
+1562, Gromdain, Sviftmont, 23, 90, 70, No Precipitation, 35, 10, From Arctic, 95, 70, Normal
+1563, Tserdain, Sviftmont, 24, 90, 70, No Precipitation, 26, 10, Prevailing Direction, 95, 70, Normal
+1564, Moldain, Sviftmont, 25, 95, 75, No Precipitation, 29, 0, Indescernable, 105, 80, Normal
+1565, Nytdain, Sviftmont, 26, 90, 70, No Precipitation, 35, 15, Prevailing Direction, 95, 70, Normal
+1566, Loshdain, Sviftmont, 27, 85, 70, No Precipitation, 27, 30, Prevailing Direction, 90, 70, Normal
+1567, Soladain, Sviftmont, 28, 85, 70, No Precipitation, 28, 30, Prevailing Direction, 90, 70, Normal
+1568, Lunadain, Eirmont, 1, 90, 70, No Precipitation, 34, 15, Prevailing Direction, 95, 70, Normal
+1569, Gromdain, Eirmont, 2, 90, 75, No Precipitation, 35, 5, Prevailing Direction, 95, 80, Normal
+1570, Tserdain, Eirmont, 3, 85, 70, No Precipitation, 25, 20, Prevailing Direction, 90, 70, Normal
+1571, Moldain, Eirmont, 4, 85, 70, No Precipitation, 32, 20, Prevailing Direction, 90, 70, Normal
+1572, Nytdain, Eirmont, 5, 85, 65, No Precipitation, 37, 35, Prevailing Direction, 90, 65, Normal
+1573, Loshdain, Eirmont, 6, 90, 70, No Precipitation, 31, 25, From Tropics, 95, 70, Normal
+1574, Soladain, Eirmont, 7, 90, 75, No Precipitation, 27, 10, From Tropics, 95, 80, Normal
+1575, Lunadain, Eirmont, 8, 90, 75, Trace Rain (<1/8 inch), 31, 0, Indescernable, 95, 80, Normal
+1576, Gromdain, Eirmont, 9, 90, 70, No Precipitation, 28, 10, Prevailing Direction, 95, 70, Normal
+1577, Tserdain, Eirmont, 10, 90, 75, No Precipitation, 35, 0, Indescernable, 95, 80, Normal
+1578, Moldain, Eirmont, 11, 90, 70, No Precipitation, 21, 10, Prevailing Direction, 95, 70, Normal
+1579, Nytdain, Eirmont, 12, 85, 70, No Precipitation, 21, 25, Prevailing Direction, 90, 70, Normal
+1580, Loshdain, Eirmont, 13, 80, 60, Trace Rain (<1/8 inch), 32, 0, Indescernable, 85, 60, Normal
+1581, Soladain, Eirmont, 14, 80, 60, No Precipitation, 40, 15, Prevailing Direction, 85, 60, Normal
+1582, Lunadain, Eirmont, 15, 85, 65, No Precipitation, 36, 0, Indescernable, 90, 65, Normal
+1583, Gromdain, Eirmont, 16, 90, 70, No Precipitation, 26, 0, Indescernable, 95, 70, Normal
+1584, Tserdain, Eirmont, 17, 90, 75, No Precipitation, 25, 0, Indescernable, 95, 80, Normal
+1585, Moldain, Eirmont, 18, 90, 70, No Precipitation, 32, 0, Indescernable, 95, 70, Normal
+1586, Nytdain, Eirmont, 19, 85, 70, No Precipitation, 34, 10, Prevailing Direction, 90, 70, Normal
+1587, Loshdain, Eirmont, 20, 90, 75, No Precipitation, 22, 0, Indescernable, 95, 80, Normal
+1588, Soladain, Eirmont, 21, 90, 75, No Precipitation, 35, 0, Indescernable, 95, 80, Normal
+1589, Lunadain, Eirmont, 22, 90, 75, No Precipitation, 35, 0, Indescernable, 95, 80, Normal
+1590, Gromdain, Eirmont, 23, 85, 70, No Precipitation, 22, 15, Prevailing Direction, 90, 70, Normal
+1591, Tserdain, Eirmont, 24, 90, 70, No Precipitation, 26, 5, Prevailing Direction, 95, 70, Normal
+1592, Moldain, Eirmont, 25, 90, 75, No Precipitation, 33, 0, Indescernable, 95, 80, Normal
+1593, Nytdain, Eirmont, 26, 90, 70, No Precipitation, 39, 0, Indescernable, 95, 70, Normal
+1594, Loshdain, Eirmont, 27, 90, 70, No Precipitation, 37, 0, Indescernable, 95, 70, Normal
+1595, Soladain, Eirmont, 28, 90, 75, No Precipitation, 30, 0, Indescernable, 95, 80, Normal
+1596, Lunadain, Kaldmont, 1, 90, 70, Trace Rain (<1/8 inch), 38, 0, Indescernable, 95, 70, Normal
+1597, Gromdain, Kaldmont, 2, 90, 70, No Precipitation, 22, 0, Indescernable, 95, 70, Normal
+1598, Tserdain, Kaldmont, 3, 90, 70, Trace Rain (<1/8 inch), 29, 0, Indescernable, 95, 70, Normal
+1599, Moldain, Kaldmont, 4, 90, 70, No Precipitation, 26, 0, Indescernable, 95, 70, Normal
+1600, Nytdain, Kaldmont, 5, 90, 70, Light Rain (<1/2 inch), 33, 0, Indescernable, 95, 70, Normal
+1601, Loshdain, Kaldmont, 6, 80, 65, No Precipitation, 36, 15, From Arctic, 85, 65, Normal
+1602, Soladain, Kaldmont, 7, 85, 65, No Precipitation, 29, 5, Prevailing Direction, 90, 65, Normal
+1603, Lunadain, Kaldmont, 8, 90, 70, Trace Rain (<1/8 inch), 34, 0, Indescernable, 95, 70, Normal
+1604, Gromdain, Kaldmont, 9, 90, 70, Light Rain (<1/2 inch), 26, 0, Indescernable, 95, 70, Normal
+1605, Tserdain, Kaldmont, 10, 90, 70, No Precipitation, 34, 0, Indescernable, 95, 70, Normal
+1606, Moldain, Kaldmont, 11, 85, 70, No Precipitation, 28, 10, Prevailing Direction, 90, 70, Normal
+1607, Nytdain, Kaldmont, 12, 90, 70, No Precipitation, 27, 0, Indescernable, 95, 70, Normal
+1608, Loshdain, Kaldmont, 13, 90, 70, No Precipitation, 24, 0, Indescernable, 95, 70, Normal
+1609, Soladain, Kaldmont, 14, 80, 65, Light Rain (<1/2 inch), 29, 0, Indescernable, 85, 65, Normal
+1610, Lunadain, Kaldmont, 15, 80, 60, No Precipitation, 34, 15, Prevailing Direction, 85, 60, Normal
+1611, Gromdain, Kaldmont, 16, 80, 60, No Precipitation, 30, 15, Prevailing Direction, 85, 60, Normal
+1612, Tserdain, Kaldmont, 17, 75, 55, No Precipitation, 37, 25, From Arctic, 75, 55, Normal
+1613, Moldain, Kaldmont, 18, 75, 55, No Precipitation, 21, 40, Prevailing Direction, 75, 55, Normal
+1614, Nytdain, Kaldmont, 19, 80, 65, Light Rain (<1/2 inch), 38, 30, From Tropics, 80, 65, Normal
+1615, Loshdain, Kaldmont, 20, 85, 65, No Precipitation, 22, 15, Prevailing Direction, 90, 65, Normal
+1616, Soladain, Kaldmont, 21, 75, 55, No Precipitation, 34, 0, Indescernable, 80, 55, Particle Storm
+1617, Lunadain, Kaldmont, 22, 80, 65, Light Rain (<1/2 inch), 35, 0, Indescernable, 85, 65, Normal
+1618, Gromdain, Kaldmont, 23, 85, 70, No Precipitation, 31, 0, Indescernable, 90, 70, Normal
+1619, Tserdain, Kaldmont, 24, 85, 70, No Precipitation, 36, 0, Indescernable, 90, 70, Normal
+1620, Moldain, Kaldmont, 25, 90, 70, No Precipitation, 33, 0, Indescernable, 95, 70, Normal
+1621, Nytdain, Kaldmont, 26, 85, 70, No Precipitation, 23, 0, Indescernable, 90, 70, Normal
+1622, Loshdain, Kaldmont, 27, 90, 70, No Precipitation, 25, 0, Indescernable, 95, 70, Normal
+1623, Soladain, Kaldmont, 28, 85, 70, No Precipitation, 30, 10, Prevailing Direction, 90, 70, Normal
+1624, Lunadain, Nuwmont, 1, 80, 65, No Precipitation, 30, 25, Prevailing Direction, 80, 65, Normal
+1625, Gromdain, Nuwmont, 2, 85, 70, No Precipitation, 33, 10, From Tropics, 90, 70, Normal
+1626, Tserdain, Nuwmont, 3, 85, 70, Trace Rain (<1/8 inch), 21, 0, Indescernable, 90, 70, Normal
+1627, Moldain, Nuwmont, 4, 85, 70, No Precipitation, 35, 0, Indescernable, 90, 70, Normal
+1628, Nytdain, Nuwmont, 5, 85, 70, No Precipitation, 32, 0, Indescernable, 90, 70, Normal
+1629, Loshdain, Nuwmont, 6, 80, 65, No Precipitation, 28, 15, Prevailing Direction, 85, 65, Normal
+1630, Soladain, Nuwmont, 7, 85, 70, No Precipitation, 39, 5, From Tropics, 90, 70, Normal
+1631, Lunadain, Nuwmont, 8, 85, 70, No Precipitation, 28, 0, Indescernable, 90, 70, Normal
+1632, Gromdain, Nuwmont, 9, 85, 65, No Precipitation, 35, 10, Prevailing Direction, 90, 65, Normal
+1633, Tserdain, Nuwmont, 10, 85, 65, No Precipitation, 27, 10, Prevailing Direction, 90, 65, Normal
+1634, Moldain, Nuwmont, 11, 85, 70, No Precipitation, 38, 0, Indescernable, 90, 70, Normal
+1635, Nytdain, Nuwmont, 12, 85, 70, No Precipitation, 30, 0, Indescernable, 90, 70, Normal
+1636, Loshdain, Nuwmont, 13, 85, 65, No Precipitation, 23, 10, Prevailing Direction, 90, 65, Normal
+1637, Soladain, Nuwmont, 14, 85, 65, No Precipitation, 23, 10, Prevailing Direction, 90, 65, Normal
+1638, Lunadain, Nuwmont, 15, 85, 65, No Precipitation, 24, 10, Prevailing Direction, 90, 65, Normal
+1639, Gromdain, Nuwmont, 16, 85, 70, No Precipitation, 25, 0, Indescernable, 90, 70, Normal
+1640, Tserdain, Nuwmont, 17, 85, 70, No Precipitation, 40, 0, Indescernable, 90, 70, Normal
+1641, Moldain, Nuwmont, 18, 80, 60, No Precipitation, 24, 15, From Arctic, 85, 60, Normal
+1642, Nytdain, Nuwmont, 19, 80, 65, No Precipitation, 40, 0, Indescernable, 85, 65, Normal
+1643, Loshdain, Nuwmont, 20, 85, 65, No Precipitation, 29, 0, Indescernable, 90, 65, Normal
+1644, Soladain, Nuwmont, 21, 85, 65, No Precipitation, 32, 0, Indescernable, 90, 65, Normal
+1645, Lunadain, Nuwmont, 22, 80, 65, No Precipitation, 33, 15, Prevailing Direction, 85, 65, Normal
+1646, Gromdain, Nuwmont, 23, 80, 60, No Precipitation, 28, 30, Prevailing Direction, 80, 60, Normal
+1647, Tserdain, Nuwmont, 24, 80, 60, No Precipitation, 28, 30, Prevailing Direction, 80, 60, Normal
+1648, Moldain, Nuwmont, 25, 75, 55, No Precipitation, 26, 40, Prevailing Direction, 75, 55, Normal
+1649, Nytdain, Nuwmont, 26, 80, 60, No Precipitation, 27, 40, Prevailing Direction, 80, 60, Normal
+1650, Loshdain, Nuwmont, 27, 75, 55, No Precipitation, 30, 45, Prevailing Direction, 75, 55, Normal
+1651, Soladain, Nuwmont, 28, 75, 55, Trace Rain (<1/8 inch), 27, 0, Indescernable, 80, 55, Normal
+1652, Lunadain, Vatermont, 1, 85, 65, No Precipitation, 24, 0, Indescernable, 90, 65, Normal
+1653, Gromdain, Vatermont, 2, 85, 70, No Precipitation, 28, 0, Indescernable, 90, 70, Normal
+1654, Tserdain, Vatermont, 3, 85, 65, Trace Rain (<1/8 inch), 33, 10, Prevailing Direction, 90, 65, Normal
+1655, Moldain, Vatermont, 4, 80, 65, No Precipitation, 25, 25, Prevailing Direction, 80, 65, Normal
+1656, Nytdain, Vatermont, 5, 80, 65, No Precipitation, 22, 25, Prevailing Direction, 80, 65, Normal
+1657, Loshdain, Vatermont, 6, 75, 55, No Precipitation, 24, 35, From Arctic, 75, 55, Normal
+1658, Soladain, Vatermont, 7, 75, 55, No Precipitation, 27, 45, From Arctic, 75, 55, Normal
+1659, Lunadain, Vatermont, 8, 85, 65, No Precipitation, 38, 0, Indescernable, 90, 65, Drought
+1660, Gromdain, Vatermont, 9, 90, 70, No Precipitation, 24, 0, Indescernable, 95, 70, Drought
+1661, Tserdain, Vatermont, 10, 90, 70, No Precipitation, 33, 0, Indescernable, 95, 70, Drought
+1662, Moldain, Vatermont, 11, 90, 75, No Precipitation, 31, 0, Indescernable, 95, 80, Drought
+1663, Nytdain, Vatermont, 12, 90, 75, No Precipitation, 34, 0, Indescernable, 95, 80, Drought
+1664, Loshdain, Vatermont, 13, 90, 70, No Precipitation, 33, 10, Prevailing Direction, 95, 70, Drought
+1665, Soladain, Vatermont, 14, 95, 75, No Precipitation, 24, 0, Indescernable, 105, 80, Drought
+1666, Lunadain, Vatermont, 15, 95, 75, No Precipitation, 32, 0, Indescernable, 105, 80, Normal
+1667, Gromdain, Vatermont, 16, 95, 75, Trace Rain (<1/8 inch), 25, 0, Indescernable, 105, 80, Normal
+1668, Tserdain, Vatermont, 17, 90, 75, No Precipitation, 24, 10, Prevailing Direction, 95, 80, Normal
+1669, Moldain, Vatermont, 18, 95, 75, No Precipitation, 33, 0, Indescernable, 105, 80, Normal
+1670, Nytdain, Vatermont, 19, 95, 75, No Precipitation, 38, 0, Indescernable, 105, 80, Normal
+1671, Loshdain, Vatermont, 20, 95, 75, Trace Rain (<1/8 inch), 35, 0, Indescernable, 105, 80, Normal
+1672, Soladain, Vatermont, 21, 90, 75, Trace Rain (<1/8 inch), 25, 10, Prevailing Direction, 95, 80, Normal
+1673, Lunadain, Vatermont, 22, 90, 75, No Precipitation, 33, 10, Prevailing Direction, 95, 80, Normal
+1674, Gromdain, Vatermont, 23, 90, 75, No Precipitation, 37, 10, Prevailing Direction, 95, 80, Normal
+1675, Tserdain, Vatermont, 24, 100, 80, Trace Rain (<1/8 inch), 35, 0, Indescernable, 110, 85, Heatwave
+1676, Moldain, Vatermont, 25, 100, 80, No Precipitation, 29, 15, Prevailing Direction, 110, 85, Heatwave
+1677, Nytdain, Vatermont, 26, 100, 80, No Precipitation, 34, 5, Prevailing Direction, 110, 85, Heatwave
+1678, Loshdain, Vatermont, 27, 100, 80, No Precipitation, 40, 5, Prevailing Direction, 110, 85, Heatwave
+1679, Soladain, Vatermont, 28, 100, 80, Trace Rain (<1/8 inch), 36, 0, Indescernable, 110, 85, Heatwave
